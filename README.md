@@ -1,3 +1,1 @@
-Owner_jastin
-alpanshaa_
-violaazhira
+baayuhdyt
