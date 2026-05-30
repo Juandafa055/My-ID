@@ -573,7 +573,7 @@
             "steamAppId": 728880,
             "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/728880/header.jpg",
             "inject_files": [
-                "https://kyzu-proxy.ucupbaba1906.workers.dev/secure_download?appid=728880&auth_code=RYUUMANIFEST72oz"
+                "https://download1478.mediafire.com/s5whj6vbpoog9HbJP1-7CULpje0nGNGH19H4xayPJ6dmHAucdVWqanlzaa8KRufw2A6eUbimvEIYRS28jKMVc_NPPU3JoBP96yD11LHUPjcmggu412N8htAelXdkchCg1Bars_h6qJSnrha0JpzCTDtw1ZleXurLfKT7O04FDnuJHQ/jedqp2oad4h803v/overcooked2.zip"
             ],
             "bypass_files": [
                 "https://www.mediafire.com/file/jedqp2oad4h803v/overcooked2.zip/file"
