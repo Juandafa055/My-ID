@@ -491,6 +491,15 @@
                 "https://kyzu-proxy.ucupbaba1906.workers.dev/secure_download?appid=1091500&auth_code=RYUUMANIFEST72oz"
             ],
             "bypass_files": []
+        },
+        {
+            "name": "Cities: Skylines",
+            "steamAppId": 255710,
+            "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/255710/header.jpg",
+            "inject_files": [
+                "https://drive.google.com/file/d/1DODxnjlUNoxRJIfdy8zF2cWQ2ufz-dxk/view?usp=sharing"
+            ],
+            "bypass_files": []
         }
     ]
 }
