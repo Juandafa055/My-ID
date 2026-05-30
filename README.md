@@ -556,6 +556,17 @@
                 "https://kyzu-proxy.ucupbaba1906.workers.dev/secure_download?appid=1659420&auth_code=RYUUMANIFEST72oz"
             ],
             "bypass_files": []
+        },
+        {
+            "name": "Left 4 Dead 2",
+            "steamAppId": 550,
+            "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/550/header.jpg",
+            "inject_files": [
+                "https://drive.google.com/file/d/1GrdaGDmpOBdkfw93ZxTEarrOcX1-tDQy/view?usp=sharing"
+            ],
+            "bypass_files": [
+                "https://drive.google.com/file/d/1Lo8WeO5b-VrMuWxvG4CeC2sqSTwp7Lnf/view?usp=sharing"
+            ]
         }
     ]
 }
