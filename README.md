@@ -670,6 +670,15 @@
                 "https://kyzu-proxy.ucupbaba1906.workers.dev/secure_download?appid=1281590&auth_code=RYUUMANIFEST72oz"
             ],
             "bypass_files": []
+        },
+        {
+            "name": "Ready or Not",
+            "steamAppId": 1144200,
+            "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1144200/header.jpg",
+            "inject_files": [
+                "https://kyzu-proxy.ucupbaba1906.workers.dev/secure_download?appid=1144200&auth_code=RYUUMANIFEST72oz"
+            ],
+            "bypass_files": []
         }
     ]
 }
