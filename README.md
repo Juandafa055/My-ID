@@ -350,6 +350,15 @@
                 "https://drive.google.com/file/d/1FwirAYaocbVZpDPQvBZw1skbuKSWG2_P/view?usp=drivesdk"
             ],
             "bypass_files": []
+        },
+        {
+            "name": "Mafia",
+            "steamAppId": 40990,
+            "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/40990/header.jpg",
+            "inject_files": [
+                "https://kyzu-proxy.ucupbaba1906.workers.dev/secure_download?appid=40990&auth_code=RYUUMANIFEST72oz"
+            ],
+            "bypass_files": []
         }
     ]
 }
