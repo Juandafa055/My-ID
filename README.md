@@ -712,6 +712,17 @@
             "bypass_files": [
                 "https://huggingface.co/datasets/Strixgame/RedDead2/resolve/main/age%20of%20empire%20fix.zip?download=true"
             ]
+        },
+        {
+            "name": "Resident Evil Requiem",
+            "steamAppId": 3764200,
+            "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3764200/header.jpg",
+            "inject_files": [
+                "https://kyzu-proxy.ucupbaba1906.workers.dev/secure_download?appid=3764200&auth_code=RYUUMANIFEST72oz"
+            ],
+            "bypass_files": [
+                "https://huggingface.co/datasets/dikiajak/fix/resolve/main/re%209%20requ.zip?download=true"
+            ]
         }
     ]
 }
