@@ -386,6 +386,15 @@
                 "https://kyzu-proxy.ucupbaba1906.workers.dev/secure_download?appid=2603040&auth_code=RYUUMANIFEST72oz"
             ],
             "bypass_files": []
+        },
+        {
+            "name": "Marvel’s Spider-Man Remastered",
+            "steamAppId": 1817070,
+            "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1817070/header.jpg",
+            "inject_files": [
+                "https://drive.google.com/file/d/15U-dZsmsY3JrgNvOFiw3IVgY1qQK4HH2/view?usp=sharing"
+            ],
+            "bypass_files": []
         }
     ]
 }
