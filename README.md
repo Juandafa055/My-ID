@@ -578,6 +578,15 @@
             "bypass_files": [
                 "https://www.mediafire.com/file/jedqp2oad4h803v/overcooked2.zip/file"
             ]
+        },
+        {
+            "name": "Blasphemous 2",
+            "steamAppId": 2114740,
+            "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2114740/header.jpg",
+            "inject_files": [
+                "https://kyzu-proxy.ucupbaba1906.workers.dev/secure_download?appid=2114740&auth_code=RYUUMANIFEST72oz"
+            ],
+            "bypass_files": []
         }
     ]
 }
