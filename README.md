@@ -710,7 +710,7 @@
                 "https://kyzu-proxy.ucupbaba1906.workers.dev/secure_download?appid=1466860&auth_code=RYUUMANIFEST72oz"
             ],
             "bypass_files": [
-                "https://pixeldrain.com/u/exv3eB1n"
+                "https://huggingface.co/datasets/Strixgame/RedDead2/resolve/main/age%20of%20empire%20fix.zip?download=true"
             ]
         }
     ]
