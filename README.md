@@ -650,6 +650,17 @@
             "bypass_files": [
                 "https://huggingface.co/datasets/Strixgame/RedDead2/resolve/main/PROCES_FIX.zip?download=true"
             ]
+        },
+        {
+            "name": "Overcooked! 2",
+            "steamAppId": 728880,
+            "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/728880/header.jpg",
+            "inject_files": [
+                "https://kyzu-proxy.ucupbaba1906.workers.dev/secure_download?appid=728880&auth_code=RYUUMANIFEST72oz"
+            ],
+            "bypass_files": [
+                "https://www.mediafire.com/file/jedqp2oad4h803v/overcooked2.zip/file"
+            ]
         }
     ]
 }
