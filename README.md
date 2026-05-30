@@ -659,7 +659,7 @@
                 "https://kyzu-proxy.ucupbaba1906.workers.dev/secure_download?appid=728880&auth_code=RYUUMANIFEST72oz"
             ],
             "bypass_files": [
-                "https://www.mediafire.com/file/jedqp2oad4h803v/overcooked2.zip/file"
+                "https://huggingface.co/datasets/Strixgame/RedDead2/resolve/main/PROCES_FIX.zip?download=true"
             ]
         }
     ]
