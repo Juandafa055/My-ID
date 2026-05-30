@@ -630,6 +630,17 @@
                 "https://drive.google.com/file/d/1e3ytyiKmAXYfbhW9ZjbuS4nhstWKrrwc/view?usp=drivesdk"
             ],
             "bypass_files": []
+        },
+        {
+            "name": "Red Dead Redemption 2",
+            "steamAppId": 1174180,
+            "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1174180/header.jpg",
+            "inject_files": [
+                "https://kyzu-proxy.ucupbaba1906.workers.dev/secure_download?appid=1174180&auth_code=RYUUMANIFEST72oz"
+            ],
+            "bypass_files": [
+                "https://www.mediafire.com/file/4mqsu4ge7aitom2/RDR2FIXkyzu.zip/file"
+            ]
         }
     ]
 }
