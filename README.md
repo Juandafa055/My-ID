@@ -395,6 +395,15 @@
                 "https://drive.google.com/file/d/15U-dZsmsY3JrgNvOFiw3IVgY1qQK4HH2/view?usp=sharing"
             ],
             "bypass_files": []
+        },
+        {
+            "name": "Gunner, HEAT, PC!",
+            "steamAppId": 1705180,
+            "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1705180/header.jpg",
+            "inject_files": [
+                "https://kyzu-proxy.ucupbaba1906.workers.dev/secure_download?appid=1705180&auth_code=RYUUMANIFEST72oz"
+            ],
+            "bypass_files": []
         }
     ]
 }
