@@ -91,7 +91,7 @@
                 "https://kyzu-proxy.ucupbaba1906.workers.dev/secure_download?appid=1190970&auth_code=RYUUMANIFEST72oz"
             ],
             "bypass_files": [
-                "https://pixeldrain.com/u/LbpGKS8M"
+                "https://huggingface.co/datasets/Strixgame/RedDead2/resolve/main/HouseFlipper2.zip?download=true"
             ]
         },
         {
