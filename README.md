@@ -538,6 +538,15 @@
             "bypass_files": [
                 "https://download1589.mediafire.com/6k43c2got81gIfnN-dZAdb7VP2TKtP6ZJiLb17fI00S1JwMLIcoJXbebOygUsAoiuKc33DVMI2qkKwGo08NXCRA4zXcAF356jYsOdhgT3LLlaXXCuwdlFNsLfNsLj8rDb5965IAh7jy9Z93NDuPAzCMizuqAJJctINCKic1h6YZN/5trfldgd6u34lh7/OdysseyFIXkyxu.rar"
             ]
+        },
+        {
+            "name": "Forza Horizon 5",
+            "steamAppId": 1551360,
+            "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1551360/header.jpg",
+            "inject_files": [
+                "https://drive.google.com/file/d/1lQSZ5M3zallzXg47b-6zwls8VvJmC90N/view?usp=drive_link"
+            ],
+            "bypass_files": []
         }
     ]
 }
