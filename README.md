@@ -413,7 +413,7 @@
                 "https://kyzu-proxy.ucupbaba1906.workers.dev/secure_download?appid=33230&auth_code=RYUUMANIFEST72oz"
             ],
             "bypass_files": [
-                "https://huggingface.co/datasets/dikiajak/fix/resolve/main/AC2FIXkyzugamess.zip?download=true"
+                "https://huggingface.co/datasets/Strixgame/RedDead2/resolve/main/assassincreed2.zip?download=true"
             ]
         },
         {
