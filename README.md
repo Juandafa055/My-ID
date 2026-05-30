@@ -473,15 +473,6 @@
             "bypass_files": []
         },
         {
-            "name": "Red Dead Redemption 2",
-            "steamAppId": 1174180,
-            "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1174180/header.jpg",
-            "inject_files": [],
-            "bypass_files": [
-                "https://download2295.mediafire.com/0th7m7998vbgEGP8PCnmlnAhLHUUtV4Jv7l8bjymTFPkH7upo4HDuk39ALgfb6pjMfoWk1WpoVysykn2tqiCP4J3Pxn-Eo1iE9GeVRW26DjeCYnSO1Qtd7NzOMSPi4vOdZpbhSWOnXjKQ8UOgZSUvOToeINl1WuePSLCoyv4ZIkf/4mqsu4ge7aitom2/RDR2FIXkyzu.zip"
-            ]
-        },
-        {
             "name": "Cyberpunk 2077",
             "steamAppId": 1091500,
             "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1091500/header.jpg",
