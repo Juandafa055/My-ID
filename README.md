@@ -424,6 +424,15 @@
                 "https://drive.google.com/file/d/1uqahkCCDV4svHy72ZxK7LRZHOLYUg8uR/view?usp=drive_link"
             ],
             "bypass_files": []
+        },
+        {
+            "name": "The Witcher 3: Wild Hunt",
+            "steamAppId": 292030,
+            "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/292030/header.jpg",
+            "inject_files": [
+                "https://kyzu-proxy.ucupbaba1906.workers.dev/secure_download?appid=292030&auth_code=RYUUMANIFEST72oz"
+            ],
+            "bypass_files": []
         }
     ]
 }
