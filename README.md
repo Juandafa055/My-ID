@@ -415,6 +415,15 @@
             "bypass_files": [
                 "https://huggingface.co/datasets/dikiajak/fix/resolve/main/AC2FIXkyzugamess.zip?download=true"
             ]
+        },
+        {
+            "name": "Universe Sandbox",
+            "steamAppId": 230290,
+            "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/230290/header.jpg",
+            "inject_files": [
+                "https://drive.google.com/file/d/1uqahkCCDV4svHy72ZxK7LRZHOLYUg8uR/view?usp=drive_link"
+            ],
+            "bypass_files": []
         }
     ]
 }
