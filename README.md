@@ -723,6 +723,15 @@
             "bypass_files": [
                 "https://huggingface.co/datasets/dikiajak/fix/resolve/main/re%209%20requ.zip?download=true"
             ]
+        },
+        {
+            "name": "Resident Evil 6",
+            "steamAppId": 221040,
+            "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/221040/header.jpg",
+            "inject_files": [
+                "https://drive.google.com/file/d/1ydHjFsHxVoKO84p9kUBQhyqBeQbK2geW/view?usp=sharing"
+            ],
+            "bypass_files": []
         }
     ]
 }
