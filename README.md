@@ -632,6 +632,15 @@
                 "https://kyzu-proxy.ucupbaba1906.workers.dev/secure_download?appid=1350650&auth_code=RYUUMANIFEST72oz"
             ],
             "bypass_files": []
+        },
+        {
+            "name": "Wallpaper Engine",
+            "steamAppId": 431960,
+            "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/431960/header.jpg",
+            "inject_files": [
+                "https://drive.google.com/file/d/1e3ytyiKmAXYfbhW9ZjbuS4nhstWKrrwc/view?usp=drivesdk"
+            ],
+            "bypass_files": []
         }
     ]
 }
