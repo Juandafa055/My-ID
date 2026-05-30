@@ -701,6 +701,17 @@
             "bypass_files": [
                 "https://huggingface.co/datasets/Strixgame/RedDead2/resolve/main/FIX%20coral%20island.zip?download=true"
             ]
+        },
+        {
+            "name": "Age of Empires IV: Anniversary Edition",
+            "steamAppId": 1466860,
+            "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1466860/header.jpg",
+            "inject_files": [
+                "https://kyzu-proxy.ucupbaba1906.workers.dev/secure_download?appid=1466860&auth_code=RYUUMANIFEST72oz"
+            ],
+            "bypass_files": [
+                "https://pixeldrain.com/u/exv3eB1n"
+            ]
         }
     ]
 }
