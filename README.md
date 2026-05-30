@@ -732,6 +732,15 @@
                 "https://drive.google.com/file/d/1ydHjFsHxVoKO84p9kUBQhyqBeQbK2geW/view?usp=sharing"
             ],
             "bypass_files": []
+        },
+        {
+            "name": "Assetto Corsa Competizione",
+            "steamAppId": 805550,
+            "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/805550/header.jpg",
+            "inject_files": [
+                "https://kyzu-proxy.ucupbaba1906.workers.dev/secure_download?appid=805550&auth_code=RYUUMANIFEST72oz"
+            ],
+            "bypass_files": []
         }
     ]
 }
