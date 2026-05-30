@@ -527,6 +527,17 @@
                 "https://kyzu-proxy.ucupbaba1906.workers.dev/secure_download?appid=269950&auth_code=RYUUMANIFEST72oz"
             ],
             "bypass_files": []
+        },
+        {
+            "name": "Assassin's Creed® Odyssey",
+            "steamAppId": 812140,
+            "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/812140/header.jpg",
+            "inject_files": [
+                "https://drive.google.com/file/d/1U8MIusSqeE02fvpIvu0eITYA0wutOIa-/view?usp=sharing"
+            ],
+            "bypass_files": [
+                "https://www.mediafire.com/file/5trfldgd6u34lh7/OdysseyFIXkyxu.rar/file"
+            ]
         }
     ]
 }
