@@ -433,6 +433,17 @@
                 "https://kyzu-proxy.ucupbaba1906.workers.dev/secure_download?appid=292030&auth_code=RYUUMANIFEST72oz"
             ],
             "bypass_files": []
+        },
+        {
+            "name": "Assassin's Creed® Unity",
+            "steamAppId": 289650,
+            "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/289650/header.jpg",
+            "inject_files": [
+                "https://drive.google.com/file/d/1WAHrwd6e7ioIQ1OsDtKPZno3PBpuE52U/view?usp=sharing"
+            ],
+            "bypass_files": [
+                "https://huggingface.co/datasets/dikiajak/fix/resolve/main/ACUnityFIXkyzugamess.zip?download=true"
+            ]
         }
     ]
 }
