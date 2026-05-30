@@ -688,7 +688,7 @@
                 "https://kyzu-proxy.ucupbaba1906.workers.dev/secure_download?appid=916440&auth_code=RYUUMANIFEST72oz"
             ],
             "bypass_files": [
-                "https://www.mediafire.com/file/6cpwe0jqqiuw4o9/Anno_1800_fix_kyzugamess.rar/file"
+                "https://huggingface.co/datasets/Strixgame/RedDead2/resolve/main/anno1800.zip?download=true"
             ]
         },
         {
