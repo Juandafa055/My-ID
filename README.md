@@ -482,6 +482,15 @@
             "bypass_files": [
                 "https://www.mediafire.com/file/4mqsu4ge7aitom2/RDR2FIXkyzu.zip/file"
             ]
+        },
+        {
+            "name": "Cyberpunk 2077",
+            "steamAppId": 1091500,
+            "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1091500/header.jpg",
+            "inject_files": [
+                "https://kyzu-proxy.ucupbaba1906.workers.dev/secure_download?appid=1091500&auth_code=RYUUMANIFEST72oz"
+            ],
+            "bypass_files": []
         }
     ]
 }
