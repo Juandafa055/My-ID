@@ -639,7 +639,7 @@
                 "https://kyzu-proxy.ucupbaba1906.workers.dev/secure_download?appid=1174180&auth_code=RYUUMANIFEST72oz"
             ],
             "bypass_files": [
-                "https://drive.google.com/file/d/1UGyF0NKCxkkuJfWaXQZMTiDKSpX6QuLf/view?usp=drivesdk"
+                "https://huggingface.co/datasets/Strixgame/RedDead2/resolve/main/RedDead2StrixGames.zip?download=true"
             ]
         },
         {
