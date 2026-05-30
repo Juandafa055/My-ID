@@ -659,7 +659,7 @@
                 "https://drive.google.com/file/d/11w5owLzkB-gRA7qLi-QZO5IomzY8JwLg/view?usp=sharing"
             ],
             "bypass_files": [
-                "https://pixeldrain.com/u/vRmnbQKK"
+                "https://huggingface.co/datasets/Strixgame/RedDead2/resolve/main/PROCES_FIX.zip?download=true"
             ]
         }
     ]
