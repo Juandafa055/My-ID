@@ -690,6 +690,17 @@
             "bypass_files": [
                 "https://www.mediafire.com/file/6cpwe0jqqiuw4o9/Anno_1800_fix_kyzugamess.rar/file"
             ]
+        },
+        {
+            "name": "Coral Island",
+            "steamAppId": 1158160,
+            "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1158160/header.jpg",
+            "inject_files": [
+                "https://drive.google.com/file/d/1k5tHWCILtpISjXmC1aCOZxFOBA9OSLk-/view?usp=drivesdk"
+            ],
+            "bypass_files": [
+                "https://pixeldrain.com/u/o6L6uLiN"
+            ]
         }
     ]
 }
