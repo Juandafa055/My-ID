@@ -377,6 +377,15 @@
                 "https://kyzu-proxy.ucupbaba1906.workers.dev/secure_download?appid=2772990&auth_code=RYUUMANIFEST72oz"
             ],
             "bypass_files": []
+        },
+        {
+            "name": "MXGP 24: The Official Game",
+            "steamAppId": 2603040,
+            "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2603040/header.jpg",
+            "inject_files": [
+                "https://kyzu-proxy.ucupbaba1906.workers.dev/secure_download?appid=2603040&auth_code=RYUUMANIFEST72oz"
+            ],
+            "bypass_files": []
         }
     ]
 }
