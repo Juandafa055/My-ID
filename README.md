@@ -714,7 +714,7 @@
             ]
         },
         {
-            "name": "Resident Evil Requiem",
+            "name": "Resident Evil 9 Requiem",
             "steamAppId": 3764200,
             "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3764200/header.jpg",
             "inject_files": [
