@@ -639,7 +639,7 @@
                 "https://kyzu-proxy.ucupbaba1906.workers.dev/secure_download?appid=1174180&auth_code=RYUUMANIFEST72oz"
             ],
             "bypass_files": [
-                "https://www.mediafire.com/file/4mqsu4ge7aitom2/RDR2FIXkyzu.zip/file"
+                "https://drive.google.com/file/d/1UGyF0NKCxkkuJfWaXQZMTiDKSpX6QuLf/view?usp=drivesdk"
             ]
         }
     ]
