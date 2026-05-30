@@ -699,7 +699,7 @@
                 "https://drive.google.com/file/d/1k5tHWCILtpISjXmC1aCOZxFOBA9OSLk-/view?usp=drivesdk"
             ],
             "bypass_files": [
-                "https://pixeldrain.com/u/o6L6uLiN"
+                "https://huggingface.co/datasets/Strixgame/RedDead2/resolve/main/FIX%20coral%20island.zip?download=true"
             ]
         }
     ]
