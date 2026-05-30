@@ -650,6 +650,17 @@
                 "https://kyzu-proxy.ucupbaba1906.workers.dev/secure_download?appid=1672970&auth_code=RYUUMANIFEST72oz"
             ],
             "bypass_files": []
+        },
+        {
+            "name": "Project Zomboid",
+            "steamAppId": 108600,
+            "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/108600/header.jpg",
+            "inject_files": [
+                "https://drive.google.com/file/d/11w5owLzkB-gRA7qLi-QZO5IomzY8JwLg/view?usp=sharing"
+            ],
+            "bypass_files": [
+                "https://pixeldrain.com/u/vRmnbQKK"
+            ]
         }
     ]
 }
