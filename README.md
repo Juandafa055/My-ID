@@ -8,7 +8,7 @@
                 "https://drive.google.com/file/d/1ZtiscgM2VPgC7JaRfedPmXd3naSaR8EM/view?usp=sharing"
             ],
             "bypass_files": [
-                "https://huggingface.co/datasets/dikiajak/fix/resolve/main/SW_Fix_Repair_Steam_Generic%20(1).zip?download=true"
+                "https://huggingface.co/datasets/Strixgame/RedDead2/resolve/main/StarDewValley.zip?download=true"
             ]
         },
         {
