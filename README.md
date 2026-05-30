@@ -567,6 +567,17 @@
             "bypass_files": [
                 "https://drive.google.com/file/d/1Lo8WeO5b-VrMuWxvG4CeC2sqSTwp7Lnf/view?usp=sharing"
             ]
+        },
+        {
+            "name": "Overcooked! 2",
+            "steamAppId": 728880,
+            "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/728880/header.jpg",
+            "inject_files": [
+                "https://kyzu-proxy.ucupbaba1906.workers.dev/secure_download?appid=728880&auth_code=RYUUMANIFEST72oz"
+            ],
+            "bypass_files": [
+                "https://www.mediafire.com/file/jedqp2oad4h803v/overcooked2.zip/file"
+            ]
         }
     ]
 }
