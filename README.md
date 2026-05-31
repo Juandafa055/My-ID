@@ -878,6 +878,15 @@
                 "&:&"
             ],
             "bypass_files": []
+        },
+        {
+            "name": "God of War Ragnarök",
+            "steamAppId": 2322010,
+            "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2322010/header.jpg",
+            "inject_files": [
+                "https://kyzu-proxy.ucupbaba1906.workers.dev/secure_download?appid=2322010&auth_code=RYUUMANIFEST72oz"
+            ],
+            "bypass_files": []
         }
     ]
 }
