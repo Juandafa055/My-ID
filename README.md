@@ -988,6 +988,15 @@
                 "https://kyzu-proxy.ucupbaba1906.workers.dev/secure_download?appid=854570&auth_code=RYUUMANIFEST72oz"
             ],
             "bypass_files": []
+        },
+        {
+            "name": "Yakuza 0 Director's Cut",
+            "steamAppId": 2988580,
+            "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2988580/header.jpg",
+            "inject_files": [
+                "https://drive.google.com/file/d/19p41kY8mshL9JmvTtM-KTSu1JH6M1m1m/view?usp=drivesdk"
+            ],
+            "bypass_files": []
         }
     ]
 }
