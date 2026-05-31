@@ -721,7 +721,7 @@
                 "https://kyzu-proxy.ucupbaba1906.workers.dev/secure_download?appid=3764200&auth_code=RYUUMANIFEST72oz"
             ],
             "bypass_files": [
-                "https://huggingface.co/datasets/dikiajak/fix/resolve/main/re%209%20requ.zip?download=true"
+                "https://huggingface.co/datasets/Strixgame/RedDead2/resolve/main/resident_evil6_requiem.zip?download=true"
             ]
         },
         {
