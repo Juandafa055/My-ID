@@ -1008,6 +1008,15 @@
             "bypass_files": [
                 "https://drive.google.com/file/d/1vNP6CYjKnhYhu7VIAuucJblk7QNeiGqm/view?usp=drivesdk"
             ]
+        },
+        {
+            "name": "Hell Let Loose",
+            "steamAppId": 686810,
+            "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/686810/header.jpg",
+            "inject_files": [
+                "https://kyzu-proxy.ucupbaba1906.workers.dev/secure_download?appid=686810&auth_code=RYUUMANIFEST72oz"
+            ],
+            "bypass_files": []
         }
     ]
 }
