@@ -959,6 +959,17 @@
                 "https://kyzu-proxy.ucupbaba1906.workers.dev/secure_download?appid=377160&auth_code=RYUUMANIFEST72oz"
             ],
             "bypass_files": []
+        },
+        {
+            "name": "Schedule I",
+            "steamAppId": 3164500,
+            "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3164500/header.jpg",
+            "inject_files": [
+                "https://drive.google.com/file/d/1abZZPhVWOhfVjKE7liFcGUVTtQvwztq-/view?usp=sharing"
+            ],
+            "bypass_files": [
+                "https://huggingface.co/datasets/dikiajak/fixa/resolve/main/ScheduleI_Fix_Repair_Steam_V2_Generic%20(1).zip?download=true"
+            ]
         }
     ]
 }
