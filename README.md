@@ -941,6 +941,15 @@
                 "https://kyzu-proxy.ucupbaba1906.workers.dev/secure_download?appid=1650010&auth_code=RYUUMANIFEST72oz"
             ],
             "bypass_files": []
+        },
+        {
+            "name": "JR EAST Train Simulator",
+            "steamAppId": 2111630,
+            "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2111630/header.jpg",
+            "inject_files": [
+                "https://drive.google.com/file/d/18hHSllRVVsE6LXrdL09QvMhnnnyw5tay/view?usp=sharing"
+            ],
+            "bypass_files": []
         }
     ]
 }
