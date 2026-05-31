@@ -822,6 +822,15 @@
                 "https://drive.google.com/file/d/1AL_2TIbLqb-vtt6owzH5NoG-FxMxteKS/view?usp=drivesdk"
             ],
             "bypass_files": []
+        },
+        {
+            "name": "Dispatch",
+            "steamAppId": 2592160,
+            "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2592160/header.jpg",
+            "inject_files": [
+                "https://kyzu-proxy.ucupbaba1906.workers.dev/secure_download?appid=2592160&auth_code=RYUUMANIFEST72oz"
+            ],
+            "bypass_files": []
         }
     ]
 }
