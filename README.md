@@ -525,7 +525,7 @@
                 "https://drive.google.com/file/d/1U8MIusSqeE02fvpIvu0eITYA0wutOIa-/view?usp=sharing"
             ],
             "bypass_files": [
-                "https://download1589.mediafire.com/6k43c2got81gIfnN-dZAdb7VP2TKtP6ZJiLb17fI00S1JwMLIcoJXbebOygUsAoiuKc33DVMI2qkKwGo08NXCRA4zXcAF356jYsOdhgT3LLlaXXCuwdlFNsLfNsLj8rDb5965IAh7jy9Z93NDuPAzCMizuqAJJctINCKic1h6YZN/5trfldgd6u34lh7/OdysseyFIXkyxu.rar"
+                "https://huggingface.co/datasets/Strixgame/RedDead2/resolve/main/ossedeyassassincrees.zip?download=true"
             ]
         },
         {
