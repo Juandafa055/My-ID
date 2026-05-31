@@ -968,7 +968,7 @@
                 "https://drive.google.com/file/d/1abZZPhVWOhfVjKE7liFcGUVTtQvwztq-/view?usp=sharing"
             ],
             "bypass_files": [
-                "https://huggingface.co/datasets/dikiajak/fixa/resolve/main/ScheduleI_Fix_Repair_Steam_V2_Generic%20(1).zip?download=true"
+                "https://huggingface.co/datasets/Strixgame/RedDead2/resolve/main/FixCoralIslandStrix.zip?download=true"
             ]
         }
     ]
