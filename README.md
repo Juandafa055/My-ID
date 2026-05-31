@@ -813,6 +813,15 @@
                 "https://kyzu-proxy.ucupbaba1906.workers.dev/secure_download?appid=3070070&auth_code=RYUUMANIFEST72oz"
             ],
             "bypass_files": []
+        },
+        {
+            "name": "RUNNING TRAIN",
+            "steamAppId": 4630570,
+            "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4630570/header.jpg",
+            "inject_files": [
+                "https://drive.google.com/file/d/1AL_2TIbLqb-vtt6owzH5NoG-FxMxteKS/view?usp=drivesdk"
+            ],
+            "bypass_files": []
         }
     ]
 }
