@@ -849,6 +849,17 @@
                 "https://kyzu-proxy.ucupbaba1906.workers.dev/secure_download?appid=3425460&auth_code=RYUUMANIFEST72oz"
             ],
             "bypass_files": []
+        },
+        {
+            "name": "R.E.P.O.",
+            "steamAppId": 3241660,
+            "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3241660/header.jpg",
+            "inject_files": [
+                "https://kyzu-proxy.ucupbaba1906.workers.dev/secure_download?appid=3241660&auth_code=RYUUMANIFEST72oz"
+            ],
+            "bypass_files": [
+                "https://huggingface.co/datasets/dikiajak/fix/resolve/main/REPO_Fix.rar?download=true"
+            ]
         }
     ]
 }
