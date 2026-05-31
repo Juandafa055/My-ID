@@ -777,6 +777,15 @@
                 "https://kyzu-proxy.ucupbaba1906.workers.dev/secure_download?appid=1591530&auth_code=RYUUMANIFEST72oz"
             ],
             "bypass_files": []
+        },
+        {
+            "name": "Cities: Skylines II",
+            "steamAppId": 949230,
+            "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/949230/header.jpg",
+            "inject_files": [
+                "https://kyzu-proxy.ucupbaba1906.workers.dev/secure_download?appid=949230&auth_code=RYUUMANIFEST72oz"
+            ],
+            "bypass_files": []
         }
     ]
 }
