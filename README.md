@@ -274,7 +274,7 @@
                 "https://drive.google.com/file/d/18wX_D7bUAsQzp6Jw7vnnuAiROha4KT8c/view?usp=sharing"
             ],
             "bypass_files": [
-                "https://download1589.mediafire.com/lrh7p3ppl7wg6MsINXvgdOQsG5V970NdJewWa-JqACx7DJb3ndQtv8zxNoF_wPdkruGuqXmI5aSgSiFrGMIuiltlUUwxfHcyNemv6EfNWZTF5SAmvEbc1mTKT9KlL3X7XwlZWWlGOE5vzlnxmAZy5G2QAQpq-yW0WkI2vdlQpgcGjA/5tb72y4zgfm5cmu/fix%2Bgta%2Bv.zip"
+                "https://huggingface.co/datasets/Strixgame/RedDead2/resolve/main/gtaVFixStrix.zip?download=true"
             ]
         },
         {
