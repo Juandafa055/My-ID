@@ -997,6 +997,17 @@
                 "https://drive.google.com/file/d/19p41kY8mshL9JmvTtM-KTSu1JH6M1m1m/view?usp=drivesdk"
             ],
             "bypass_files": []
+        },
+        {
+            "name": "Terraria",
+            "steamAppId": 105600,
+            "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/105600/header.jpg",
+            "inject_files": [
+                "https://drive.google.com/file/d/1NrWpwu9szYEEOQUJUaVHdGfyDKY9k4J7/view?usp=sharing"
+            ],
+            "bypass_files": [
+                "https://drive.google.com/file/d/1vNP6CYjKnhYhu7VIAuucJblk7QNeiGqm/view?usp=drivesdk"
+            ]
         }
     ]
 }
