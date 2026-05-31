@@ -750,6 +750,15 @@
                 "https://drive.google.com/file/d/1SlaPwZuku5oDKaIHKxyDNjPwNQk_ysC3/view?usp=sharing"
             ],
             "bypass_files": []
+        },
+        {
+            "name": "Troublemaker 2: Beyond Dream",
+            "steamAppId": 2479770,
+            "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2479770/header.jpg",
+            "inject_files": [
+                "https://kyzu-proxy.ucupbaba1906.workers.dev/secure_download?appid=2479770&auth_code=RYUUMANIFEST72oz"
+            ],
+            "bypass_files": []
         }
     ]
 }
