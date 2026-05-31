@@ -970,6 +970,15 @@
             "bypass_files": [
                 "https://huggingface.co/datasets/Strixgame/RedDead2/resolve/main/FixCoralIslandStrix.zip?download=true"
             ]
+        },
+        {
+            "name": "Assetto Corsa",
+            "steamAppId": 244210,
+            "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/244210/header.jpg",
+            "inject_files": [
+                "https://drive.google.com/file/d/1Bmp636VSo0YINCgAAVPcyGsyhB52LydX/view?usp=sharing"
+            ],
+            "bypass_files": []
         }
     ]
 }
