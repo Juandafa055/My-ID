@@ -189,7 +189,7 @@
                 "https://kyzu-proxy.ucupbaba1906.workers.dev/secure_download?appid=3357650&auth_code=RYUUMANIFEST72oz"
             ],
             "bypass_files": [
-                "https://huggingface.co/datasets/dikiajak/fix/resolve/main/pragma%20fix.zip?download=true"
+                "https://huggingface.co/datasets/Strixgame/RedDead2/resolve/main/pragma%20fix_PASS.zip?download=true"
             ]
         },
         {
