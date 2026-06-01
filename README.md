@@ -1102,6 +1102,15 @@
                 "https://huggingface.co/datasets/Strixgame/RedDead2/resolve/main/The_Last_of_UsTM_Part_I-1888930-database_PASS.zip?download=true"
             ],
             "bypass_files": []
+        },
+        {
+            "name": "Jujutsu Kaisen Cursed Clash",
+            "steamAppId": 1877020,
+            "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1877020/header.jpg",
+            "inject_files": [
+                "https://kyzu-proxy.ucupbaba1906.workers.dev/secure_download?appid=1877020&auth_code=RYUUMANIFEST72oz"
+            ],
+            "bypass_files": []
         }
     ]
 }
