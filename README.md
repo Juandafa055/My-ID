@@ -1082,7 +1082,7 @@
                 "https://kyzu-proxy.ucupbaba1906.workers.dev/secure_download?appid=12210&auth_code=RYUUMANIFEST72oz"
             ],
             "bypass_files": [
-                "https://drive.google.com/file/d/1T9nmHhKWe2b1DzU8UW3gJxm6GgbKOUfa/view?usp=sharing"
+                "https://huggingface.co/datasets/Strixgame/RedDead2/resolve/main/GandThevAuto4.zip?download=true"
             ]
         },
         {
