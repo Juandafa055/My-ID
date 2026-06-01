@@ -1084,6 +1084,15 @@
             "bypass_files": [
                 "https://drive.google.com/file/d/1T9nmHhKWe2b1DzU8UW3gJxm6GgbKOUfa/view?usp=sharing"
             ]
+        },
+        {
+            "name": "The Last of Us™ Part II Remastered",
+            "steamAppId": 2531310,
+            "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2531310/header.jpg",
+            "inject_files": [
+                "https://drive.google.com/file/d/17Vb0SsvmqXDgdDc03tL-S-WpNLYn_0dj/view?usp=sharing"
+            ],
+            "bypass_files": []
         }
     ]
 }
