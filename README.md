@@ -5,7 +5,7 @@
             "steamAppId": 413150,
             "header": "null",
             "inject_files": [
-                "https://drive.google.com/file/d/1ZtiscgM2VPgC7JaRfedPmXd3naSaR8EM/view?usp=sharing"
+                "https://huggingface.co/datasets/Strixgame/RedDead2/resolve/main/StarDew%28AppId%29.zip?download=true"
             ],
             "bypass_files": [
                 "https://huggingface.co/datasets/Strixgame/RedDead2/resolve/main/StarDewValley.zip?download=true"
