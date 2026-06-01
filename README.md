@@ -1026,6 +1026,15 @@
                 "https://kyzu-proxy.ucupbaba1906.workers.dev/secure_download?appid=1118520&auth_code=RYUUMANIFEST72oz"
             ],
             "bypass_files": []
+        },
+        {
+            "name": "007 First Light",
+            "steamAppId": 3768760,
+            "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3768760/header.jpg",
+            "inject_files": [
+                "https://kyzu-proxy.ucupbaba1906.workers.dev/secure_download?appid=3768760&auth_code=RYUUMANIFEST72oz"
+            ],
+            "bypass_files": []
         }
     ]
 }
