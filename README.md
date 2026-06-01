@@ -1035,6 +1035,17 @@
                 "https://kyzu-proxy.ucupbaba1906.workers.dev/secure_download?appid=3768760&auth_code=RYUUMANIFEST72oz"
             ],
             "bypass_files": []
+        },
+        {
+            "name": "PES 2021",
+            "steamAppId": 1259970,
+            "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1259970/header.jpg",
+            "inject_files": [
+                "https://kyzu-proxy.ucupbaba1906.workers.dev/secure_download?appid=1259970&auth_code=RYUUMANIFEST72oz"
+            ],
+            "bypass_files": [
+                "https://drive.google.com/file/d/1wUaBi1mVgtT1F7H6j2u6Llh6q0zInWj3/view?usp=drivesdk"
+            ]
         }
     ]
 }
