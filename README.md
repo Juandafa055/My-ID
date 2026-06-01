@@ -616,7 +616,7 @@
             "steamAppId": 431960,
             "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/431960/header.jpg",
             "inject_files": [
-                "https://drive.google.com/file/d/1e3ytyiKmAXYfbhW9ZjbuS4nhstWKrrwc/view?usp=drivesdk"
+                "https://huggingface.co/datasets/Strixgame/RedDead2/resolve/main/WallPaperEngine%28appid%29.zip?download=true"
             ],
             "bypass_files": []
         },
