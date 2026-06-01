@@ -1111,6 +1111,17 @@
                 "https://kyzu-proxy.ucupbaba1906.workers.dev/secure_download?appid=1877020&auth_code=RYUUMANIFEST72oz"
             ],
             "bypass_files": []
+        },
+        {
+            "name": "Chained Together",
+            "steamAppId": 2567870,
+            "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2567870/header.jpg",
+            "inject_files": [
+                "https://kyzu-proxy.ucupbaba1906.workers.dev/secure_download?appid=2567870&auth_code=RYUUMANIFEST72oz"
+            ],
+            "bypass_files": [
+                "https://huggingface.co/datasets/dikiajak/fix/resolve/main/fix%20chained%20toget.zip?download=true"
+            ]
         }
     ]
 }
