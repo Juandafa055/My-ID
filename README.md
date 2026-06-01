@@ -1151,6 +1151,17 @@
             "bypass_files": [
                 "https://huggingface.co/datasets/dikiajak/fix/resolve/main/Stellar%20FIc.zip?download=true"
             ]
+        },
+        {
+            "name": "Grand Theft Auto: San Andreas – The Definitive Edition",
+            "steamAppId": 1547000,
+            "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1547000/header.jpg",
+            "inject_files": [
+                "https://drive.google.com/file/d/18PmJenrdEePJTAz80uvpf6dLRoer0JCQ/view?usp=sharing"
+            ],
+            "bypass_files": [
+                "https://huggingface.co/datasets/dikiajak/fix/resolve/main/GTASADEFIXkyzugames.zip?download=true"
+            ]
         }
     ]
 }
