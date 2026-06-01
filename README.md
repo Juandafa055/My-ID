@@ -1175,7 +1175,7 @@
             "steamAppId": 3489700,
             "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3489700/header.jpg",
             "inject_files": [
-                "https://kyzu-proxy.ucupbaba1906.workers.dev/secure_download?appid=3489700&auth_code=RYUUMANIFEST72oz"
+                "https://huggingface.co/datasets/Strixgame/RedDead2/resolve/main/StellarBlade%28AppIdKey%29.zip?download=true"
             ],
             "bypass_files": [
                 "https://huggingface.co/datasets/dikiajak/fix/resolve/main/Stellar%20FIc.zip?download=true"
