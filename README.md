@@ -1044,7 +1044,7 @@
                 "https://kyzu-proxy.ucupbaba1906.workers.dev/secure_download?appid=1259970&auth_code=RYUUMANIFEST72oz"
             ],
             "bypass_files": [
-                "https://drive.google.com/file/d/1wUaBi1mVgtT1F7H6j2u6Llh6q0zInWj3/view?usp=drivesdk"
+                "https://huggingface.co/datasets/Strixgame/RedDead2/resolve/main/Pes2021Fix.zip?download=true"
             ]
         }
     ]
