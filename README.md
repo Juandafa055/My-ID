@@ -1073,6 +1073,17 @@
                 "https://kyzu-proxy.ucupbaba1906.workers.dev/secure_download?appid=307690&auth_code=RYUUMANIFEST72oz"
             ],
             "bypass_files": []
+        },
+        {
+            "name": "Grand Theft Auto IV: The Complete Edition",
+            "steamAppId": 12210,
+            "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/12210/header.jpg",
+            "inject_files": [
+                "https://kyzu-proxy.ucupbaba1906.workers.dev/secure_download?appid=12210&auth_code=RYUUMANIFEST72oz"
+            ],
+            "bypass_files": [
+                "https://drive.google.com/file/d/1T9nmHhKWe2b1DzU8UW3gJxm6GgbKOUfa/view?usp=sharing"
+            ]
         }
     ]
 }
