@@ -1171,6 +1171,15 @@
                 "https://kyzu-proxy.ucupbaba1906.workers.dev/secure_download?appid=524220&auth_code=RYUUMANIFEST72oz"
             ],
             "bypass_files": []
+        },
+        {
+            "name": "Resident Evil 4",
+            "steamAppId": 2050650,
+            "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2050650/header.jpg",
+            "inject_files": [
+                "https://kyzu-proxy.ucupbaba1906.workers.dev/secure_download?appid=2050650&auth_code=RYUUMANIFEST72oz"
+            ],
+            "bypass_files": []
         }
     ]
 }
