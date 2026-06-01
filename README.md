@@ -1090,7 +1090,7 @@
             "steamAppId": 2531310,
             "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2531310/header.jpg",
             "inject_files": [
-                "https://drive.google.com/file/d/17Vb0SsvmqXDgdDc03tL-S-WpNLYn_0dj/view?usp=sharing"
+                "https://huggingface.co/datasets/Strixgame/RedDead2/resolve/main/thelastofuspart.zip?download=true"
             ],
             "bypass_files": []
         }
