@@ -1434,6 +1434,15 @@
                 "https://kyzu-proxy.ucupbaba1906.workers.dev/secure_download?appid=927380&auth_code=RYUUMANIFEST72oz"
             ],
             "bypass_files": []
+        },
+        {
+            "name": "Monster Hunter Stories 2: Wings of Ruin",
+            "steamAppId": 1277400,
+            "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1277400/header.jpg",
+            "inject_files": [
+                "https://drive.google.com/file/d/1P2DnlLX720hDO4CbE3z0VsSe7tep9TAf/view?usp=drivesdk"
+            ],
+            "bypass_files": []
         }
     ]
 }
