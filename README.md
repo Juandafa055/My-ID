@@ -1360,7 +1360,7 @@
                 "https://kyzu-proxy.ucupbaba1906.workers.dev/secure_download?appid=243470&auth_code=RYUUMANIFEST72oz"
             ],
             "bypass_files": [
-                "https://pixeldrain.com/u/N1WMy1ro"
+                "https://huggingface.co/datasets/Strixgame/RedDead2/resolve/main/watchdogfix%20%281%29.rar?download=true"
             ]
         }
     ]
