@@ -1443,6 +1443,17 @@
                 "https://drive.google.com/file/d/1P2DnlLX720hDO4CbE3z0VsSe7tep9TAf/view?usp=drivesdk"
             ],
             "bypass_files": []
+        },
+        {
+            "name": "Black Myth: Wukong",
+            "steamAppId": 2358720,
+            "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2358720/header.jpg",
+            "inject_files": [
+                "https://kyzu-proxy.ucupbaba1906.workers.dev/secure_download?appid=2358720&auth_code=RYUUMANIFEST72oz"
+            ],
+            "bypass_files": [
+                "https://huggingface.co/datasets/dikiajak/fix/resolve/main/voices38.zip?download=true"
+            ]
         }
     ]
 }
