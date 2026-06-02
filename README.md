@@ -1389,6 +1389,15 @@
                 "https://kyzu-proxy.ucupbaba1906.workers.dev/secure_download?appid=1086940&auth_code=RYUUMANIFEST72oz"
             ],
             "bypass_files": []
+        },
+        {
+            "name": "Internet Cafe Simulator 2",
+            "steamAppId": 1563180,
+            "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1563180/header.jpg",
+            "inject_files": [
+                "https://kyzu-proxy.ucupbaba1906.workers.dev/secure_download?appid=1563180&auth_code=RYUUMANIFEST72oz"
+            ],
+            "bypass_files": []
         }
     ]
 }
