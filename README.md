@@ -1472,6 +1472,15 @@
                 "https://drive.google.com/file/d/1YcUmHOaDk3x9tLA6Z66t23h-mS2-agYt/view?usp=drivesdk"
             ],
             "bypass_files": []
+        },
+        {
+            "name": "God of War",
+            "steamAppId": 1593500,
+            "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1593500/header.jpg",
+            "inject_files": [
+                "https://kyzu-proxy.ucupbaba1906.workers.dev/secure_download?appid=1593500&auth_code=RYUUMANIFEST72oz"
+            ],
+            "bypass_files": []
         }
     ]
 }
