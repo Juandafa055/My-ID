@@ -1454,6 +1454,15 @@
             "bypass_files": [
                 "https://huggingface.co/datasets/Strixgame/RedDead2/resolve/main/voices38.zip?download=true"
             ]
+        },
+        {
+            "name": "Clair Obscur: Expedition 33",
+            "steamAppId": 1903340,
+            "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1903340/header.jpg",
+            "inject_files": [
+                "https://kyzu-proxy.ucupbaba1906.workers.dev/secure_download?appid=1903340&auth_code=RYUUMANIFEST72oz"
+            ],
+            "bypass_files": []
         }
     ]
 }
