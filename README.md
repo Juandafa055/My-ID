@@ -1371,6 +1371,15 @@
                 "https://kyzu-proxy.ucupbaba1906.workers.dev/secure_download?appid=284160&auth_code=RYUUMANIFEST72oz"
             ],
             "bypass_files": []
+        },
+        {
+            "name": "Tales of ARISE",
+            "steamAppId": 740130,
+            "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/740130/header.jpg",
+            "inject_files": [
+                "https://kyzu-proxy.ucupbaba1906.workers.dev/secure_download?appid=740130&auth_code=RYUUMANIFEST72oz"
+            ],
+            "bypass_files": []
         }
     ]
 }
