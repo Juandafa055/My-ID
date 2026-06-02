@@ -1416,6 +1416,15 @@
                 "https://kyzu-proxy.ucupbaba1906.workers.dev/secure_download?appid=1114150&auth_code=RYUUMANIFEST72oz"
             ],
             "bypass_files": []
+        },
+        {
+            "name": "Yakuza Kiwami",
+            "steamAppId": 3717330,
+            "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3717330/header.jpg",
+            "inject_files": [
+                "https://kyzu-proxy.ucupbaba1906.workers.dev/secure_download?appid=3717330&auth_code=RYUUMANIFEST72oz"
+            ],
+            "bypass_files": []
         }
     ]
 }
