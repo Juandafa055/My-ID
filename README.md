@@ -1463,6 +1463,15 @@
                 "https://kyzu-proxy.ucupbaba1906.workers.dev/secure_download?appid=1903340&auth_code=RYUUMANIFEST72oz"
             ],
             "bypass_files": []
+        },
+        {
+            "name": "Hello Neighbor",
+            "steamAppId": 521890,
+            "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/521890/header.jpg",
+            "inject_files": [
+                "https://drive.google.com/file/d/1YcUmHOaDk3x9tLA6Z66t23h-mS2-agYt/view?usp=drivesdk"
+            ],
+            "bypass_files": []
         }
     ]
 }
