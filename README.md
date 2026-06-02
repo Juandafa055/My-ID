@@ -1342,6 +1342,15 @@
                 "https://kyzu-proxy.ucupbaba1906.workers.dev/secure_download?appid=1492730&auth_code=RYUUMANIFEST72oz"
             ],
             "bypass_files": []
+        },
+        {
+            "name": "Monster Hunter: World",
+            "steamAppId": 582010,
+            "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/582010/header.jpg",
+            "inject_files": [
+                "https://drive.google.com/file/d/1VpACSAob-q9liYEaPTG_LdA1kl3KwTWh/view?usp=sharing"
+            ],
+            "bypass_files": []
         }
     ]
 }
