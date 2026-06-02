@@ -1279,6 +1279,15 @@
                 "https://kyzu-proxy.ucupbaba1906.workers.dev/secure_download?appid=1151640&auth_code=RYUUMANIFEST72oz"
             ],
             "bypass_files": []
+        },
+        {
+            "name": "Tokyo Xtreme Racer",
+            "steamAppId": 2634950,
+            "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2634950/header.jpg",
+            "inject_files": [
+                "https://drive.google.com/file/d/10hGUO8AaUkXUqU7eLNEAghdpaLI0fH1o/view?usp=sharing"
+            ],
+            "bypass_files": []
         }
     ]
 }
