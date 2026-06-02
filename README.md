@@ -1297,6 +1297,15 @@
                 "https://kyzu-proxy.ucupbaba1906.workers.dev/secure_download?appid=1778820&auth_code=RYUUMANIFEST72oz"
             ],
             "bypass_files": []
+        },
+        {
+            "name": "NARUTO SHIPPUDEN: Ultimate Ninja STORM Revolution",
+            "steamAppId": 272510,
+            "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/272510/header.jpg",
+            "inject_files": [
+                "https://kyzu-proxy.ucupbaba1906.workers.dev/secure_download?appid=272510&auth_code=RYUUMANIFEST72oz"
+            ],
+            "bypass_files": []
         }
     ]
 }
