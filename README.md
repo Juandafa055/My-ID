@@ -1261,6 +1261,15 @@
                 "https://kyzu-proxy.ucupbaba1906.workers.dev/secure_download?appid=2655080&auth_code=RYUUMANIFEST72oz"
             ],
             "bypass_files": []
+        },
+        {
+            "name": "Europa Universalis IV",
+            "steamAppId": 236850,
+            "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/236850/header.jpg",
+            "inject_files": [
+                "https://kyzu-proxy.ucupbaba1906.workers.dev/secure_download?appid=236850&auth_code=RYUUMANIFEST72oz"
+            ],
+            "bypass_files": []
         }
     ]
 }
