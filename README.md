@@ -1490,6 +1490,15 @@
                 "https://kyzu-proxy.ucupbaba1906.workers.dev/secure_download?appid=500&auth_code=RYUUMANIFEST72oz"
             ],
             "bypass_files": []
+        },
+        {
+            "name": "Kingdom Come: Deliverance",
+            "steamAppId": 379430,
+            "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/379430/header.jpg",
+            "inject_files": [
+                "https://kyzu-proxy.ucupbaba1906.workers.dev/secure_download?appid=379430&auth_code=RYUUMANIFEST72oz"
+            ],
+            "bypass_files": []
         }
     ]
 }
