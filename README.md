@@ -1180,6 +1180,15 @@
             "bypass_files": [
                 "https://huggingface.co/datasets/dikiajak/fix/resolve/main/Stellar%20FIc.zip?download=true"
             ]
+        },
+        {
+            "name": "Only Up !",
+            "steamAppId": 2842590,
+            "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2842590/header.jpg",
+            "inject_files": [
+                "https://kyzu-proxy.ucupbaba1906.workers.dev/secure_download?appid=2842590&auth_code=RYUUMANIFEST72oz"
+            ],
+            "bypass_files": []
         }
     ]
 }
