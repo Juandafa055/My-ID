@@ -1508,6 +1508,15 @@
                 "https://kyzu-proxy.ucupbaba1906.workers.dev/secure_download?appid=1426210&auth_code=RYUUMANIFEST72oz"
             ],
             "bypass_files": []
+        },
+        {
+            "name": "SILENT HILL 2",
+            "steamAppId": 2124490,
+            "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2124490/header.jpg",
+            "inject_files": [
+                "https://kyzu-proxy.ucupbaba1906.workers.dev/secure_download?appid=2124490&auth_code=RYUUMANIFEST72oz"
+            ],
+            "bypass_files": []
         }
     ]
 }
