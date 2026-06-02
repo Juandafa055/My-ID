@@ -1452,7 +1452,7 @@
                 "https://kyzu-proxy.ucupbaba1906.workers.dev/secure_download?appid=2358720&auth_code=RYUUMANIFEST72oz"
             ],
             "bypass_files": [
-                "https://huggingface.co/datasets/dikiajak/fix/resolve/main/voices38.zip?download=true"
+                "https://huggingface.co/datasets/Strixgame/RedDead2/resolve/main/voices38.zip?download=true"
             ]
         }
     ]
