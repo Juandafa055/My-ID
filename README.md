@@ -1315,6 +1315,15 @@
                 "https://kyzu-proxy.ucupbaba1906.workers.dev/secure_download?appid=1153410&auth_code=RYUUMANIFEST72oz"
             ],
             "bypass_files": []
+        },
+        {
+            "name": "Total War: ROME II - Emperor Edition",
+            "steamAppId": 214950,
+            "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/214950/header.jpg",
+            "inject_files": [
+                "https://kyzu-proxy.ucupbaba1906.workers.dev/secure_download?appid=214950&auth_code=RYUUMANIFEST72oz"
+            ],
+            "bypass_files": []
         }
     ]
 }
