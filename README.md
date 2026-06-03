@@ -1654,6 +1654,15 @@
                 "https://kyzu-proxy.ucupbaba1906.workers.dev/secure_download?appid=294100&auth_code=RYUUMANIFEST72oz"
             ],
             "bypass_files": []
+        },
+        {
+            "name": "Captain Tsubasa: Rise of New Champions",
+            "steamAppId": 1163550,
+            "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1163550/header.jpg",
+            "inject_files": [
+                "https://drive.google.com/file/d/1n8rTSerhaOXnhgryh1rKGAYzy3k06QmO/view?usp=sharing"
+            ],
+            "bypass_files": []
         }
     ]
 }
