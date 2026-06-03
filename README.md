@@ -1600,6 +1600,15 @@
                 "https://kyzu-proxy.ucupbaba1906.workers.dev/secure_download?appid=418370&auth_code=RYUUMANIFEST72oz"
             ],
             "bypass_files": []
+        },
+        {
+            "name": "FreshWomen - Season 2",
+            "steamAppId": 3478650,
+            "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3478650/header.jpg",
+            "inject_files": [
+                "https://drive.google.com/file/d/1UOl4Cf1GxhN6dKx3cSFkNNj7M9L1IX0b/view?usp=drivesdk"
+            ],
+            "bypass_files": []
         }
     ]
 }
