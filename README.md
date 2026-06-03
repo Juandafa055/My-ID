@@ -1609,6 +1609,15 @@
                 "https://drive.google.com/file/d/1UOl4Cf1GxhN6dKx3cSFkNNj7M9L1IX0b/view?usp=drivesdk"
             ],
             "bypass_files": []
+        },
+        {
+            "name": "STORY OF SEASONS: Grand Bazaar",
+            "steamAppId": 2508780,
+            "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2508780/header.jpg",
+            "inject_files": [
+                "https://kyzu-proxy.ucupbaba1906.workers.dev/secure_download?appid=2508780&auth_code=RYUUMANIFEST72oz"
+            ],
+            "bypass_files": []
         }
     ]
 }
