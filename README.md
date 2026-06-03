@@ -1564,6 +1564,15 @@
                 "https://kyzu-proxy.ucupbaba1906.workers.dev/secure_download?appid=2723430&auth_code=RYUUMANIFEST72oz"
             ],
             "bypass_files": []
+        },
+        {
+            "name": "KuloNiku: Bowl Up!",
+            "steamAppId": 3357960,
+            "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3357960/header.jpg",
+            "inject_files": [
+                "https://kyzu-proxy.ucupbaba1906.workers.dev/secure_download?appid=3357960&auth_code=RYUUMANIFEST72oz"
+            ],
+            "bypass_files": []
         }
     ]
 }
