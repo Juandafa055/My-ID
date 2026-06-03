@@ -1636,6 +1636,15 @@
                 "https://kyzu-proxy.ucupbaba1906.workers.dev/secure_download?appid=1940340&auth_code=RYUUMANIFEST72oz"
             ],
             "bypass_files": []
+        },
+        {
+            "name": "Sackboy™: A Big Adventure",
+            "steamAppId": 1599660,
+            "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1599660/header.jpg",
+            "inject_files": [
+                "https://kyzu-proxy.ucupbaba1906.workers.dev/secure_download?appid=1599660&auth_code=RYUUMANIFEST72oz"
+            ],
+            "bypass_files": []
         }
     ]
 }
