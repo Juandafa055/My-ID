@@ -1535,7 +1535,7 @@
                 "https://drive.google.com/file/d/1gAH0-6_BfwBwtnsYeTf7Ty7wQRLu-GlY/view?usp=sharing"
             ],
             "bypass_files": [
-                "https://pixeldrain.com/u/vwvMd5Dz"
+                "https://huggingface.co/datasets/Strixgame/RedDead2/resolve/main/UTfixkyzugamess.zip?download=true"
             ]
         }
     ]
