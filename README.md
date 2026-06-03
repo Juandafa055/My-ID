@@ -1526,6 +1526,17 @@
                 "https://huggingface.co/datasets/Strixgame/RedDead2/resolve/main/21690_PASS.zip?download=true"
             ],
             "bypass_files": []
+        },
+        {
+            "name": "Unravel Two",
+            "steamAppId": 1225570,
+            "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1225570/header.jpg",
+            "inject_files": [
+                "https://drive.google.com/file/d/1gAH0-6_BfwBwtnsYeTf7Ty7wQRLu-GlY/view?usp=sharing"
+            ],
+            "bypass_files": [
+                "https://pixeldrain.com/u/vwvMd5Dz"
+            ]
         }
     ]
 }
