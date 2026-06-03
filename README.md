@@ -1546,6 +1546,15 @@
                 "https://kyzu-proxy.ucupbaba1906.workers.dev/secure_download?appid=1465360&auth_code=RYUUMANIFEST72oz"
             ],
             "bypass_files": []
+        },
+        {
+            "name": "Trainz Railroad Simulator 2022",
+            "steamAppId": 1784570,
+            "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1784570/header.jpg",
+            "inject_files": [
+                "https://kyzu-proxy.ucupbaba1906.workers.dev/secure_download?appid=1784570&auth_code=RYUUMANIFEST72oz"
+            ],
+            "bypass_files": []
         }
     ]
 }
