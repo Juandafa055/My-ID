@@ -1708,6 +1708,15 @@
                 "https://kyzu-proxy.ucupbaba1906.workers.dev/secure_download?appid=2582140&auth_code=RYUUMANIFEST72oz"
             ],
             "bypass_files": []
+        },
+        {
+            "name": "Just Cause™ 3",
+            "steamAppId": 225540,
+            "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/225540/header.jpg",
+            "inject_files": [
+                "https://kyzu-proxy.ucupbaba1906.workers.dev/secure_download?appid=225540&auth_code=RYUUMANIFEST72oz"
+            ],
+            "bypass_files": []
         }
     ]
 }
