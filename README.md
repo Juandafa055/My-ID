@@ -1786,7 +1786,7 @@
             "steamAppId": 447040,
             "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/447040/header.jpg",
             "inject_files": [
-                "https://drive.google.com/file/d/1AMdpH7gbAZNtAGvpRgM9b6G09Qng9Tzb/view?usp=sharing"
+                "https://huggingface.co/datasets/Strixgame/RedDead2/resolve/main/447040%28V1%29.zip?download=true"
             ],
             "bypass_files": [
                 "https://huggingface.co/datasets/Strixgame/RedDead2/resolve/main/watchdog2.zip?download=true"
