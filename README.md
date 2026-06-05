@@ -1735,6 +1735,15 @@
                 "https://kyzu-proxy.ucupbaba1906.workers.dev/secure_download?appid=346110&auth_code=RYUUMANIFEST72oz"
             ],
             "bypass_files": []
+        },
+        {
+            "name": "HITMAN World of Assassination",
+            "steamAppId": 1659040,
+            "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1659040/header.jpg",
+            "inject_files": [
+                "https://kyzu-proxy.ucupbaba1906.workers.dev/secure_download?appid=1659040&auth_code=RYUUMANIFEST72oz"
+            ],
+            "bypass_files": []
         }
     ]
 }
