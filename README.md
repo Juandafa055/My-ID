@@ -1863,6 +1863,15 @@
                 "https://drive.google.com/file/d/12R0u97SxXKjFaaerLzOViUGaELtvNGQ_/view?usp=drivesdk"
             ],
             "bypass_files": []
+        },
+        {
+            "name": "The Walking Dead",
+            "steamAppId": 207610,
+            "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/207610/header.jpg",
+            "inject_files": [
+                "https://kyzu-proxy.ucupbaba1906.workers.dev/secure_download?appid=207610&auth_code=RYUUMANIFEST72oz"
+            ],
+            "bypass_files": []
         }
     ]
 }
