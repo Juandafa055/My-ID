@@ -1780,6 +1780,17 @@
                 "https://kyzu-proxy.ucupbaba1906.workers.dev/secure_download?appid=3053950&auth_code=RYUUMANIFEST72oz"
             ],
             "bypass_files": []
+        },
+        {
+            "name": "Watch Dogs 2",
+            "steamAppId": 447040,
+            "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/447040/header.jpg",
+            "inject_files": [
+                "https://drive.google.com/file/d/1AMdpH7gbAZNtAGvpRgM9b6G09Qng9Tzb/view?usp=sharing"
+            ],
+            "bypass_files": [
+                "https://pixeldrain.com/u/k9yQcM61"
+            ]
         }
     ]
 }
