@@ -1881,6 +1881,15 @@
                 "https://huggingface.co/datasets/Strixgame/RedDead2/resolve/main/870780.zip?download=true"
             ],
             "bypass_files": []
+        },
+        {
+            "name": "The Witcher 2: Assassins of Kings Enhanced Edition",
+            "steamAppId": 20920,
+            "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/20920/header.jpg",
+            "inject_files": [
+                "https://huggingface.co/datasets/Strixgame/RedDead2/resolve/main/20920.zip?download=true"
+            ],
+            "bypass_files": []
         }
     ]
 }
