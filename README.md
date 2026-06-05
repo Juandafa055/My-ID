@@ -1899,6 +1899,15 @@
                 "https://kyzu-proxy.ucupbaba1906.workers.dev/secure_download?appid=620&auth_code=RYUUMANIFEST72oz"
             ],
             "bypass_files": []
+        },
+        {
+            "name": "Total War: WARHAMMER II",
+            "steamAppId": 594570,
+            "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/594570/header.jpg",
+            "inject_files": [
+                "https://huggingface.co/datasets/Strixgame/RedDead2/resolve/main/1142710.zip?download=true"
+            ],
+            "bypass_files": []
         }
     ]
 }
