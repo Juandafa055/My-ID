@@ -1872,6 +1872,15 @@
                 "https://kyzu-proxy.ucupbaba1906.workers.dev/secure_download?appid=207610&auth_code=RYUUMANIFEST72oz"
             ],
             "bypass_files": []
+        },
+        {
+            "name": "CONTROL Ultimate Edition",
+            "steamAppId": 870780,
+            "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/870780/header.jpg",
+            "inject_files": [
+                "https://huggingface.co/datasets/Strixgame/RedDead2/resolve/main/870780.zip?download=true"
+            ],
+            "bypass_files": []
         }
     ]
 }
