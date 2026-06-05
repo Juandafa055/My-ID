@@ -1789,7 +1789,7 @@
                 "https://drive.google.com/file/d/1AMdpH7gbAZNtAGvpRgM9b6G09Qng9Tzb/view?usp=sharing"
             ],
             "bypass_files": [
-                "https://pixeldrain.com/u/k9yQcM61"
+                "https://huggingface.co/datasets/Strixgame/RedDead2/resolve/main/watchdog2.zip?download=true"
             ]
         }
     ]
