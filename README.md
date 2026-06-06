@@ -1935,6 +1935,15 @@
                 "https://huggingface.co/datasets/Strixgame/RedDead2/resolve/main/1253920.zip?download=true"
             ],
             "bypass_files": []
+        },
+        {
+            "name": "DYNASTY WARRIORS 9 Empires",
+            "steamAppId": 1341200,
+            "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1341200/header.jpg",
+            "inject_files": [
+                "https://kyzu-proxy.ucupbaba1906.workers.dev/secure_download?appid=1341200&auth_code=RYUUMANIFEST72oz"
+            ],
+            "bypass_files": []
         }
     ]
 }
