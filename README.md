@@ -2018,6 +2018,15 @@
                 "https://kyzu-proxy.ucupbaba1906.workers.dev/secure_download?appid=2379780&auth_code=RYUUMANIFEST72oz"
             ],
             "bypass_files": []
+        },
+        {
+            "name": "Feed and Grow: Fish",
+            "steamAppId": 429050,
+            "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/429050/header.jpg",
+            "inject_files": [
+                "https://kyzu-proxy.ucupbaba1906.workers.dev/secure_download?appid=429050&auth_code=RYUUMANIFEST72oz"
+            ],
+            "bypass_files": []
         }
     ]
 }
