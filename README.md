@@ -2036,6 +2036,15 @@
                 "https://huggingface.co/datasets/Strixgame/RedDead2/resolve/main/1248130.zip?download=true"
             ],
             "bypass_files": []
+        },
+        {
+            "name": "Docked",
+            "steamAppId": 2487300,
+            "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2487300/header.jpg",
+            "inject_files": [
+                "https://huggingface.co/datasets/Strixgame/RedDead2/resolve/main/2487300.zip?download=true"
+            ],
+            "bypass_files": []
         }
     ]
 }
