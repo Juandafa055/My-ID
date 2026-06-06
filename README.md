@@ -1926,6 +1926,15 @@
                 "https://kyzu-proxy.ucupbaba1906.workers.dev/secure_download?appid=1145350&auth_code=RYUUMANIFEST72oz"
             ],
             "bypass_files": []
+        },
+        {
+            "name": "Rogue Legacy 2",
+            "steamAppId": 1253920,
+            "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1253920/header.jpg",
+            "inject_files": [
+                "https://huggingface.co/datasets/Strixgame/RedDead2/resolve/main/1253920.zip?download=true"
+            ],
+            "bypass_files": []
         }
     ]
 }
