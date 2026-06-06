@@ -2099,6 +2099,15 @@
                 "https://kyzu-proxy.ucupbaba1906.workers.dev/secure_download?appid=601150&auth_code=RYUUMANIFEST72oz"
             ],
             "bypass_files": []
+        },
+        {
+            "name": "Resident Evil Village",
+            "steamAppId": 1196590,
+            "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1196590/header.jpg",
+            "inject_files": [
+                "https://kyzu-proxy.ucupbaba1906.workers.dev/secure_download?appid=1196590&auth_code=RYUUMANIFEST72oz"
+            ],
+            "bypass_files": []
         }
     ]
 }
