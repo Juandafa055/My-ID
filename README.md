@@ -2063,6 +2063,15 @@
                 "https://drive.google.com/file/d/1NUA900-qwYH8DeVZ-xSTzimjS3hfho_j/view?usp=drivesdk"
             ],
             "bypass_files": []
+        },
+        {
+            "name": "Drug Dealer Simulator 2",
+            "steamAppId": 1708850,
+            "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1708850/header.jpg",
+            "inject_files": [
+                "https://kyzu-proxy.ucupbaba1906.workers.dev/secure_download?appid=1708850&auth_code=RYUUMANIFEST72oz"
+            ],
+            "bypass_files": []
         }
     ]
 }
