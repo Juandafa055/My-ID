@@ -1991,6 +1991,15 @@
                 "https://drive.google.com/file/d/16b8GVWfckmvBuruMK8N07NspH6Up2JaI/view?usp=drivesdk"
             ],
             "bypass_files": []
+        },
+        {
+            "name": "Expeditions: A MudRunner Game",
+            "steamAppId": 2477340,
+            "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2477340/header.jpg",
+            "inject_files": [
+                "https://huggingface.co/datasets/Strixgame/RedDead2/resolve/main/2477340.zip?download=true"
+            ],
+            "bypass_files": []
         }
     ]
 }
