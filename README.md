@@ -2000,6 +2000,15 @@
                 "https://huggingface.co/datasets/Strixgame/RedDead2/resolve/main/2477340.zip?download=true"
             ],
             "bypass_files": []
+        },
+        {
+            "name": "NARUTO X BORUTO Ultimate Ninja STORM CONNECTIONS",
+            "steamAppId": 1020790,
+            "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1020790/header.jpg",
+            "inject_files": [
+                "https://drive.google.com/file/d/1dZ41W7MN89XT9h8J6bi0e4ePya9a3TJS/view?usp=sharing"
+            ],
+            "bypass_files": []
         }
     ]
 }
