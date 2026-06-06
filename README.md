@@ -2054,6 +2054,15 @@
                 "https://kyzu-proxy.ucupbaba1906.workers.dev/secure_download?appid=814380&auth_code=RYUUMANIFEST72oz"
             ],
             "bypass_files": []
+        },
+        {
+            "name": "Detroit: Become Human",
+            "steamAppId": 1222140,
+            "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1222140/header.jpg",
+            "inject_files": [
+                "https://drive.google.com/file/d/1NUA900-qwYH8DeVZ-xSTzimjS3hfho_j/view?usp=drivesdk"
+            ],
+            "bypass_files": []
         }
     ]
 }
