@@ -2027,6 +2027,15 @@
                 "https://kyzu-proxy.ucupbaba1906.workers.dev/secure_download?appid=429050&auth_code=RYUUMANIFEST72oz"
             ],
             "bypass_files": []
+        },
+        {
+            "name": "Farming Simulator 22",
+            "steamAppId": 1248130,
+            "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1248130/header.jpg",
+            "inject_files": [
+                "https://huggingface.co/datasets/Strixgame/RedDead2/resolve/main/1248130.zip?download=true"
+            ],
+            "bypass_files": []
         }
     ]
 }
