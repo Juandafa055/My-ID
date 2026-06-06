@@ -1415,7 +1415,9 @@
             "inject_files": [
                 "https://kyzu-proxy.ucupbaba1906.workers.dev/secure_download?appid=1114150&auth_code=RYUUMANIFEST72oz"
             ],
-            "bypass_files": []
+            "bypass_files": [
+                "https://huggingface.co/datasets/Strixgame/RedDead2/resolve/main/carxstreet%28fix%29.zip?download=true"
+            ]
         },
         {
             "name": "Yakuza Kiwami",
