@@ -2135,6 +2135,15 @@
                 "https://kyzu-proxy.ucupbaba1906.workers.dev/secure_download?appid=307780&auth_code=RYUUMANIFEST72oz"
             ],
             "bypass_files": []
+        },
+        {
+            "name": "JoJo's Bizarre Adventure: All-Star Battle R",
+            "steamAppId": 1372110,
+            "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1372110/header.jpg",
+            "inject_files": [
+                "https://huggingface.co/datasets/Strixgame/RedDead2/resolve/main/1372110.zip?download=true"
+            ],
+            "bypass_files": []
         }
     ]
 }
