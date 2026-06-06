@@ -2108,6 +2108,15 @@
                 "https://kyzu-proxy.ucupbaba1906.workers.dev/secure_download?appid=1196590&auth_code=RYUUMANIFEST72oz"
             ],
             "bypass_files": []
+        },
+        {
+            "name": "SONIC X SHADOW GENERATIONS",
+            "steamAppId": 2513280,
+            "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2513280/header.jpg",
+            "inject_files": [
+                "https://huggingface.co/datasets/Strixgame/RedDead2/resolve/main/2513280.zip?download=true"
+            ],
+            "bypass_files": []
         }
     ]
 }
