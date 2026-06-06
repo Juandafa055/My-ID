@@ -2009,6 +2009,15 @@
                 "https://drive.google.com/file/d/1dZ41W7MN89XT9h8J6bi0e4ePya9a3TJS/view?usp=sharing"
             ],
             "bypass_files": []
+        },
+        {
+            "name": "Balatro",
+            "steamAppId": 2379780,
+            "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2379780/header.jpg",
+            "inject_files": [
+                "https://kyzu-proxy.ucupbaba1906.workers.dev/secure_download?appid=2379780&auth_code=RYUUMANIFEST72oz"
+            ],
+            "bypass_files": []
         }
     ]
 }
