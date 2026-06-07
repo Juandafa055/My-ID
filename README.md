@@ -2263,6 +2263,15 @@
                 "https://kyzu-proxy.ucupbaba1906.workers.dev/secure_download?appid=1332720&auth_code=RYUUMANIFEST72oz"
             ],
             "bypass_files": []
+        },
+        {
+            "name": "I Am Jesus Christ",
+            "steamAppId": 1198970,
+            "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1198970/header.jpg",
+            "inject_files": [
+                "https://kyzu-proxy.ucupbaba1906.workers.dev/secure_download?appid=1198970&auth_code=RYUUMANIFEST72oz"
+            ],
+            "bypass_files": []
         }
     ]
 }
