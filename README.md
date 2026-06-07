@@ -2162,6 +2162,15 @@
                 "https://kyzu-proxy.ucupbaba1906.workers.dev/secure_download?appid=1243830&auth_code=RYUUMANIFEST72oz"
             ],
             "bypass_files": []
+        },
+        {
+            "name": "Days Gone",
+            "steamAppId": 1259420,
+            "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1259420/header.jpg",
+            "inject_files": [
+                "https://drive.google.com/file/d/1LpLC_aMT2MOBQPTT1hNcnya0_nbXDbhE/view?usp=sharing"
+            ],
+            "bypass_files": []
         }
     ]
 }
