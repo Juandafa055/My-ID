@@ -2216,6 +2216,17 @@
                 "https://drive.google.com/file/d/1BWUhBL6LOOtBv6VYLoBr98NtsK8Neker/view?usp=sharing"
             ],
             "bypass_files": []
+        },
+        {
+            "name": "Automobilista 2",
+            "steamAppId": 1066890,
+            "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1066890/header.jpg",
+            "inject_files": [
+                "https://huggingface.co/datasets/Strixgame/RedDead2/resolve/main/1066890.zip?download=true"
+            ],
+            "bypass_files": [
+                "https://huggingface.co/datasets/Strixgame/RedDead2/resolve/main/Automobilista2.zip?download=true"
+            ]
         }
     ]
 }
