@@ -2245,6 +2245,15 @@
                 "https://kyzu-proxy.ucupbaba1906.workers.dev/secure_download?appid=3179140&auth_code=RYUUMANIFEST72oz"
             ],
             "bypass_files": []
+        },
+        {
+            "name": "Pacify",
+            "steamAppId": 967050,
+            "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/967050/header.jpg",
+            "inject_files": [
+                "https://kyzu-proxy.ucupbaba1906.workers.dev/secure_download?appid=967050&auth_code=RYUUMANIFEST72oz"
+            ],
+            "bypass_files": []
         }
     ]
 }
