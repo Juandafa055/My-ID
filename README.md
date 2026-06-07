@@ -2153,6 +2153,15 @@
                 "https://kyzu-proxy.ucupbaba1906.workers.dev/secure_download?appid=3326230&auth_code=RYUUMANIFEST72oz"
             ],
             "bypass_files": []
+        },
+        {
+            "name": "Overcooked! All You Can Eat",
+            "steamAppId": 1243830,
+            "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1243830/header.jpg",
+            "inject_files": [
+                "https://kyzu-proxy.ucupbaba1906.workers.dev/secure_download?appid=1243830&auth_code=RYUUMANIFEST72oz"
+            ],
+            "bypass_files": []
         }
     ]
 }
