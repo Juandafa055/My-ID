@@ -2207,6 +2207,15 @@
                 "https://kyzu-proxy.ucupbaba1906.workers.dev/secure_download?appid=1716740&auth_code=RYUUMANIFEST72oz"
             ],
             "bypass_files": []
+        },
+        {
+            "name": "Five Nights at Freddy's: Security Breach",
+            "steamAppId": 747660,
+            "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/747660/header.jpg",
+            "inject_files": [
+                "https://drive.google.com/file/d/1BWUhBL6LOOtBv6VYLoBr98NtsK8Neker/view?usp=sharing"
+            ],
+            "bypass_files": []
         }
     ]
 }
