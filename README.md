@@ -2198,6 +2198,15 @@
                 "https://kyzu-proxy.ucupbaba1906.workers.dev/secure_download?appid=1766060&auth_code=RYUUMANIFEST72oz"
             ],
             "bypass_files": []
+        },
+        {
+            "name": "Starfield",
+            "steamAppId": 1716740,
+            "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1716740/header.jpg",
+            "inject_files": [
+                "https://kyzu-proxy.ucupbaba1906.workers.dev/secure_download?appid=1716740&auth_code=RYUUMANIFEST72oz"
+            ],
+            "bypass_files": []
         }
     ]
 }
