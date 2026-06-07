@@ -1537,7 +1537,7 @@
                 "https://huggingface.co/datasets/Strixgame/RedDead2/resolve/main/1225570_PASS.zip?download=true"
             ],
             "bypass_files": [
-                "https://huggingface.co/datasets/Strixgame/RedDead2/resolve/main/UTfixkyzugamess.zip?download=true"
+                "https://huggingface.co/datasets/Strixgame/RedDead2/resolve/main/UnravelFix.zip?download=true"
             ]
         },
         {
