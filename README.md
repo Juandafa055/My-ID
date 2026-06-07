@@ -2171,6 +2171,15 @@
                 "https://drive.google.com/file/d/1LpLC_aMT2MOBQPTT1hNcnya0_nbXDbhE/view?usp=sharing"
             ],
             "bypass_files": []
+        },
+        {
+            "name": "The Killing Antidote",
+            "steamAppId": 2254890,
+            "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2254890/header.jpg",
+            "inject_files": [
+                "https://kyzu-proxy.ucupbaba1906.workers.dev/secure_download?appid=2254890&auth_code=RYUUMANIFEST72oz"
+            ],
+            "bypass_files": []
         }
     ]
 }
