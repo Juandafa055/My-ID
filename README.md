@@ -2346,6 +2346,15 @@
                 "https://kyzu-proxy.ucupbaba1906.workers.dev/secure_download?appid=394360&auth_code=RYUUMANIFEST72oz"
             ],
             "bypass_files": []
+        },
+        {
+            "name": "Sushi Simulator",
+            "steamAppId": 4274120,
+            "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4274120/header.jpg",
+            "inject_files": [
+                "https://huggingface.co/datasets/Strixgame/RedDead2/resolve/main/4274120.zip?download=true"
+            ],
+            "bypass_files": []
         }
     ]
 }
