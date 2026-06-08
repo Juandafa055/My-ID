@@ -2290,6 +2290,15 @@
                 "https://kyzu-proxy.ucupbaba1906.workers.dev/secure_download?appid=1084600&auth_code=RYUUMANIFEST72oz"
             ],
             "bypass_files": []
+        },
+        {
+            "name": "RAIDOU Remastered: The Mystery of the Soulless Army",
+            "steamAppId": 2288350,
+            "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2288350/header.jpg",
+            "inject_files": [
+                "https://kyzu-proxy.ucupbaba1906.workers.dev/secure_download?appid=2288350&auth_code=RYUUMANIFEST72oz"
+            ],
+            "bypass_files": []
         }
     ]
 }
