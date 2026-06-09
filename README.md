@@ -2364,6 +2364,15 @@
                 "https://kyzu-proxy.ucupbaba1906.workers.dev/secure_download?appid=976310&auth_code=RYUUMANIFEST72oz"
             ],
             "bypass_files": []
+        },
+        {
+            "name": "Sudden Strike 5",
+            "steamAppId": 2808550,
+            "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2808550/header.jpg",
+            "inject_files": [
+                "https://kyzu-proxy.ucupbaba1906.workers.dev/secure_download?appid=2808550&auth_code=RYUUMANIFEST72oz"
+            ],
+            "bypass_files": []
         }
     ]
 }
