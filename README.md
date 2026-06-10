@@ -2373,6 +2373,15 @@
                 "https://kyzu-proxy.ucupbaba1906.workers.dev/secure_download?appid=2808550&auth_code=RYUUMANIFEST72oz"
             ],
             "bypass_files": []
+        },
+        {
+            "name": "GP Bikes",
+            "steamAppId": 848050,
+            "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/848050/header.jpg",
+            "inject_files": [
+                "https://kyzu-proxy.ucupbaba1906.workers.dev/secure_download?appid=848050&auth_code=RYUUMANIFEST72oz"
+            ],
+            "bypass_files": []
         }
     ]
 }
