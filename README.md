@@ -2406,7 +2406,7 @@
             "steamAppId": 1203620,
             "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1203620/header.jpg",
             "inject_files": [
-                "https://kyzu-proxy.ucupbaba1906.workers.dev/secure_download?appid=1203620&auth_code=RYUUMANIFEST72oz"
+                "https://huggingface.co/datasets/Strixgame/RedDead2/resolve/main/no%20mans%20sky%20fix_PASS.zip?download=true"
             ],
             "bypass_files": [
                 "https://drive.google.com/file/d/1lvH6Doswu-GdmdSbOc1BRSX_kl0XSWeR/view?usp=sharing"
