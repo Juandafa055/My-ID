@@ -2411,6 +2411,15 @@
             "bypass_files": [
                 "https://drive.google.com/file/d/1lvH6Doswu-GdmdSbOc1BRSX_kl0XSWeR/view?usp=sharing"
             ]
+        },
+        {
+            "name": "The Spotter: Dig or Die",
+            "steamAppId": 3976500,
+            "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3976500/header.jpg",
+            "inject_files": [
+                "https://kyzu-proxy.ucupbaba1906.workers.dev/secure_download?appid=3976500&auth_code=RYUUMANIFEST72oz"
+            ],
+            "bypass_files": []
         }
     ]
 }
