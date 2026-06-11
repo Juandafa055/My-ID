@@ -2671,7 +2671,7 @@
             "steamAppId": 962130,
             "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/962130/header.jpg",
             "inject_files": [
-                "https://kyzu-proxy.ucupbaba1906.workers.dev/secure_download?appid=962130&auth_code=RYUUMANIFEST72oz"
+                "https://huggingface.co/datasets/Strixgame/RedDead2/resolve/main/groundedfix.zip?download=true"
             ],
             "bypass_files": [
                 "https://huggingface.co/datasets/dikiajak/fix/resolve/main/fix%20file%20grounded.rar?download=true"
