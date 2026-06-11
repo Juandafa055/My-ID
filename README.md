@@ -2620,6 +2620,15 @@
                 "https://kyzu-proxy.ucupbaba1906.workers.dev/secure_download?appid=3354750&auth_code=RYUUMANIFEST72oz"
             ],
             "bypass_files": []
+        },
+        {
+            "name": "DRAGON BALL FighterZ",
+            "steamAppId": 678950,
+            "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/678950/header.jpg",
+            "inject_files": [
+                "https://kyzu-proxy.ucupbaba1906.workers.dev/secure_download?appid=678950&auth_code=RYUUMANIFEST72oz"
+            ],
+            "bypass_files": []
         }
     ]
 }
