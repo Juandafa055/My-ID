@@ -2528,6 +2528,15 @@
                 "https://drive.google.com/file/d/1YLNgiKeCXFNJCEzzrQxRQhIiI4quiEZi/view?usp=drivesdk"
             ],
             "bypass_files": []
+        },
+        {
+            "name": "Lost Castle 2",
+            "steamAppId": 2445690,
+            "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2445690/header.jpg",
+            "inject_files": [
+                "https://huggingface.co/datasets/Strixgame/RedDead2/resolve/main/2445690.zip?download=true"
+            ],
+            "bypass_files": []
         }
     ]
 }
