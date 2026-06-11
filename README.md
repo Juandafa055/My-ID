@@ -2579,7 +2579,7 @@
             "steamAppId": 1382330,
             "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1382330/header.jpg",
             "inject_files": [
-                "https://kyzu-proxy.ucupbaba1906.workers.dev/secure_download?appid=1382330&auth_code=RYUUMANIFEST72oz"
+                "https://huggingface.co/datasets/Strixgame/RedDead2/resolve/main/persona5fix.zip?download=true"
             ],
             "bypass_files": [
                 "https://pixeldrain.com/u/uFQ5ptmq"
