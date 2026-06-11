@@ -2638,6 +2638,15 @@
                 "https://huggingface.co/datasets/Strixgame/RedDead2/resolve/main/17460.zip?download=true"
             ],
             "bypass_files": []
+        },
+        {
+            "name": "Mass Effect™ 3 N7 Digital Deluxe Edition (2012)",
+            "steamAppId": 1238020,
+            "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1238020/header.jpg",
+            "inject_files": [
+                "https://huggingface.co/datasets/Strixgame/RedDead2/resolve/main/1238020.zip?download=true"
+            ],
+            "bypass_files": []
         }
     ]
 }
