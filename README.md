@@ -2682,7 +2682,7 @@
             "steamAppId": 1326470,
             "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1326470/header.jpg",
             "inject_files": [
-                "https://drive.google.com/file/d/1JbyruJsnJhMsjI5-92zEamxjNzqa3Wtr/view?usp=sharing"
+                "https://huggingface.co/datasets/Strixgame/RedDead2/resolve/main/1326470.zip?download=true"
             ],
             "bypass_files": [
                 "https://huggingface.co/datasets/Strixgame/RedDead2/resolve/main/SonsTheForestFix.zip?download=true"
