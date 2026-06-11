@@ -2676,6 +2676,17 @@
             "bypass_files": [
                 "https://huggingface.co/datasets/dikiajak/fix/resolve/main/fix%20file%20grounded.rar?download=true"
             ]
+        },
+        {
+            "name": "Sons Of The Forest",
+            "steamAppId": 1326470,
+            "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1326470/header.jpg",
+            "inject_files": [
+                "https://drive.google.com/file/d/1JbyruJsnJhMsjI5-92zEamxjNzqa3Wtr/view?usp=sharing"
+            ],
+            "bypass_files": [
+                "https://pixeldrain.com/u/wboGQqkQ"
+            ]
         }
     ]
 }
