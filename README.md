@@ -2555,6 +2555,15 @@
                 "https://drive.google.com/file/d/10mk78BFpyYchl_9w29Jh0Z0MbaW_NHLG/view?usp=sharing"
             ],
             "bypass_files": []
+        },
+        {
+            "name": "Little Nightmares",
+            "steamAppId": 424840,
+            "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/424840/header.jpg",
+            "inject_files": [
+                "https://kyzu-proxy.ucupbaba1906.workers.dev/secure_download?appid=424840&auth_code=RYUUMANIFEST72oz"
+            ],
+            "bypass_files": []
         }
     ]
 }
