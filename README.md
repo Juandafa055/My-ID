@@ -2564,6 +2564,15 @@
                 "https://kyzu-proxy.ucupbaba1906.workers.dev/secure_download?appid=424840&auth_code=RYUUMANIFEST72oz"
             ],
             "bypass_files": []
+        },
+        {
+            "name": "DEAD OR ALIVE 5 Last Round: Core Fighters",
+            "steamAppId": 311730,
+            "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/311730/header.jpg",
+            "inject_files": [
+                "https://drive.google.com/file/d/1qpboSsUqdF4SGmnzpOLaknFrh7G293qn/view?usp=drivesdk"
+            ],
+            "bypass_files": []
         }
     ]
 }
