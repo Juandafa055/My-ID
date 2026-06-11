@@ -2519,6 +2519,15 @@
                 "https://kyzu-proxy.ucupbaba1906.workers.dev/secure_download?appid=1608230&auth_code=RYUUMANIFEST72oz"
             ],
             "bypass_files": []
+        },
+        {
+            "name": "Oblivity - Find your perfect Sensitivity",
+            "steamAppId": 1389990,
+            "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1389990/header.jpg",
+            "inject_files": [
+                "https://drive.google.com/file/d/1YLNgiKeCXFNJCEzzrQxRQhIiI4quiEZi/view?usp=drivesdk"
+            ],
+            "bypass_files": []
         }
     ]
 }
