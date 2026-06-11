@@ -2647,6 +2647,15 @@
                 "https://huggingface.co/datasets/Strixgame/RedDead2/resolve/main/1238020.zip?download=true"
             ],
             "bypass_files": []
+        },
+        {
+            "name": "Mass Effect 2 (2010) Edition",
+            "steamAppId": 2362420,
+            "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2362420/header.jpg",
+            "inject_files": [
+                "https://huggingface.co/datasets/Strixgame/RedDead2/resolve/main/2362420.zip?download=true"
+            ],
+            "bypass_files": []
         }
     ]
 }
