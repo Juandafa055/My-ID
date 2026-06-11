@@ -2685,7 +2685,7 @@
                 "https://drive.google.com/file/d/1JbyruJsnJhMsjI5-92zEamxjNzqa3Wtr/view?usp=sharing"
             ],
             "bypass_files": [
-                "https://pixeldrain.com/u/wboGQqkQ"
+                "https://huggingface.co/datasets/Strixgame/RedDead2/resolve/main/SonsTheForestFix.zip?download=true"
             ]
         }
     ]
