@@ -2546,6 +2546,15 @@
                 "https://kyzu-proxy.ucupbaba1906.workers.dev/secure_download?appid=1128860&auth_code=RYUUMANIFEST72oz"
             ],
             "bypass_files": []
+        },
+        {
+            "name": "Men of War: Assault Squad 2",
+            "steamAppId": 244450,
+            "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/244450/header.jpg",
+            "inject_files": [
+                "https://drive.google.com/file/d/10mk78BFpyYchl_9w29Jh0Z0MbaW_NHLG/view?usp=sharing"
+            ],
+            "bypass_files": []
         }
     ]
 }
