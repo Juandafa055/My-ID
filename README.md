@@ -2483,6 +2483,15 @@
                 "https://kyzu-proxy.ucupbaba1906.workers.dev/secure_download?appid=221100&auth_code=RYUUMANIFEST72oz"
             ],
             "bypass_files": []
+        },
+        {
+            "name": "Big Ambitions",
+            "steamAppId": 1331550,
+            "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1331550/header.jpg",
+            "inject_files": [
+                "https://kyzu-proxy.ucupbaba1906.workers.dev/secure_download?appid=1331550&auth_code=RYUUMANIFEST72oz"
+            ],
+            "bypass_files": []
         }
     ]
 }
