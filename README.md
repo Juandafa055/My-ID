@@ -2754,7 +2754,7 @@
                 "https://drive.google.com/file/d/1NerXc5DDPFqeiyZ_vV6y-eL0QgPAUEyn/view?usp=sharing"
             ],
             "bypass_files": [
-                "https://pixeldrain.com/u/rhAtZ79A"
+                "https://huggingface.co/datasets/Strixgame/RedDead2/resolve/main/FixCOD_ColdOfWar.zip?download=true"
             ]
         }
     ]
