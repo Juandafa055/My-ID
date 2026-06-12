@@ -2698,6 +2698,17 @@
                 "https://kyzu-proxy.ucupbaba1906.workers.dev/secure_download?appid=3444080&auth_code=RYUUMANIFEST72oz"
             ],
             "bypass_files": []
+        },
+        {
+            "name": "Assassin’s Creed® Brotherhood",
+            "steamAppId": 48190,
+            "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/48190/header.jpg",
+            "inject_files": [
+                "https://kyzu-proxy.ucupbaba1906.workers.dev/secure_download?appid=48190&auth_code=RYUUMANIFEST72oz"
+            ],
+            "bypass_files": [
+                "https://pixeldrain.com/u/NvZ7HUo7"
+            ]
         }
     ]
 }
