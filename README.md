@@ -1034,7 +1034,9 @@
             "inject_files": [
                 "https://huggingface.co/datasets/Strixgame/RedDead2/resolve/main/3768760.zip?download=true"
             ],
-            "bypass_files": []
+            "bypass_files": [
+                "https://huggingface.co/datasets/Strixgame/RedDead2/resolve/main/007.first.light.zip?download=true"
+            ]
         },
         {
             "name": "PES 2021",
