@@ -2745,6 +2745,17 @@
                 "https://kyzu-proxy.ucupbaba1906.workers.dev/secure_download?appid=2095420&auth_code=RYUUMANIFEST72oz"
             ],
             "bypass_files": []
+        },
+        {
+            "name": "Call of Duty®: Black Ops Cold War",
+            "steamAppId": 1985810,
+            "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1985810/header.jpg",
+            "inject_files": [
+                "https://drive.google.com/file/d/1NerXc5DDPFqeiyZ_vV6y-eL0QgPAUEyn/view?usp=sharing"
+            ],
+            "bypass_files": [
+                "https://pixeldrain.com/u/rhAtZ79A"
+            ]
         }
     ]
 }
