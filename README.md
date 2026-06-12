@@ -2774,6 +2774,15 @@
                 "https://kyzu-proxy.ucupbaba1906.workers.dev/secure_download?appid=400750&auth_code=RYUUMANIFEST72oz"
             ],
             "bypass_files": []
+        },
+        {
+            "name": "Half Sword",
+            "steamAppId": 2397300,
+            "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2397300/header.jpg",
+            "inject_files": [
+                "https://drive.google.com/file/d/1xJeSIiHpkYbEldljXAUsXaPfFkhzzKGa/view?usp=sharing"
+            ],
+            "bypass_files": []
         }
     ]
 }
