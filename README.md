@@ -2751,7 +2751,7 @@
             "steamAppId": 1985810,
             "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1985810/header.jpg",
             "inject_files": [
-                "https://drive.google.com/file/d/1NerXc5DDPFqeiyZ_vV6y-eL0QgPAUEyn/view?usp=sharing"
+                "https://huggingface.co/datasets/Strixgame/RedDead2/resolve/main/1985810.zip?download=true"
             ],
             "bypass_files": [
                 "https://huggingface.co/datasets/Strixgame/RedDead2/resolve/main/FixCOD_ColdOfWar.zip?download=true"
