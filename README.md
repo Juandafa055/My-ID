@@ -2707,7 +2707,7 @@
                 "https://kyzu-proxy.ucupbaba1906.workers.dev/secure_download?appid=48190&auth_code=RYUUMANIFEST72oz"
             ],
             "bypass_files": [
-                "https://pixeldrain.com/u/NvZ7HUo7"
+                "https://huggingface.co/datasets/Strixgame/RedDead2/resolve/main/AssassinCreedBrother.zip?download=true"
             ]
         }
     ]
