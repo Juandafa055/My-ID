@@ -3275,6 +3275,15 @@
                 "https://kyzu-proxy.ucupbaba1906.workers.dev/secure_download?appid=498240&auth_code=RYUUMANIFEST72oz"
             ],
             "bypass_files": []
+        },
+        {
+            "name": "Another Brick in The Mall",
+            "steamAppId": 521150,
+            "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/521150/header.jpg",
+            "inject_files": [
+                "https://kyzu-proxy.ucupbaba1906.workers.dev/secure_download?appid=521150&auth_code=RYUUMANIFEST72oz"
+            ],
+            "bypass_files": []
         }
     ]
 }
