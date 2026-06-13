@@ -3246,6 +3246,17 @@
                 "https://kyzu-proxy.ucupbaba1906.workers.dev/secure_download?appid=400800&auth_code=RYUUMANIFEST72oz"
             ],
             "bypass_files": []
+        },
+        {
+            "name": "RV There Yet?",
+            "steamAppId": 3949040,
+            "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3949040/header.jpg",
+            "inject_files": [
+                "https://kyzu-proxy.ucupbaba1906.workers.dev/secure_download?appid=3949040&auth_code=RYUUMANIFEST72oz"
+            ],
+            "bypass_files": [
+                "https://huggingface.co/datasets/dikiajak/fix/resolve/main/RVThereYet_Fix_Repair_Steam_V2_Generic.zip?download=true"
+            ]
         }
     ]
 }
