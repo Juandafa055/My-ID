@@ -4289,6 +4289,15 @@
                 "https://kyzu-proxy.ucupbaba1906.workers.dev/secure_download?appid=2979840&auth_code=RYUUMANIFEST72oz"
             ],
             "bypass_files": []
+        },
+        {
+            "name": "Dying Light: The Beast Restored Land",
+            "steamAppId": 3008130,
+            "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3008130/header.jpg",
+            "inject_files": [
+                "https://kyzu-proxy.ucupbaba1906.workers.dev/secure_download?appid=3008130&auth_code=RYUUMANIFEST72oz"
+            ],
+            "bypass_files": []
         }
     ]
 }
