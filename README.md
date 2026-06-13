@@ -3727,6 +3727,15 @@
                 "https://kyzu-proxy.ucupbaba1906.workers.dev/secure_download?appid=1422130&auth_code=RYUUMANIFEST72oz"
             ],
             "bypass_files": []
+        },
+        {
+            "name": "Fallen Tear: The Ascension",
+            "steamAppId": 1446900,
+            "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1446900/header.jpg",
+            "inject_files": [
+                "https://kyzu-proxy.ucupbaba1906.workers.dev/secure_download?appid=1446900&auth_code=RYUUMANIFEST72oz"
+            ],
+            "bypass_files": []
         }
     ]
 }
