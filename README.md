@@ -3365,6 +3365,15 @@
                 "https://kyzu-proxy.ucupbaba1906.workers.dev/secure_download?appid=617290&auth_code=RYUUMANIFEST72oz"
             ],
             "bypass_files": []
+        },
+        {
+            "name": "Bendy and the Ink Machine",
+            "steamAppId": 622650,
+            "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/622650/header.jpg",
+            "inject_files": [
+                "https://kyzu-proxy.ucupbaba1906.workers.dev/secure_download?appid=622650&auth_code=RYUUMANIFEST72oz"
+            ],
+            "bypass_files": []
         }
     ]
 }
