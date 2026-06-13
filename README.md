@@ -2783,6 +2783,17 @@
                 "https://drive.google.com/file/d/1xJeSIiHpkYbEldljXAUsXaPfFkhzzKGa/view?usp=sharing"
             ],
             "bypass_files": []
+        },
+        {
+            "name": "Far Cry® 5",
+            "steamAppId": 552520,
+            "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/552520/header.jpg",
+            "inject_files": [
+                "https://drive.google.com/file/d/1Ne3AiJ6aEJDmcP5YfzAEMs29ZBu_n3u4/view?usp=sharing"
+            ],
+            "bypass_files": [
+                "https://huggingface.co/datasets/dikiajak/fix/resolve/main/FARCRY%205%20FIX.rar?download=true"
+            ]
         }
     ]
 }
