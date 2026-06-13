@@ -3439,6 +3439,15 @@
                 "https://kyzu-proxy.ucupbaba1906.workers.dev/secure_download?appid=684450&auth_code=RYUUMANIFEST72oz"
             ],
             "bypass_files": []
+        },
+        {
+            "name": "Trine 4: The Nightmare Prince",
+            "steamAppId": 690640,
+            "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/690640/header.jpg",
+            "inject_files": [
+                "https://kyzu-proxy.ucupbaba1906.workers.dev/secure_download?appid=690640&auth_code=RYUUMANIFEST72oz"
+            ],
+            "bypass_files": []
         }
     ]
 }
