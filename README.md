@@ -3565,6 +3565,15 @@
                 "https://kyzu-proxy.ucupbaba1906.workers.dev/secure_download?appid=1184370&auth_code=RYUUMANIFEST72oz"
             ],
             "bypass_files": []
+        },
+        {
+            "name": "The Legend of Heroes: Trails of Cold Steel IV",
+            "steamAppId": 1198090,
+            "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1198090/header.jpg",
+            "inject_files": [
+                "/addgame 485510 | Nioh: Complete Edition"
+            ],
+            "bypass_files": []
         }
     ]
 }
