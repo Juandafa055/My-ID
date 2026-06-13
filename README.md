@@ -3183,6 +3183,15 @@
                 "https://kyzu-proxy.ucupbaba1906.workers.dev/secure_download?appid=330830&auth_code=RYUUMANIFEST72oz"
             ],
             "bypass_files": []
+        },
+        {
+            "name": "DARK SOULS™ II: Scholar of the First Sin",
+            "steamAppId": 335300,
+            "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/335300/header.jpg",
+            "inject_files": [
+                "https://kyzu-proxy.ucupbaba1906.workers.dev/secure_download?appid=335300&auth_code=RYUUMANIFEST72oz"
+            ],
+            "bypass_files": []
         }
     ]
 }
