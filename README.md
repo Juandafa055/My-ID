@@ -3019,6 +3019,15 @@
                 "https://kyzu-proxy.ucupbaba1906.workers.dev/secure_download?appid=32510&auth_code=RYUUMANIFEST72oz"
             ],
             "bypass_files": []
+        },
+        {
+            "name": "The Sims™ 3",
+            "steamAppId": 47890,
+            "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/47890/header.jpg",
+            "inject_files": [
+                "https://kyzu-proxy.ucupbaba1906.workers.dev/secure_download?appid=47890&auth_code=RYUUMANIFEST72oz"
+            ],
+            "bypass_files": []
         }
     ]
 }
