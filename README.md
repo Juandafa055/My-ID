@@ -3192,6 +3192,15 @@
                 "https://kyzu-proxy.ucupbaba1906.workers.dev/secure_download?appid=335300&auth_code=RYUUMANIFEST72oz"
             ],
             "bypass_files": []
+        },
+        {
+            "name": "Nameless ~The one thing you must recall~",
+            "steamAppId": 337930,
+            "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/337930/header.jpg",
+            "inject_files": [
+                "https://kyzu-proxy.ucupbaba1906.workers.dev/secure_download?appid=337930&auth_code=RYUUMANIFEST72oz"
+            ],
+            "bypass_files": []
         }
     ]
 }
