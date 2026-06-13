@@ -4060,6 +4060,15 @@
                 "https://kyzu-proxy.ucupbaba1906.workers.dev/secure_download?appid=2291340&auth_code=RYUUMANIFEST72oz"
             ],
             "bypass_files": []
+        },
+        {
+            "name": "Farm Together 2",
+            "steamAppId": 2418520,
+            "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2418520/header.jpg",
+            "inject_files": [
+                "https://kyzu-proxy.ucupbaba1906.workers.dev/secure_download?appid=2418520&auth_code=RYUUMANIFEST72oz"
+            ],
+            "bypass_files": []
         }
     ]
 }
