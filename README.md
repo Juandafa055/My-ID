@@ -4316,6 +4316,15 @@
                 "https://kyzu-proxy.ucupbaba1906.workers.dev/secure_download?appid=3192310&auth_code=RYUUMANIFEST72oz"
             ],
             "bypass_files": []
+        },
+        {
+            "name": "Scale the Depths",
+            "steamAppId": 3198890,
+            "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3198890/header.jpg",
+            "inject_files": [
+                "https://kyzu-proxy.ucupbaba1906.workers.dev/secure_download?appid=3198890&auth_code=RYUUMANIFEST72oz"
+            ],
+            "bypass_files": []
         }
     ]
 }
