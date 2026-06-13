@@ -3210,6 +3210,15 @@
                 "https://kyzu-proxy.ucupbaba1906.workers.dev/secure_download?appid=350080&auth_code=RYUUMANIFEST72oz"
             ],
             "bypass_files": []
+        },
+        {
+            "name": "Romance of the Three Kingdoms XIII",
+            "steamAppId": 363150,
+            "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/363150/header.jpg",
+            "inject_files": [
+                "https://kyzu-proxy.ucupbaba1906.workers.dev/secure_download?appid=363150&auth_code=RYUUMANIFEST72oz"
+            ],
+            "bypass_files": []
         }
     ]
 }
