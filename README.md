@@ -3266,6 +3266,15 @@
                 "https://drive.google.com/file/d/1nOvikIggcnpSA23DcDqmVSmAio8GiSGv/view?usp=drivesdk"
             ],
             "bypass_files": []
+        },
+        {
+            "name": "Batman - The Telltale Series",
+            "steamAppId": 498240,
+            "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/498240/header.jpg",
+            "inject_files": [
+                "https://kyzu-proxy.ucupbaba1906.workers.dev/secure_download?appid=498240&auth_code=RYUUMANIFEST72oz"
+            ],
+            "bypass_files": []
         }
     ]
 }
