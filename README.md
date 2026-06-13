@@ -3374,6 +3374,15 @@
                 "https://kyzu-proxy.ucupbaba1906.workers.dev/secure_download?appid=622650&auth_code=RYUUMANIFEST72oz"
             ],
             "bypass_files": []
+        },
+        {
+            "name": "Romance of the Three Kingdoms XII with Power Up Kit",
+            "steamAppId": 628080,
+            "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/628080/header.jpg",
+            "inject_files": [
+                "https://kyzu-proxy.ucupbaba1906.workers.dev/secure_download?appid=628080&auth_code=RYUUMANIFEST72oz"
+            ],
+            "bypass_files": []
         }
     ]
 }
