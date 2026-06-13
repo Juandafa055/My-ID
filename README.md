@@ -4105,6 +4105,15 @@
                 "https://kyzu-proxy.ucupbaba1906.workers.dev/secure_download?appid=2553870&auth_code=RYUUMANIFEST72oz"
             ],
             "bypass_files": []
+        },
+        {
+            "name": "Lathe Machine Simulator",
+            "steamAppId": 2601070,
+            "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2601070/header.jpg",
+            "inject_files": [
+                "https://kyzu-proxy.ucupbaba1906.workers.dev/secure_download?appid=2601070&auth_code=RYUUMANIFEST72oz"
+            ],
+            "bypass_files": []
         }
     ]
 }
