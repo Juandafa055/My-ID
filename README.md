@@ -3502,6 +3502,15 @@
                 "https://kyzu-proxy.ucupbaba1906.workers.dev/secure_download?appid=991270&auth_code=RYUUMANIFEST72oz"
             ],
             "bypass_files": []
+        },
+        {
+            "name": "Farthest Frontier",
+            "steamAppId": 1044720,
+            "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1044720/header.jpg",
+            "inject_files": [
+                "https://kyzu-proxy.ucupbaba1906.workers.dev/secure_download?appid=1044720&auth_code=RYUUMANIFEST72oz"
+            ],
+            "bypass_files": []
         }
     ]
 }
