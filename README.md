@@ -3129,6 +3129,15 @@
             "bypass_files": [
                 "https://huggingface.co/datasets/dikiajak/fix/resolve/main/phantom%20%20pain%20fix%20v.zip?download=true"
             ]
+        },
+        {
+            "name": "Disney•Pixar Toy Story 3: The Video Game",
+            "steamAppId": 300820,
+            "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/300820/header.jpg",
+            "inject_files": [
+                "https://kyzu-proxy.ucupbaba1906.workers.dev/secure_download?appid=300820&auth_code=RYUUMANIFEST72oz"
+            ],
+            "bypass_files": []
         }
     ]
 }
