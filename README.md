@@ -4069,6 +4069,15 @@
                 "https://kyzu-proxy.ucupbaba1906.workers.dev/secure_download?appid=2418520&auth_code=RYUUMANIFEST72oz"
             ],
             "bypass_files": []
+        },
+        {
+            "name": "SpongeBob SquarePants: Titans of the Tide",
+            "steamAppId": 2479650,
+            "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2479650/header.jpg",
+            "inject_files": [
+                "https://kyzu-proxy.ucupbaba1906.workers.dev/secure_download?appid=2479650&auth_code=RYUUMANIFEST72oz"
+            ],
+            "bypass_files": []
         }
     ]
 }
