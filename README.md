@@ -3673,6 +3673,15 @@
                 "https://kyzu-proxy.ucupbaba1906.workers.dev/secure_download?appid=1313140&auth_code=RYUUMANIFEST72oz"
             ],
             "bypass_files": []
+        },
+        {
+            "name": "Mount & Blade: Warband",
+            "steamAppId": 48700,
+            "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/48700/header.jpg",
+            "inject_files": [
+                "https://kyzu-proxy.ucupbaba1906.workers.dev/secure_download?appid=48700&auth_code=RYUUMANIFEST72oz"
+            ],
+            "bypass_files": []
         }
     ]
 }
