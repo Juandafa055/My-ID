@@ -3745,6 +3745,15 @@
                 "https://kyzu-proxy.ucupbaba1906.workers.dev/secure_download?appid=1449690&auth_code=RYUUMANIFEST72oz"
             ],
             "bypass_files": []
+        },
+        {
+            "name": "Tainted Grail: The Fall of Avalon",
+            "steamAppId": 1466060,
+            "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1466060/header.jpg",
+            "inject_files": [
+                "https://kyzu-proxy.ucupbaba1906.workers.dev/secure_download?appid=1466060&auth_code=RYUUMANIFEST72oz"
+            ],
+            "bypass_files": []
         }
     ]
 }
