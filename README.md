@@ -2848,6 +2848,15 @@
                 "https://kyzu-proxy.ucupbaba1906.workers.dev/secure_download?appid=3678970&auth_code=RYUUMANIFEST72oz"
             ],
             "bypass_files": []
+        },
+        {
+            "name": "Barking from the Dark",
+            "steamAppId": 4398770,
+            "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4398770/header.jpg",
+            "inject_files": [
+                "https://kyzu-proxy.ucupbaba1906.workers.dev/secure_download?appid=4398770&auth_code=RYUUMANIFEST72oz"
+            ],
+            "bypass_files": []
         }
     ]
 }
