@@ -3538,6 +3538,15 @@
                 "https://kyzu-proxy.ucupbaba1906.workers.dev/secure_download?appid=1088850&auth_code=RYUUMANIFEST72oz"
             ],
             "bypass_files": []
+        },
+        {
+            "name": "The Great Ace Attorney Chronicles",
+            "steamAppId": 1158850,
+            "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1158850/header.jpg",
+            "inject_files": [
+                "https://kyzu-proxy.ucupbaba1906.workers.dev/secure_download?appid=1158850&auth_code=RYUUMANIFEST72oz"
+            ],
+            "bypass_files": []
         }
     ]
 }
