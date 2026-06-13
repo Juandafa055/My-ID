@@ -2938,6 +2938,15 @@
                 "https://kyzu-proxy.ucupbaba1906.workers.dev/secure_download?appid=1843940&auth_code=RYUUMANIFEST72oz"
             ],
             "bypass_files": []
+        },
+        {
+            "name": "DEATH STRANDING DIRECTOR'S CUT",
+            "steamAppId": 1850570,
+            "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1850570/header.jpg",
+            "inject_files": [
+                "https://kyzu-proxy.ucupbaba1906.workers.dev/secure_download?appid=1850570&auth_code=RYUUMANIFEST72oz"
+            ],
+            "bypass_files": []
         }
     ]
 }
