@@ -3392,6 +3392,17 @@
                 "https://kyzu-proxy.ucupbaba1906.workers.dev/secure_download?appid=640920&auth_code=RYUUMANIFEST72oz"
             ],
             "bypass_files": []
+        },
+        {
+            "name": "The Crew™ 2",
+            "steamAppId": 646910,
+            "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/646910/header.jpg",
+            "inject_files": [
+                "https://kyzu-proxy.ucupbaba1906.workers.dev/secure_download?appid=646910&auth_code=RYUUMANIFEST72oz"
+            ],
+            "bypass_files": [
+                "https://pixeldrain.com/u/RfrLYYUr"
+            ]
         }
     ]
 }
