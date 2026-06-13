@@ -4096,6 +4096,15 @@
                 "https://kyzu-proxy.ucupbaba1906.workers.dev/secure_download?appid=2543830&auth_code=RYUUMANIFEST72oz"
             ],
             "bypass_files": []
+        },
+        {
+            "name": "The Genesis Order",
+            "steamAppId": 2553870,
+            "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2553870/header.jpg",
+            "inject_files": [
+                "https://kyzu-proxy.ucupbaba1906.workers.dev/secure_download?appid=2553870&auth_code=RYUUMANIFEST72oz"
+            ],
+            "bypass_files": []
         }
     ]
 }
