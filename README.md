@@ -3691,6 +3691,15 @@
                 "https://kyzu-proxy.ucupbaba1906.workers.dev/secure_download?appid=1340990&auth_code=RYUUMANIFEST72oz"
             ],
             "bypass_files": []
+        },
+        {
+            "name": "[Chilla's Art] The Ghost Train",
+            "steamAppId": 1349960,
+            "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1349960/header.jpg",
+            "inject_files": [
+                "https://kyzu-proxy.ucupbaba1906.workers.dev/secure_download?appid=1349960&auth_code=RYUUMANIFEST72oz"
+            ],
+            "bypass_files": []
         }
     ]
 }
