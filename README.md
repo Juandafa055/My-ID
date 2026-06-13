@@ -3619,6 +3619,15 @@
                 "https://kyzu-proxy.ucupbaba1906.workers.dev/secure_download?appid=1282150&auth_code=RYUUMANIFEST72oz"
             ],
             "bypass_files": []
+        },
+        {
+            "name": "The Planet Crafter",
+            "steamAppId": 1284190,
+            "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1284190/header.jpg",
+            "inject_files": [
+                "https://kyzu-proxy.ucupbaba1906.workers.dev/secure_download?appid=1284190&auth_code=RYUUMANIFEST72oz"
+            ],
+            "bypass_files": []
         }
     ]
 }
