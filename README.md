@@ -3237,6 +3237,15 @@
                 "https://kyzu-proxy.ucupbaba1906.workers.dev/secure_download?appid=383980&auth_code=RYUUMANIFEST72oz"
             ],
             "bypass_files": []
+        },
+        {
+            "name": "MXGP2 - The Official Motocross Videogame",
+            "steamAppId": 400800,
+            "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/400800/header.jpg",
+            "inject_files": [
+                "https://kyzu-proxy.ucupbaba1906.workers.dev/secure_download?appid=400800&auth_code=RYUUMANIFEST72oz"
+            ],
+            "bypass_files": []
         }
     ]
 }
