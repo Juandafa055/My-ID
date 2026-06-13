@@ -3138,6 +3138,15 @@
                 "https://kyzu-proxy.ucupbaba1906.workers.dev/secure_download?appid=300820&auth_code=RYUUMANIFEST72oz"
             ],
             "bypass_files": []
+        },
+        {
+            "name": "Disney•Pixar Cars 2: The Video Game",
+            "steamAppId": 301760,
+            "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/301760/header.jpg",
+            "inject_files": [
+                "https://kyzu-proxy.ucupbaba1906.workers.dev/secure_download?appid=301760&auth_code=RYUUMANIFEST72oz"
+            ],
+            "bypass_files": []
         }
     ]
 }
