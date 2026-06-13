@@ -3817,6 +3817,15 @@
                 "https://kyzu-proxy.ucupbaba1906.workers.dev/secure_download?appid=1594940&auth_code=RYUUMANIFEST72oz"
             ],
             "bypass_files": []
+        },
+        {
+            "name": "MXGP 2021 - The Official Motocross Videogame",
+            "steamAppId": 1610470,
+            "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1610470/header.jpg",
+            "inject_files": [
+                "https://kyzu-proxy.ucupbaba1906.workers.dev/secure_download?appid=1610470&auth_code=RYUUMANIFEST72oz"
+            ],
+            "bypass_files": []
         }
     ]
 }
