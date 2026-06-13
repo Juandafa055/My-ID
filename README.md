@@ -3165,6 +3165,15 @@
                 "https://kyzu-proxy.ucupbaba1906.workers.dev/secure_download?appid=311690&auth_code=RYUUMANIFEST72oz"
             ],
             "bypass_files": []
+        },
+        {
+            "name": "Don't Starve Together",
+            "steamAppId": 322330,
+            "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/322330/header.jpg",
+            "inject_files": [
+                "https://kyzu-proxy.ucupbaba1906.workers.dev/secure_download?appid=322330&auth_code=RYUUMANIFEST72oz"
+            ],
+            "bypass_files": []
         }
     ]
 }
