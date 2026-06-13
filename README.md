@@ -3100,6 +3100,15 @@
                 "https://kyzu-proxy.ucupbaba1906.workers.dev/secure_download?appid=1260320&auth_code=RYUUMANIFEST72oz"
             ],
             "bypass_files": []
+        },
+        {
+            "name": "The Walking Dead: Season Two",
+            "steamAppId": 261030,
+            "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/261030/header.jpg",
+            "inject_files": [
+                "https://kyzu-proxy.ucupbaba1906.workers.dev/secure_download?appid=261030&auth_code=RYUUMANIFEST72oz"
+            ],
+            "bypass_files": []
         }
     ]
 }
