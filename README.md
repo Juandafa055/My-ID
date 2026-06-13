@@ -3808,6 +3808,15 @@
                 "https://kyzu-proxy.ucupbaba1906.workers.dev/secure_download?appid=1577120&auth_code=RYUUMANIFEST72oz"
             ],
             "bypass_files": []
+        },
+        {
+            "name": "Little Witch in the Woods",
+            "steamAppId": 1594940,
+            "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1594940/header.jpg",
+            "inject_files": [
+                "https://kyzu-proxy.ucupbaba1906.workers.dev/secure_download?appid=1594940&auth_code=RYUUMANIFEST72oz"
+            ],
+            "bypass_files": []
         }
     ]
 }
