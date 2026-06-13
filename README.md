@@ -2920,6 +2920,15 @@
                 "https://kyzu-proxy.ucupbaba1906.workers.dev/secure_download?appid=1062520&auth_code=RYUUMANIFEST72oz"
             ],
             "bypass_files": []
+        },
+        {
+            "name": "The Great Ace Attorney 2: Resolve Grand Performance Recording",
+            "steamAppId": 1694080,
+            "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1694080/header.jpg",
+            "inject_files": [
+                "https://kyzu-proxy.ucupbaba1906.workers.dev/secure_download?appid=1694080&auth_code=RYUUMANIFEST72oz"
+            ],
+            "bypass_files": []
         }
     ]
 }
