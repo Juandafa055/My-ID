@@ -3592,6 +3592,15 @@
                 "https://kyzu-proxy.ucupbaba1906.workers.dev/secure_download?appid=1228520&auth_code=RYUUMANIFEST72oz"
             ],
             "bypass_files": []
+        },
+        {
+            "name": "The Sims™ 4 Get To Work",
+            "steamAppId": 1235734,
+            "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1235734/header.jpg",
+            "inject_files": [
+                "Mm"
+            ],
+            "bypass_files": []
         }
     ]
 }
