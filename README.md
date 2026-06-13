@@ -3718,6 +3718,15 @@
                 "https://kyzu-proxy.ucupbaba1906.workers.dev/secure_download?appid=1408610&auth_code=RYUUMANIFEST72oz"
             ],
             "bypass_files": []
+        },
+        {
+            "name": "SimRail - The Railway Simulator",
+            "steamAppId": 1422130,
+            "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1422130/header.jpg",
+            "inject_files": [
+                "https://kyzu-proxy.ucupbaba1906.workers.dev/secure_download?appid=1422130&auth_code=RYUUMANIFEST72oz"
+            ],
+            "bypass_files": []
         }
     ]
 }
