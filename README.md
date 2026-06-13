@@ -2983,6 +2983,15 @@
                 "https://kyzu-proxy.ucupbaba1906.workers.dev/secure_download?appid=22320&auth_code=RYUUMANIFEST72oz"
             ],
             "bypass_files": []
+        },
+        {
+            "name": "The Saboteur™",
+            "steamAppId": 24880,
+            "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/24880/header.jpg",
+            "inject_files": [
+                "https://kyzu-proxy.ucupbaba1906.workers.dev/secure_download?appid=24880&auth_code=RYUUMANIFEST72oz"
+            ],
+            "bypass_files": []
         }
     ]
 }
