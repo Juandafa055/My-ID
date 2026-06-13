@@ -3356,6 +3356,15 @@
                 "https://kyzu-proxy.ucupbaba1906.workers.dev/secure_download?appid=612880&auth_code=RYUUMANIFEST72oz"
             ],
             "bypass_files": []
+        },
+        {
+            "name": "Remnant: From the Ashes",
+            "steamAppId": 617290,
+            "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/617290/header.jpg",
+            "inject_files": [
+                "https://kyzu-proxy.ucupbaba1906.workers.dev/secure_download?appid=617290&auth_code=RYUUMANIFEST72oz"
+            ],
+            "bypass_files": []
         }
     ]
 }
