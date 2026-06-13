@@ -4114,6 +4114,15 @@
                 "https://kyzu-proxy.ucupbaba1906.workers.dev/secure_download?appid=2601070&auth_code=RYUUMANIFEST72oz"
             ],
             "bypass_files": []
+        },
+        {
+            "name": "The Elder Scrolls IV: Oblivion Remastered",
+            "steamAppId": 2623190,
+            "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2623190/header.jpg",
+            "inject_files": [
+                "https://kyzu-proxy.ucupbaba1906.workers.dev/secure_download?appid=2623190&auth_code=RYUUMANIFEST72oz"
+            ],
+            "bypass_files": []
         }
     ]
 }
