@@ -3799,6 +3799,15 @@
                 "https://kyzu-proxy.ucupbaba1906.workers.dev/secure_download?appid=1508570&auth_code=RYUUMANIFEST72oz"
             ],
             "bypass_files": []
+        },
+        {
+            "name": "The Quarry",
+            "steamAppId": 1577120,
+            "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1577120/header.jpg",
+            "inject_files": [
+                "https://kyzu-proxy.ucupbaba1906.workers.dev/secure_download?appid=1577120&auth_code=RYUUMANIFEST72oz"
+            ],
+            "bypass_files": []
         }
     ]
 }
