@@ -4280,6 +4280,15 @@
                 "https://kyzu-proxy.ucupbaba1906.workers.dev/secure_download?appid=2929250&auth_code=RYUUMANIFEST72oz"
             ],
             "bypass_files": []
+        },
+        {
+            "name": "Surviving the Apocalypse Is More Fun When There’s Sex",
+            "steamAppId": 2979840,
+            "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2979840/header.jpg",
+            "inject_files": [
+                "https://kyzu-proxy.ucupbaba1906.workers.dev/secure_download?appid=2979840&auth_code=RYUUMANIFEST72oz"
+            ],
+            "bypass_files": []
         }
     ]
 }
