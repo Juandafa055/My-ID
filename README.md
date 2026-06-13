@@ -3147,6 +3147,15 @@
                 "https://kyzu-proxy.ucupbaba1906.workers.dev/secure_download?appid=301760&auth_code=RYUUMANIFEST72oz"
             ],
             "bypass_files": []
+        },
+        {
+            "name": "Hegemony Rome: The Rise of Caesar - Bannermen Pack",
+            "steamAppId": 308170,
+            "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/308170/header.jpg",
+            "inject_files": [
+                "https://kyzu-proxy.ucupbaba1906.workers.dev/secure_download?appid=308170&auth_code=RYUUMANIFEST72oz"
+            ],
+            "bypass_files": []
         }
     ]
 }
