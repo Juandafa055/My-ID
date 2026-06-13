@@ -2812,6 +2812,15 @@
                 "https://kyzu-proxy.ucupbaba1906.workers.dev/secure_download?appid=759740&auth_code=RYUUMANIFEST72oz"
             ],
             "bypass_files": []
+        },
+        {
+            "name": "Log Riders",
+            "steamAppId": 4082750,
+            "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4082750/header.jpg",
+            "inject_files": [
+                "https://kyzu-proxy.ucupbaba1906.workers.dev/secure_download?appid=4082750&auth_code=RYUUMANIFEST72oz"
+            ],
+            "bypass_files": []
         }
     ]
 }
