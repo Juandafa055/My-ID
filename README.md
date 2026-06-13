@@ -2803,6 +2803,15 @@
                 "https://kyzu-proxy.ucupbaba1906.workers.dev/secure_download?appid=680420&auth_code=RYUUMANIFEST72oz"
             ],
             "bypass_files": []
+        },
+        {
+            "name": "RIDE 3",
+            "steamAppId": 759740,
+            "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/759740/header.jpg",
+            "inject_files": [
+                "https://kyzu-proxy.ucupbaba1906.workers.dev/secure_download?appid=759740&auth_code=RYUUMANIFEST72oz"
+            ],
+            "bypass_files": []
         }
     ]
 }
