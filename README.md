@@ -4298,6 +4298,15 @@
                 "https://kyzu-proxy.ucupbaba1906.workers.dev/secure_download?appid=3008130&auth_code=RYUUMANIFEST72oz"
             ],
             "bypass_files": []
+        },
+        {
+            "name": "Granny: Escape Together",
+            "steamAppId": 3070520,
+            "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3070520/header.jpg",
+            "inject_files": [
+                "https://kyzu-proxy.ucupbaba1906.workers.dev/secure_download?appid=3070520&auth_code=RYUUMANIFEST72oz"
+            ],
+            "bypass_files": []
         }
     ]
 }
