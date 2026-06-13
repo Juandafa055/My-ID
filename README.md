@@ -3156,6 +3156,15 @@
                 "https://kyzu-proxy.ucupbaba1906.workers.dev/secure_download?appid=308170&auth_code=RYUUMANIFEST72oz"
             ],
             "bypass_files": []
+        },
+        {
+            "name": "Enter the Gungeon",
+            "steamAppId": 311690,
+            "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/311690/header.jpg",
+            "inject_files": [
+                "https://kyzu-proxy.ucupbaba1906.workers.dev/secure_download?appid=311690&auth_code=RYUUMANIFEST72oz"
+            ],
+            "bypass_files": []
         }
     ]
 }
