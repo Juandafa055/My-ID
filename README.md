@@ -2875,6 +2875,15 @@
                 "https://kyzu-proxy.ucupbaba1906.workers.dev/secure_download?appid=37280&auth_code=RYUUMANIFEST72oz"
             ],
             "bypass_files": []
+        },
+        {
+            "name": "Frostpunk",
+            "steamAppId": 323190,
+            "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/323190/header.jpg",
+            "inject_files": [
+                "https://kyzu-proxy.ucupbaba1906.workers.dev/secure_download?appid=323190&auth_code=RYUUMANIFEST72oz"
+            ],
+            "bypass_files": []
         }
     ]
 }
