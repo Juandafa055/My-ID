@@ -3055,6 +3055,15 @@
                 "https://kyzu-proxy.ucupbaba1906.workers.dev/secure_download?appid=214230&auth_code=RYUUMANIFEST72oz"
             ],
             "bypass_files": []
+        },
+        {
+            "name": "LEGO® The Lord of the Rings™",
+            "steamAppId": 214510,
+            "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/214510/header.jpg",
+            "inject_files": [
+                "https://kyzu-proxy.ucupbaba1906.workers.dev/secure_download?appid=214510&auth_code=RYUUMANIFEST72oz"
+            ],
+            "bypass_files": []
         }
     ]
 }
