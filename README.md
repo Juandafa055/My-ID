@@ -4190,6 +4190,15 @@
                 "https://drive.google.com/file/d/1Rh2QM0yUC9UbtHPMWk0vTBfGSu5Z4GYi/view?usp=sharing"
             ],
             "bypass_files": []
+        },
+        {
+            "name": "Dead Cells",
+            "steamAppId": 588650,
+            "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/588650/header.jpg",
+            "inject_files": [
+                "https://kyzu-proxy.ucupbaba1906.workers.dev/secure_download?appid=588650&auth_code=RYUUMANIFEST72oz"
+            ],
+            "bypass_files": []
         }
     ]
 }
