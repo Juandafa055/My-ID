@@ -3046,6 +3046,15 @@
                 "https://kyzu-proxy.ucupbaba1906.workers.dev/secure_download?appid=212500&auth_code=RYUUMANIFEST72oz"
             ],
             "bypass_files": []
+        },
+        {
+            "name": "Family Guy™: Back to the Multiverse",
+            "steamAppId": 214230,
+            "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/214230/header.jpg",
+            "inject_files": [
+                "https://kyzu-proxy.ucupbaba1906.workers.dev/secure_download?appid=214230&auth_code=RYUUMANIFEST72oz"
+            ],
+            "bypass_files": []
         }
     ]
 }
