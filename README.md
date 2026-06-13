@@ -3853,6 +3853,15 @@
                 "https://kyzu-proxy.ucupbaba1906.workers.dev/secure_download?appid=1629520&auth_code=RYUUMANIFEST72oz"
             ],
             "bypass_files": []
+        },
+        {
+            "name": "The Married Manager's Scandalous Services - The Pleasures of the Night Shift",
+            "steamAppId": 1650290,
+            "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1650290/header.jpg",
+            "inject_files": [
+                "https://kyzu-proxy.ucupbaba1906.workers.dev/secure_download?appid=1650290&auth_code=RYUUMANIFEST72oz"
+            ],
+            "bypass_files": []
         }
     ]
 }
