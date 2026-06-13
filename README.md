@@ -3646,6 +3646,15 @@
                 "https://kyzu-proxy.ucupbaba1906.workers.dev/secure_download?appid=1288320&auth_code=RYUUMANIFEST72oz"
             ],
             "bypass_files": []
+        },
+        {
+            "name": "The Mortuary Assistant",
+            "steamAppId": 1295920,
+            "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1295920/header.jpg",
+            "inject_files": [
+                "https://kyzu-proxy.ucupbaba1906.workers.dev/secure_download?appid=1295920&auth_code=RYUUMANIFEST72oz"
+            ],
+            "bypass_files": []
         }
     ]
 }
