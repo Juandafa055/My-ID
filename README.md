@@ -3916,6 +3916,15 @@
                 "https://kyzu-proxy.ucupbaba1906.workers.dev/secure_download?appid=1875580&auth_code=RYUUMANIFEST72oz"
             ],
             "bypass_files": []
+        },
+        {
+            "name": "Escape the Backrooms",
+            "steamAppId": 1943950,
+            "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1943950/header.jpg",
+            "inject_files": [
+                "https://kyzu-proxy.ucupbaba1906.workers.dev/secure_download?appid=1943950&auth_code=RYUUMANIFEST72oz"
+            ],
+            "bypass_files": []
         }
     ]
 }
