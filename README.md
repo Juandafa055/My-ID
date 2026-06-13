@@ -2974,6 +2974,15 @@
                 "https://kyzu-proxy.ucupbaba1906.workers.dev/secure_download?appid=3622640&auth_code=RYUUMANIFEST72oz"
             ],
             "bypass_files": []
+        },
+        {
+            "name": "The Elder Scrolls III: Morrowind® Game of the Year Edition",
+            "steamAppId": 22320,
+            "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/22320/header.jpg",
+            "inject_files": [
+                "https://kyzu-proxy.ucupbaba1906.workers.dev/secure_download?appid=22320&auth_code=RYUUMANIFEST72oz"
+            ],
+            "bypass_files": []
         }
     ]
 }
