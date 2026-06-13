@@ -4235,6 +4235,15 @@
                 "https://kyzu-proxy.ucupbaba1906.workers.dev/secure_download?appid=2697000&auth_code=RYUUMANIFEST72oz"
             ],
             "bypass_files": []
+        },
+        {
+            "name": "Shin chan: Shiro and the Coal Town",
+            "steamAppId": 2699820,
+            "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2699820/header.jpg",
+            "inject_files": [
+                "https://kyzu-proxy.ucupbaba1906.workers.dev/secure_download?appid=2699820&auth_code=RYUUMANIFEST72oz"
+            ],
+            "bypass_files": []
         }
     ]
 }
