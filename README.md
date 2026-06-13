@@ -3772,6 +3772,15 @@
                 "https://kyzu-proxy.ucupbaba1906.workers.dev/secure_download?appid=1488200&auth_code=RYUUMANIFEST72oz"
             ],
             "bypass_files": []
+        },
+        {
+            "name": "THE KING OF FIGHTERS XV",
+            "steamAppId": 1498570,
+            "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1498570/header.jpg",
+            "inject_files": [
+                "https://kyzu-proxy.ucupbaba1906.workers.dev/secure_download?appid=1498570&auth_code=RYUUMANIFEST72oz"
+            ],
+            "bypass_files": []
         }
     ]
 }
