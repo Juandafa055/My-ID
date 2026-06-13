@@ -3979,6 +3979,15 @@
                 "https://kyzu-proxy.ucupbaba1906.workers.dev/secure_download?appid=2215390&auth_code=RYUUMANIFEST72oz"
             ],
             "bypass_files": []
+        },
+        {
+            "name": "A Quiet Place: The Road Ahead",
+            "steamAppId": 2233120,
+            "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2233120/header.jpg",
+            "inject_files": [
+                "https://kyzu-proxy.ucupbaba1906.workers.dev/secure_download?appid=2233120&auth_code=RYUUMANIFEST72oz"
+            ],
+            "bypass_files": []
         }
     ]
 }
