@@ -3073,6 +3073,15 @@
                 "https://kyzu-proxy.ucupbaba1906.workers.dev/secure_download?appid=221910&auth_code=RYUUMANIFEST72oz"
             ],
             "bypass_files": []
+        },
+        {
+            "name": "The Typing of The Dead: Overkill",
+            "steamAppId": 246580,
+            "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/246580/header.jpg",
+            "inject_files": [
+                "https://kyzu-proxy.ucupbaba1906.workers.dev/secure_download?appid=246580&auth_code=RYUUMANIFEST72oz"
+            ],
+            "bypass_files": []
         }
     ]
 }
