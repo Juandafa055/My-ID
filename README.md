@@ -4078,6 +4078,15 @@
                 "https://kyzu-proxy.ucupbaba1906.workers.dev/secure_download?appid=2479650&auth_code=RYUUMANIFEST72oz"
             ],
             "bypass_files": []
+        },
+        {
+            "name": "The Quintessential Quintuplets - Memories of a Quintessential Summer",
+            "steamAppId": 2507610,
+            "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2507610/header.jpg",
+            "inject_files": [
+                "https://kyzu-proxy.ucupbaba1906.workers.dev/secure_download?appid=2507610&auth_code=RYUUMANIFEST72oz"
+            ],
+            "bypass_files": []
         }
     ]
 }
