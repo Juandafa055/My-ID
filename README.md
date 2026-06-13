@@ -4141,6 +4141,15 @@
                 "https://kyzu-proxy.ucupbaba1906.workers.dev/secure_download?appid=2688570&auth_code=RYUUMANIFEST72oz"
             ],
             "bypass_files": []
+        },
+        {
+            "name": "Small Spaces",
+            "steamAppId": 3151380,
+            "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3151380/header.jpg",
+            "inject_files": [
+                "https://kyzu-proxy.ucupbaba1906.workers.dev/secure_download?appid=3151380&auth_code=RYUUMANIFEST72oz"
+            ],
+            "bypass_files": []
         }
     ]
 }
