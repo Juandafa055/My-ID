@@ -3347,6 +3347,15 @@
                 "https://kyzu-proxy.ucupbaba1906.workers.dev/secure_download?appid=601430&auth_code=RYUUMANIFEST72oz"
             ],
             "bypass_files": []
+        },
+        {
+            "name": "Wolfenstein II: The New Colossus",
+            "steamAppId": 612880,
+            "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/612880/header.jpg",
+            "inject_files": [
+                "https://kyzu-proxy.ucupbaba1906.workers.dev/secure_download?appid=612880&auth_code=RYUUMANIFEST72oz"
+            ],
+            "bypass_files": []
         }
     ]
 }
