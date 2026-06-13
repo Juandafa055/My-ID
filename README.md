@@ -3219,6 +3219,15 @@
                 "https://kyzu-proxy.ucupbaba1906.workers.dev/secure_download?appid=363150&auth_code=RYUUMANIFEST72oz"
             ],
             "bypass_files": []
+        },
+        {
+            "name": "The Isle",
+            "steamAppId": 376210,
+            "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/376210/header.jpg",
+            "inject_files": [
+                "https://kyzu-proxy.ucupbaba1906.workers.dev/secure_download?appid=376210&auth_code=RYUUMANIFEST72oz"
+            ],
+            "bypass_files": []
         }
     ]
 }
