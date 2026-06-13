@@ -3583,6 +3583,15 @@
                 "https://drive.google.com/file/d/11z9BhEs_ZGA6JyJSsjjYBS3qEFkfP6Y9/view?usp=sharing"
             ],
             "bypass_files": []
+        },
+        {
+            "name": "[Chilla's Art] The Convenience Store",
+            "steamAppId": 1228520,
+            "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1228520/header.jpg",
+            "inject_files": [
+                "https://kyzu-proxy.ucupbaba1906.workers.dev/secure_download?appid=1228520&auth_code=RYUUMANIFEST72oz"
+            ],
+            "bypass_files": []
         }
     ]
 }
