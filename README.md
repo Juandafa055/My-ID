@@ -4181,6 +4181,15 @@
             "bypass_files": [
                 "https://drive.usercontent.google.com/download?id=15ZdH9u3c6Xb5dcOtlivYWkX5sVvRHpjl&export=download&authuser=0&confirm=t&uuid=9be0ed6c-be7c-4269-a9ae-10c9405c382b&at=ALBwUgnlMud_UElAg0lAQkDgLuus%3A1777530778771"
             ]
+        },
+        {
+            "name": "Streamer Life Simulator",
+            "steamAppId": 1261040,
+            "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1261040/header.jpg",
+            "inject_files": [
+                "https://drive.google.com/file/d/1Rh2QM0yUC9UbtHPMWk0vTBfGSu5Z4GYi/view?usp=sharing"
+            ],
+            "bypass_files": []
         }
     ]
 }
