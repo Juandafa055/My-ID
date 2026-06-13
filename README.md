@@ -4123,6 +4123,15 @@
                 "https://kyzu-proxy.ucupbaba1906.workers.dev/secure_download?appid=2623190&auth_code=RYUUMANIFEST72oz"
             ],
             "bypass_files": []
+        },
+        {
+            "name": "The First Berserker: Khazan",
+            "steamAppId": 2680010,
+            "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2680010/header.jpg",
+            "inject_files": [
+                "https://kyzu-proxy.ucupbaba1906.workers.dev/secure_download?appid=2680010&auth_code=RYUUMANIFEST72oz"
+            ],
+            "bypass_files": []
         }
     ]
 }
