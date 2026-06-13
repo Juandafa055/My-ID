@@ -3028,6 +3028,15 @@
                 "https://kyzu-proxy.ucupbaba1906.workers.dev/secure_download?appid=47890&auth_code=RYUUMANIFEST72oz"
             ],
             "bypass_files": []
+        },
+        {
+            "name": "Wolfenstein: The New Order",
+            "steamAppId": 201810,
+            "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/201810/header.jpg",
+            "inject_files": [
+                "https://kyzu-proxy.ucupbaba1906.workers.dev/secure_download?appid=201810&auth_code=RYUUMANIFEST72oz"
+            ],
+            "bypass_files": []
         }
     ]
 }
