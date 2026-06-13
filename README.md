@@ -2794,6 +2794,15 @@
             "bypass_files": [
                 "https://huggingface.co/datasets/Strixgame/RedDead2/resolve/main/FixCry5.zip?download=true"
             ]
+        },
+        {
+            "name": "OUTRIDERS",
+            "steamAppId": 680420,
+            "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/680420/header.jpg",
+            "inject_files": [
+                "https://kyzu-proxy.ucupbaba1906.workers.dev/secure_download?appid=680420&auth_code=RYUUMANIFEST72oz"
+            ],
+            "bypass_files": []
         }
     ]
 }
