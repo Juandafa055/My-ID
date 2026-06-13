@@ -3228,6 +3228,15 @@
                 "https://kyzu-proxy.ucupbaba1906.workers.dev/secure_download?appid=376210&auth_code=RYUUMANIFEST72oz"
             ],
             "bypass_files": []
+        },
+        {
+            "name": "Rivals of Aether",
+            "steamAppId": 383980,
+            "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/383980/header.jpg",
+            "inject_files": [
+                "https://kyzu-proxy.ucupbaba1906.workers.dev/secure_download?appid=383980&auth_code=RYUUMANIFEST72oz"
+            ],
+            "bypass_files": []
         }
     ]
 }
