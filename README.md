@@ -3997,6 +3997,15 @@
                 "https://kyzu-proxy.ucupbaba1906.workers.dev/secure_download?appid=2239710&auth_code=RYUUMANIFEST72oz"
             ],
             "bypass_files": []
+        },
+        {
+            "name": "TIEBREAK+: Official Game of the ATP and WTA",
+            "steamAppId": 2264340,
+            "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2264340/header.jpg",
+            "inject_files": [
+                "https://kyzu-proxy.ucupbaba1906.workers.dev/secure_download?appid=2264340&auth_code=RYUUMANIFEST72oz"
+            ],
+            "bypass_files": []
         }
     ]
 }
