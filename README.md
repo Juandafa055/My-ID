@@ -3257,6 +3257,15 @@
             "bypass_files": [
                 "https://huggingface.co/datasets/Strixgame/RedDead2/resolve/main/RvThereYet.zip?download=true"
             ]
+        },
+        {
+            "name": "The Walking Dead: Michonne - A Telltale Miniseries",
+            "steamAppId": 429570,
+            "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/429570/header.jpg",
+            "inject_files": [
+                "https://drive.google.com/file/d/1nOvikIggcnpSA23DcDqmVSmAio8GiSGv/view?usp=drivesdk"
+            ],
+            "bypass_files": []
         }
     ]
 }
