@@ -3457,6 +3457,15 @@
                 "https://kyzu-proxy.ucupbaba1906.workers.dev/secure_download?appid=741510&auth_code=RYUUMANIFEST72oz"
             ],
             "bypass_files": []
+        },
+        {
+            "name": "The Walking Dead: The Final Season",
+            "steamAppId": 866800,
+            "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/866800/header.jpg",
+            "inject_files": [
+                "https://kyzu-proxy.ucupbaba1906.workers.dev/secure_download?appid=866800&auth_code=RYUUMANIFEST72oz"
+            ],
+            "bypass_files": []
         }
     ]
 }
