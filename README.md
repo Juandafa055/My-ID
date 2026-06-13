@@ -3493,6 +3493,15 @@
                 "https://kyzu-proxy.ucupbaba1906.workers.dev/secure_download?appid=939850&auth_code=RYUUMANIFEST72oz"
             ],
             "bypass_files": []
+        },
+        {
+            "name": "The Legend of Heroes: Trails of Cold Steel III",
+            "steamAppId": 991270,
+            "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/991270/header.jpg",
+            "inject_files": [
+                "https://kyzu-proxy.ucupbaba1906.workers.dev/secure_download?appid=991270&auth_code=RYUUMANIFEST72oz"
+            ],
+            "bypass_files": []
         }
     ]
 }
