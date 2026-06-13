@@ -2792,7 +2792,7 @@
                 "https://drive.google.com/file/d/1Ne3AiJ6aEJDmcP5YfzAEMs29ZBu_n3u4/view?usp=sharing"
             ],
             "bypass_files": [
-                "https://huggingface.co/datasets/dikiajak/fix/resolve/main/FARCRY%205%20FIX.rar?download=true"
+                "https://huggingface.co/datasets/Strixgame/RedDead2/resolve/main/FixCry5.zip?download=true"
             ]
         }
     ]
