@@ -3255,7 +3255,7 @@
                 "https://kyzu-proxy.ucupbaba1906.workers.dev/secure_download?appid=3949040&auth_code=RYUUMANIFEST72oz"
             ],
             "bypass_files": [
-                "https://huggingface.co/datasets/dikiajak/fix/resolve/main/RVThereYet_Fix_Repair_Steam_V2_Generic.zip?download=true"
+                "https://huggingface.co/datasets/Strixgame/RedDead2/resolve/main/RvThereYet.zip?download=true"
             ]
         }
     ]
