@@ -3574,6 +3574,15 @@
                 "/addgame 485510 | Nioh: Complete Edition"
             ],
             "bypass_files": []
+        },
+        {
+            "name": "The Sims™ 4",
+            "steamAppId": 1222670,
+            "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1222670/header.jpg",
+            "inject_files": [
+                "https://drive.google.com/file/d/11z9BhEs_ZGA6JyJSsjjYBS3qEFkfP6Y9/view?usp=sharing"
+            ],
+            "bypass_files": []
         }
     ]
 }
