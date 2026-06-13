@@ -2316,7 +2316,7 @@
             "steamAppId": 1113000,
             "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1113000/header.jpg",
             "inject_files": [
-                "https://huggingface.co/datasets/Strixgame/RedDead2/resolve/main/persona4linkfixx.zip?download=true"
+                "https://huggingface.co/datasets/Strixgame/RedDead2/resolve/main/1113000.zip?download=true"
             ],
             "bypass_files": [
                 "https://huggingface.co/datasets/Strixgame/RedDead2/resolve/main/Persona%204%20Golden%20-%20Goldberg.zip?download=true"
