@@ -3037,6 +3037,15 @@
                 "https://kyzu-proxy.ucupbaba1906.workers.dev/secure_download?appid=201810&auth_code=RYUUMANIFEST72oz"
             ],
             "bypass_files": []
+        },
+        {
+            "name": "The Lord of the Rings Online™",
+            "steamAppId": 212500,
+            "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/212500/header.jpg",
+            "inject_files": [
+                "https://kyzu-proxy.ucupbaba1906.workers.dev/secure_download?appid=212500&auth_code=RYUUMANIFEST72oz"
+            ],
+            "bypass_files": []
         }
     ]
 }
