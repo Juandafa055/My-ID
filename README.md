@@ -3284,6 +3284,15 @@
                 "https://kyzu-proxy.ucupbaba1906.workers.dev/secure_download?appid=521150&auth_code=RYUUMANIFEST72oz"
             ],
             "bypass_files": []
+        },
+        {
+            "name": "Vampire: The Masquerade® - Bloodlines™ 2",
+            "steamAppId": 532790,
+            "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/532790/header.jpg",
+            "inject_files": [
+                "https://kyzu-proxy.ucupbaba1906.workers.dev/secure_download?appid=532790&auth_code=RYUUMANIFEST72oz"
+            ],
+            "bypass_files": []
         }
     ]
 }
