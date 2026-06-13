@@ -4033,6 +4033,15 @@
                 "https://kyzu-proxy.ucupbaba1906.workers.dev/secure_download?appid=2287330&auth_code=RYUUMANIFEST72oz"
             ],
             "bypass_files": []
+        },
+        {
+            "name": "ROMANCE OF THE THREE KINGDOMS 8 REMAKE",
+            "steamAppId": 2288150,
+            "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2288150/header.jpg",
+            "inject_files": [
+                "https://kyzu-proxy.ucupbaba1906.workers.dev/secure_download?appid=2288150&auth_code=RYUUMANIFEST72oz"
+            ],
+            "bypass_files": []
         }
     ]
 }
