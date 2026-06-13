@@ -3889,6 +3889,15 @@
                 "https://kyzu-proxy.ucupbaba1906.workers.dev/secure_download?appid=1684350&auth_code=RYUUMANIFEST72oz"
             ],
             "bypass_files": []
+        },
+        {
+            "name": "The Elder Scrolls V: Skyrim Anniversary Upgrade",
+            "steamAppId": 1746860,
+            "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1746860/header.jpg",
+            "inject_files": [
+                "https://kyzu-proxy.ucupbaba1906.workers.dev/secure_download?appid=1746860&auth_code=RYUUMANIFEST72oz"
+            ],
+            "bypass_files": []
         }
     ]
 }
