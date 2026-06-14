@@ -5696,6 +5696,15 @@
                 "https://kyzu-proxy.ucupbaba1906.workers.dev/secure_download?appid=10180&auth_code=RYUUMANIFEST72oz"
             ],
             "bypass_files": []
+        },
+        {
+            "name": "DYNASTY WARRIORS 8: Xtreme Legends Complete Edition",
+            "steamAppId": 278080,
+            "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/278080/header.jpg",
+            "inject_files": [
+                "https://kyzu-proxy.ucupbaba1906.workers.dev/secure_download?appid=278080&auth_code=RYUUMANIFEST72oz"
+            ],
+            "bypass_files": []
         }
     ]
 }
