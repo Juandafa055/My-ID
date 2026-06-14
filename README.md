@@ -6017,6 +6017,15 @@
                 "https://kyzu-proxy.ucupbaba1906.workers.dev/secure_download?appid=33930&auth_code=RYUUMANIFEST72oz"
             ],
             "bypass_files": []
+        },
+        {
+            "name": "Assetto Corsa EVO",
+            "steamAppId": 3058630,
+            "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3058630/header.jpg",
+            "inject_files": [
+                "https://kyzu-proxy.ucupbaba1906.workers.dev/secure_download?appid=3058630&auth_code=RYUUMANIFEST72oz"
+            ],
+            "bypass_files": []
         }
     ]
 }
