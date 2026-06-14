@@ -4658,6 +4658,15 @@
                 "https://kyzu-proxy.ucupbaba1906.workers.dev/secure_download?appid=842180&auth_code=RYUUMANIFEST72oz"
             ],
             "bypass_files": []
+        },
+        {
+            "name": "Goat Simulator 3",
+            "steamAppId": 850190,
+            "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/850190/header.jpg",
+            "inject_files": [
+                "https://kyzu-proxy.ucupbaba1906.workers.dev/secure_download?appid=850190&auth_code=RYUUMANIFEST72oz"
+            ],
+            "bypass_files": []
         }
     ]
 }
