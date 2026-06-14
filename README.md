@@ -5047,6 +5047,15 @@
                 "https://drive.google.com/file/d/1tnLFt2JzUMBT9CShqipGEs6gNdcOh9FP/view?usp=drivesdk"
             ],
             "bypass_files": []
+        },
+        {
+            "name": "Exotica 2: Pet Shop Simulator",
+            "steamAppId": 2824380,
+            "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2824380/header.jpg",
+            "inject_files": [
+                "https://kyzu-proxy.ucupbaba1906.workers.dev/secure_download?appid=2824380&auth_code=RYUUMANIFEST72oz"
+            ],
+            "bypass_files": []
         }
     ]
 }
