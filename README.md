@@ -5137,6 +5137,15 @@
                 "https://kyzu-proxy.ucupbaba1906.workers.dev/secure_download?appid=3058360&auth_code=RYUUMANIFEST72oz"
             ],
             "bypass_files": []
+        },
+        {
+            "name": "Path of Exile 2",
+            "steamAppId": 2694490,
+            "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2694490/header.jpg",
+            "inject_files": [
+                "https://kyzu-proxy.ucupbaba1906.workers.dev/secure_download?appid=2694490&auth_code=RYUUMANIFEST72oz"
+            ],
+            "bypass_files": []
         }
     ]
 }
