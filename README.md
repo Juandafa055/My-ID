@@ -6379,6 +6379,15 @@
                 "https://kyzu-proxy.ucupbaba1906.workers.dev/secure_download?appid=220200&auth_code=RYUUMANIFEST72oz"
             ],
             "bypass_files": []
+        },
+        {
+            "name": "SpaceEngine",
+            "steamAppId": 314650,
+            "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/314650/header.jpg",
+            "inject_files": [
+                "https://kyzu-proxy.ucupbaba1906.workers.dev/secure_download?appid=314650&auth_code=RYUUMANIFEST72oz"
+            ],
+            "bypass_files": []
         }
     ]
 }
