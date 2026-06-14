@@ -6610,6 +6610,15 @@
                 "https://kyzu-proxy.ucupbaba1906.workers.dev/secure_download?appid=594330&auth_code=RYUUMANIFEST72oz"
             ],
             "bypass_files": []
+        },
+        {
+            "name": "I Was a Teenage Exocolonist",
+            "steamAppId": 1148760,
+            "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1148760/header.jpg",
+            "inject_files": [
+                "https://kyzu-proxy.ucupbaba1906.workers.dev/secure_download?appid=1148760&auth_code=RYUUMANIFEST72oz"
+            ],
+            "bypass_files": []
         }
     ]
 }
