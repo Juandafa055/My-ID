@@ -4379,6 +4379,15 @@
                 "https://kyzu-proxy.ucupbaba1906.workers.dev/secure_download?appid=3365050&auth_code=RYUUMANIFEST72oz"
             ],
             "bypass_files": []
+        },
+        {
+            "name": "Tales Beyond The Tomb - The Farm's Secret",
+            "steamAppId": 3374720,
+            "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3374720/header.jpg",
+            "inject_files": [
+                "https://kyzu-proxy.ucupbaba1906.workers.dev/secure_download?appid=3374720&auth_code=RYUUMANIFEST72oz"
+            ],
+            "bypass_files": []
         }
     ]
 }
