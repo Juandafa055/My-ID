@@ -4775,6 +4775,15 @@
                 "https://kyzu-proxy.ucupbaba1906.workers.dev/secure_download?appid=1190000&auth_code=RYUUMANIFEST72oz"
             ],
             "bypass_files": []
+        },
+        {
+            "name": "Potion Craft: Alchemist Simulator",
+            "steamAppId": 1210320,
+            "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1210320/header.jpg",
+            "inject_files": [
+                "https://kyzu-proxy.ucupbaba1906.workers.dev/secure_download?appid=1210320&auth_code=RYUUMANIFEST72oz"
+            ],
+            "bypass_files": []
         }
     ]
 }
