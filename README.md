@@ -6691,6 +6691,15 @@
                 "https://kyzu-proxy.ucupbaba1906.workers.dev/secure_download?appid=2996040&auth_code=RYUUMANIFEST72oz"
             ],
             "bypass_files": []
+        },
+        {
+            "name": "Teamfight Manager 2",
+            "steamAppId": 3009300,
+            "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3009300/header.jpg",
+            "inject_files": [
+                "https://kyzu-proxy.ucupbaba1906.workers.dev/secure_download?appid=3009300&auth_code=RYUUMANIFEST72oz"
+            ],
+            "bypass_files": []
         }
     ]
 }
