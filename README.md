@@ -4876,6 +4876,15 @@
                 "https://kyzu-proxy.ucupbaba1906.workers.dev/secure_download?appid=1718870&auth_code=RYUUMANIFEST72oz"
             ],
             "bypass_files": []
+        },
+        {
+            "name": "Lushfoil Photography Sim",
+            "steamAppId": 1749860,
+            "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1749860/header.jpg",
+            "inject_files": [
+                "https://kyzu-proxy.ucupbaba1906.workers.dev/secure_download?appid=1749860&auth_code=RYUUMANIFEST72oz"
+            ],
+            "bypass_files": []
         }
     ]
 }
