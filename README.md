@@ -4784,6 +4784,17 @@
                 "https://kyzu-proxy.ucupbaba1906.workers.dev/secure_download?appid=1210320&auth_code=RYUUMANIFEST72oz"
             ],
             "bypass_files": []
+        },
+        {
+            "name": "Microsoft Flight Simulator (2020) 40th Anniversary Edition",
+            "steamAppId": 1250410,
+            "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1250410/header.jpg",
+            "inject_files": [
+                "https://drive.google.com/file/d/1DFLk5KILqQJy-JZIIXPjm9gA5Rh-L2Vf/view?usp=drivesdk"
+            ],
+            "bypass_files": [
+                "https://www.mediafire.com/file/ulwlgz2mmgukdt0/MICROSOFT_FLIGHT_FIX.zip/file"
+            ]
         }
     ]
 }
