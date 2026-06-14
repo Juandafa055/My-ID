@@ -4712,6 +4712,15 @@
                 "https://kyzu-proxy.ucupbaba1906.workers.dev/secure_download?appid=1078760&auth_code=RYUUMANIFEST72oz"
             ],
             "bypass_files": []
+        },
+        {
+            "name": "Fireworks Mania - An Explosive Simulator",
+            "steamAppId": 1079260,
+            "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1079260/header.jpg",
+            "inject_files": [
+                "https://kyzu-proxy.ucupbaba1906.workers.dev/secure_download?appid=1079260&auth_code=RYUUMANIFEST72oz"
+            ],
+            "bypass_files": []
         }
     ]
 }
