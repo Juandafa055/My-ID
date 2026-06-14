@@ -5416,6 +5416,17 @@
                 "https://kyzu-proxy.ucupbaba1906.workers.dev/secure_download?appid=1172620&auth_code=RYUUMANIFEST72oz"
             ],
             "bypass_files": []
+        },
+        {
+            "name": "EA SPORTS™ FIFA 21",
+            "steamAppId": 1313860,
+            "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1313860/header.jpg",
+            "inject_files": [
+                "https://kyzu-proxy.ucupbaba1906.workers.dev/secure_download?appid=1313860&auth_code=RYUUMANIFEST72oz"
+            ],
+            "bypass_files": [
+                "https://drive.google.com/file/d/1jJ5XkkOLwRbP4EjvDmL75oVX3crxtN0s/view?usp=sharing"
+            ]
         }
     ]
 }
