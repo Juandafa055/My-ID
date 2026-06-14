@@ -5496,6 +5496,15 @@
             "bypass_files": [
                 "https://pixeldrain.com/u/2K94aeei"
             ]
+        },
+        {
+            "name": "Hello Kitty Island Adventure",
+            "steamAppId": 2495100,
+            "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2495100/header.jpg",
+            "inject_files": [
+                "https://kyzu-proxy.ucupbaba1906.workers.dev/secure_download?appid=2495100&auth_code=RYUUMANIFEST72oz"
+            ],
+            "bypass_files": []
         }
     ]
 }
