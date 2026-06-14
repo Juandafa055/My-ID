@@ -5550,6 +5550,15 @@
                 "https://kyzu-proxy.ucupbaba1906.workers.dev/secure_download?appid=21130&auth_code=RYUUMANIFEST72oz"
             ],
             "bypass_files": []
+        },
+        {
+            "name": "LEGO® Harry Potter: Years 5-7",
+            "steamAppId": 204120,
+            "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/204120/header.jpg",
+            "inject_files": [
+                "https://kyzu-proxy.ucupbaba1906.workers.dev/secure_download?appid=204120&auth_code=RYUUMANIFEST72oz"
+            ],
+            "bypass_files": []
         }
     ]
 }
