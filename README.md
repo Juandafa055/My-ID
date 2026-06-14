@@ -6583,6 +6583,15 @@
                 "https://kyzu-proxy.ucupbaba1906.workers.dev/secure_download?appid=1446650&auth_code=RYUUMANIFEST72oz"
             ],
             "bypass_files": []
+        },
+        {
+            "name": "Age of History 2: Definitive Edition",
+            "steamAppId": 3381680,
+            "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3381680/header.jpg",
+            "inject_files": [
+                "https://kyzu-proxy.ucupbaba1906.workers.dev/secure_download?appid=3381680&auth_code=RYUUMANIFEST72oz"
+            ],
+            "bypass_files": []
         }
     ]
 }
