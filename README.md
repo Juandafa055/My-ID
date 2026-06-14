@@ -6442,6 +6442,15 @@
                 "https://kyzu-proxy.ucupbaba1906.workers.dev/secure_download?appid=969990&auth_code=RYUUMANIFEST72oz"
             ],
             "bypass_files": []
+        },
+        {
+            "name": "EARTH DEFENSE FORCE 5",
+            "steamAppId": 1007040,
+            "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1007040/header.jpg",
+            "inject_files": [
+                "https://kyzu-proxy.ucupbaba1906.workers.dev/secure_download?appid=1007040&auth_code=RYUUMANIFEST72oz"
+            ],
+            "bypass_files": []
         }
     ]
 }
