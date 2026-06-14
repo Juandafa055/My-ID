@@ -4703,6 +4703,15 @@
                 "https://kyzu-proxy.ucupbaba1906.workers.dev/secure_download?appid=1018800&auth_code=RYUUMANIFEST72oz"
             ],
             "bypass_files": []
+        },
+        {
+            "name": "Motorcycle Mechanic Simulator 2021",
+            "steamAppId": 1078760,
+            "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1078760/header.jpg",
+            "inject_files": [
+                "https://kyzu-proxy.ucupbaba1906.workers.dev/secure_download?appid=1078760&auth_code=RYUUMANIFEST72oz"
+            ],
+            "bypass_files": []
         }
     ]
 }
