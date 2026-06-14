@@ -6482,6 +6482,17 @@
             "bypass_files": [
                 "https://huggingface.co/datasets/dikiajak/fix/resolve/main/NFS13.zip?download=true"
             ]
+        },
+        {
+            "name": "Need for Speed™ Hot Pursuit Remastered",
+            "steamAppId": 1328660,
+            "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1328660/header.jpg",
+            "inject_files": [
+                "https://kyzu-proxy.ucupbaba1906.workers.dev/secure_download?appid=1328660&auth_code=RYUUMANIFEST72oz"
+            ],
+            "bypass_files": [
+                "https://pixeldrain.com/u/zPtRRGvk"
+            ]
         }
     ]
 }
