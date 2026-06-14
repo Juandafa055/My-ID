@@ -6871,6 +6871,15 @@
                 "https://kyzu-proxy.ucupbaba1906.workers.dev/secure_download?appid=1167630&auth_code=RYUUMANIFEST72oz"
             ],
             "bypass_files": []
+        },
+        {
+            "name": "Return to Castle Wolfenstein",
+            "steamAppId": 9010,
+            "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/9010/header.jpg",
+            "inject_files": [
+                "https://kyzu-proxy.ucupbaba1906.workers.dev/secure_download?appid=9010&auth_code=RYUUMANIFEST72oz"
+            ],
+            "bypass_files": []
         }
     ]
 }
