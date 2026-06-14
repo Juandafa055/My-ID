@@ -4831,6 +4831,15 @@
                 "https://kyzu-proxy.ucupbaba1906.workers.dev/secure_download?appid=1351240&auth_code=RYUUMANIFEST72oz"
             ],
             "bypass_files": []
+        },
+        {
+            "name": "Storage Hunter Simulator",
+            "steamAppId": 1442430,
+            "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1442430/header.jpg",
+            "inject_files": [
+                "https://drive.google.com/file/d/1SXzAk9S_OCY6Hza1vEpela9psrKf10Hx/view?usp=sharing"
+            ],
+            "bypass_files": []
         }
     ]
 }
