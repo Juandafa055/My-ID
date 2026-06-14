@@ -4640,6 +4640,15 @@
                 "https://kyzu-proxy.ucupbaba1906.workers.dev/secure_download?appid=787860&auth_code=RYUUMANIFEST72oz"
             ],
             "bypass_files": []
+        },
+        {
+            "name": "Fishing Sim World®: Pro Tour",
+            "steamAppId": 834280,
+            "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/834280/header.jpg",
+            "inject_files": [
+                "https://kyzu-proxy.ucupbaba1906.workers.dev/secure_download?appid=834280&auth_code=RYUUMANIFEST72oz"
+            ],
+            "bypass_files": []
         }
     ]
 }
