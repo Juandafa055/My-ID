@@ -6925,6 +6925,15 @@
                 "https://kyzu-proxy.ucupbaba1906.workers.dev/secure_download?appid=681280&auth_code=RYUUMANIFEST72oz"
             ],
             "bypass_files": []
+        },
+        {
+            "name": "Endzone - A World Apart",
+            "steamAppId": 933820,
+            "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/933820/header.jpg",
+            "inject_files": [
+                "https://kyzu-proxy.ucupbaba1906.workers.dev/secure_download?appid=933820&auth_code=RYUUMANIFEST72oz"
+            ],
+            "bypass_files": []
         }
     ]
 }
