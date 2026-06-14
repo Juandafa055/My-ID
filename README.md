@@ -6709,6 +6709,15 @@
                 "https://kyzu-proxy.ucupbaba1906.workers.dev/secure_download?appid=3165830&auth_code=RYUUMANIFEST72oz"
             ],
             "bypass_files": []
+        },
+        {
+            "name": "Fallen Kunoichi ~Netorare Hidden Village~",
+            "steamAppId": 3670880,
+            "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3670880/header.jpg",
+            "inject_files": [
+                "https://kyzu-proxy.ucupbaba1906.workers.dev/secure_download?appid=3670880&auth_code=RYUUMANIFEST72oz"
+            ],
+            "bypass_files": []
         }
     ]
 }
