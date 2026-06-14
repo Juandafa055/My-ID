@@ -6916,6 +6916,15 @@
                 "https://kyzu-proxy.ucupbaba1906.workers.dev/secure_download?appid=3483740&auth_code=RYUUMANIFEST72oz"
             ],
             "bypass_files": []
+        },
+        {
+            "name": "Descenders",
+            "steamAppId": 681280,
+            "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/681280/header.jpg",
+            "inject_files": [
+                "https://kyzu-proxy.ucupbaba1906.workers.dev/secure_download?appid=681280&auth_code=RYUUMANIFEST72oz"
+            ],
+            "bypass_files": []
         }
     ]
 }
