@@ -4966,6 +4966,15 @@
                 "https://kyzu-proxy.ucupbaba1906.workers.dev/secure_download?appid=2394350&auth_code=RYUUMANIFEST72oz"
             ],
             "bypass_files": []
+        },
+        {
+            "name": "Car Dealer Simulator",
+            "steamAppId": 2404880,
+            "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2404880/header.jpg",
+            "inject_files": [
+                "https://kyzu-proxy.ucupbaba1906.workers.dev/secure_download?appid=2404880&auth_code=RYUUMANIFEST72oz"
+            ],
+            "bypass_files": []
         }
     ]
 }
