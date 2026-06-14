@@ -6934,6 +6934,15 @@
                 "https://kyzu-proxy.ucupbaba1906.workers.dev/secure_download?appid=933820&auth_code=RYUUMANIFEST72oz"
             ],
             "bypass_files": []
+        },
+        {
+            "name": "STORY OF SEASONS: Friends of Mineral Town",
+            "steamAppId": 978780,
+            "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/978780/header.jpg",
+            "inject_files": [
+                "https://drive.google.com/file/d/1CYG_lHntI2jpz55TohLZ1_kcRaQS6ptE/view?usp=sharing"
+            ],
+            "bypass_files": []
         }
     ]
 }
