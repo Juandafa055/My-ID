@@ -4451,6 +4451,15 @@
                 "https://kyzu-proxy.ucupbaba1906.workers.dev/secure_download?appid=3828610&auth_code=RYUUMANIFEST72oz"
             ],
             "bypass_files": []
+        },
+        {
+            "name": "Tales Beyond The Tomb - Route 86",
+            "steamAppId": 3860920,
+            "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3860920/header.jpg",
+            "inject_files": [
+                "https://kyzu-proxy.ucupbaba1906.workers.dev/secure_download?appid=3860920&auth_code=RYUUMANIFEST72oz"
+            ],
+            "bypass_files": []
         }
     ]
 }
