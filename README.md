@@ -5586,6 +5586,15 @@
                 "https://kyzu-proxy.ucupbaba1906.workers.dev/secure_download?appid=313690&auth_code=RYUUMANIFEST72oz"
             ],
             "bypass_files": []
+        },
+        {
+            "name": "LEGO® City Undercover",
+            "steamAppId": 578330,
+            "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/578330/header.jpg",
+            "inject_files": [
+                "https://kyzu-proxy.ucupbaba1906.workers.dev/secure_download?appid=578330&auth_code=RYUUMANIFEST72oz"
+            ],
+            "bypass_files": []
         }
     ]
 }
