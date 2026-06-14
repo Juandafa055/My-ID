@@ -6323,6 +6323,17 @@
                 "https://huggingface.co/datasets/Strixgame/RedDead2/resolve/main/2246670.zip?download=true"
             ],
             "bypass_files": []
+        },
+        {
+            "name": "STAR WARS Jedi: Survivor™",
+            "steamAppId": 1774580,
+            "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1774580/header.jpg",
+            "inject_files": [
+                "https://kyzu-proxy.ucupbaba1906.workers.dev/secure_download?appid=1774580&auth_code=RYUUMANIFEST72oz"
+            ],
+            "bypass_files": [
+                "https://huggingface.co/datasets/dikiajak/fix/resolve/main/jedi_survivor_fix.rar?download=true"
+            ]
         }
     ]
 }
