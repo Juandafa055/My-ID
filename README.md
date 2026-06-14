@@ -5445,6 +5445,17 @@
                 "https://kyzu-proxy.ucupbaba1906.workers.dev/secure_download?appid=2511320&auth_code=RYUUMANIFEST72oz"
             ],
             "bypass_files": []
+        },
+        {
+            "name": "Football Manager 2023",
+            "steamAppId": 1904540,
+            "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1904540/header.jpg",
+            "inject_files": [
+                "https://kyzu-proxy.ucupbaba1906.workers.dev/secure_download?appid=1904540&auth_code=RYUUMANIFEST72oz"
+            ],
+            "bypass_files": [
+                "https://www.mediafire.com/file/xnzu2zjfqwrq70f/football_manager_23_fixKYZUGAMESS.rar/file"
+            ]
         }
     ]
 }
