@@ -4388,6 +4388,15 @@
                 "https://kyzu-proxy.ucupbaba1906.workers.dev/secure_download?appid=3374720&auth_code=RYUUMANIFEST72oz"
             ],
             "bypass_files": []
+        },
+        {
+            "name": "The House Always Wins",
+            "steamAppId": 3412160,
+            "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3412160/header.jpg",
+            "inject_files": [
+                "https://kyzu-proxy.ucupbaba1906.workers.dev/secure_download?appid=3412160&auth_code=RYUUMANIFEST72oz"
+            ],
+            "bypass_files": []
         }
     ]
 }
