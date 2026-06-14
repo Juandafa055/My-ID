@@ -6835,6 +6835,15 @@
                 "https://kyzu-proxy.ucupbaba1906.workers.dev/secure_download?appid=1645820&auth_code=RYUUMANIFEST72oz"
             ],
             "bypass_files": []
+        },
+        {
+            "name": "Vampire Survivors",
+            "steamAppId": 1794680,
+            "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1794680/header.jpg",
+            "inject_files": [
+                "https://kyzu-proxy.ucupbaba1906.workers.dev/secure_download?appid=1794680&auth_code=RYUUMANIFEST72oz"
+            ],
+            "bypass_files": []
         }
     ]
 }
