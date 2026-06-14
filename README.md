@@ -6125,6 +6125,15 @@
                 "https://kyzu-proxy.ucupbaba1906.workers.dev/secure_download?appid=1136370&auth_code=RYUUMANIFEST72oz"
             ],
             "bypass_files": []
+        },
+        {
+            "name": "Love and Sex: Second Base",
+            "steamAppId": 1264710,
+            "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1264710/header.jpg",
+            "inject_files": [
+                "https://drive.google.com/file/d/1bIUTbluTUIAG_DuAU7W8jYoHrOUQ_8V1/view?usp=drivesdk"
+            ],
+            "bypass_files": []
         }
     ]
 }
