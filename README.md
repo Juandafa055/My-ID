@@ -5376,6 +5376,17 @@
             "bypass_files": [
                 "https://www.mediafire.com/file/s90m975tuf2ybjs/ACCNFICkyzugames.zip/file"
             ]
+        },
+        {
+            "name": "Assassin’s Creed® IV Black Flag™",
+            "steamAppId": 242050,
+            "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/242050/header.jpg",
+            "inject_files": [
+                "https://drive.google.com/file/d/158IbLvAxixFTtrt2R-w3SniWCzE9gDI_/view?usp=sharing"
+            ],
+            "bypass_files": [
+                "https://www.mediafire.com/file/pwwmht3smal9sty/ACBlackFlagFIXkyzugames.zip/file"
+            ]
         }
     ]
 }
