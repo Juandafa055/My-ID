@@ -5761,6 +5761,15 @@
                 "https://kyzu-proxy.ucupbaba1906.workers.dev/secure_download?appid=477870&auth_code=RYUUMANIFEST72oz"
             ],
             "bypass_files": []
+        },
+        {
+            "name": "Holdfast: Nations At War",
+            "steamAppId": 589290,
+            "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/589290/header.jpg",
+            "inject_files": [
+                "https://kyzu-proxy.ucupbaba1906.workers.dev/secure_download?appid=589290&auth_code=RYUUMANIFEST72oz"
+            ],
+            "bypass_files": []
         }
     ]
 }
