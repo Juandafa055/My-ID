@@ -5916,6 +5916,15 @@
                 "https://kyzu-proxy.ucupbaba1906.workers.dev/secure_download?appid=2050510&auth_code=RYUUMANIFEST72oz"
             ],
             "bypass_files": []
+        },
+        {
+            "name": "Warhammer 40,000: Space Marine 2",
+            "steamAppId": 2183900,
+            "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2183900/header.jpg",
+            "inject_files": [
+                "https://kyzu-proxy.ucupbaba1906.workers.dev/secure_download?appid=2183900&auth_code=RYUUMANIFEST72oz"
+            ],
+            "bypass_files": []
         }
     ]
 }
