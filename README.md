@@ -6547,6 +6547,15 @@
                 "https://drive.google.com/file/d/1jdrLAd5Bv5qYaOO0U9hvY8j1_WvAIwkg/view?usp=sharing"
             ],
             "bypass_files": []
+        },
+        {
+            "name": "Divinity: Original Sin 2 - Definitive Edition",
+            "steamAppId": 435150,
+            "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/435150/header.jpg",
+            "inject_files": [
+                "https://kyzu-proxy.ucupbaba1906.workers.dev/secure_download?appid=435150&auth_code=RYUUMANIFEST72oz"
+            ],
+            "bypass_files": []
         }
     ]
 }
