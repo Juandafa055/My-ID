@@ -5332,6 +5332,17 @@
             "bypass_files": [
                 "https://pixeldrain.com/u/EcDPpM8P"
             ]
+        },
+        {
+            "name": "Assassin's Creed® Origins",
+            "steamAppId": 582160,
+            "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/582160/header.jpg",
+            "inject_files": [
+                "https://drive.google.com/file/d/1dGvQBFtXM8Rz2FnwDegbCSXD_7TxMjuk/view?usp=sharing"
+            ],
+            "bypass_files": [
+                "https://pixeldrain.com/u/u64TFfKq"
+            ]
         }
     ]
 }
