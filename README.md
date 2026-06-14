@@ -6334,6 +6334,15 @@
             "bypass_files": [
                 "https://huggingface.co/datasets/Strixgame/RedDead2/resolve/main/jedi_survivor_fix_PASS.zip?download=true"
             ]
+        },
+        {
+            "name": "Slay the Spire 2",
+            "steamAppId": 2868840,
+            "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2868840/header.jpg",
+            "inject_files": [
+                "https://kyzu-proxy.ucupbaba1906.workers.dev/secure_download?appid=2868840&auth_code=RYUUMANIFEST72oz"
+            ],
+            "bypass_files": []
         }
     ]
 }
