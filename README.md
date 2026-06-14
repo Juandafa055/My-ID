@@ -4541,6 +4541,15 @@
                 "https://kyzu-proxy.ucupbaba1906.workers.dev/secure_download?appid=265930&auth_code=RYUUMANIFEST72oz"
             ],
             "bypass_files": []
+        },
+        {
+            "name": "American Truck Simulator",
+            "steamAppId": 270880,
+            "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/270880/header.jpg",
+            "inject_files": [
+                "https://kyzu-proxy.ucupbaba1906.workers.dev/secure_download?appid=270880&auth_code=RYUUMANIFEST72oz"
+            ],
+            "bypass_files": []
         }
     ]
 }
