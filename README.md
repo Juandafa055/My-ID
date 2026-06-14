@@ -6718,6 +6718,15 @@
                 "https://kyzu-proxy.ucupbaba1906.workers.dev/secure_download?appid=3670880&auth_code=RYUUMANIFEST72oz"
             ],
             "bypass_files": []
+        },
+        {
+            "name": "Cafe Business Manager",
+            "steamAppId": 4026480,
+            "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4026480/header.jpg",
+            "inject_files": [
+                "https://www.mediafire.com/file/p5uggikgkbvoafo/4026480.zip/file"
+            ],
+            "bypass_files": []
         }
     ]
 }
