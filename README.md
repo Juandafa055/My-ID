@@ -4361,6 +4361,15 @@
                 "https://kyzu-proxy.ucupbaba1906.workers.dev/secure_download?appid=3338950&auth_code=RYUUMANIFEST72oz"
             ],
             "bypass_files": []
+        },
+        {
+            "name": "Atelier Ryza 2: Lost Legends & the Secret Fairy DX",
+            "steamAppId": 3365040,
+            "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3365040/header.jpg",
+            "inject_files": [
+                "https://kyzu-proxy.ucupbaba1906.workers.dev/secure_download?appid=3365040&auth_code=RYUUMANIFEST72oz"
+            ],
+            "bypass_files": []
         }
     ]
 }
