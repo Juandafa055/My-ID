@@ -5301,6 +5301,15 @@
             "bypass_files": [
                 "https://www.mediafire.com/file/hd5debvn7q1i2tc/AssassinCreedValhalaFIXKYZUGAMESS.zip/file"
             ]
+        },
+        {
+            "name": "Phoenix Wright: Ace Attorney Trilogy",
+            "steamAppId": 787480,
+            "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/787480/header.jpg",
+            "inject_files": [
+                "https://kyzu-proxy.ucupbaba1906.workers.dev/secure_download?appid=787480&auth_code=RYUUMANIFEST72oz"
+            ],
+            "bypass_files": []
         }
     ]
 }
