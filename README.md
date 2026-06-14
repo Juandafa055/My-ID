@@ -4604,6 +4604,15 @@
                 "https://kyzu-proxy.ucupbaba1906.workers.dev/secure_download?appid=672630&auth_code=RYUUMANIFEST72oz"
             ],
             "bypass_files": []
+        },
+        {
+            "name": "Thief Simulator",
+            "steamAppId": 704850,
+            "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/704850/header.jpg",
+            "inject_files": [
+                "https://kyzu-proxy.ucupbaba1906.workers.dev/secure_download?appid=704850&auth_code=RYUUMANIFEST72oz"
+            ],
+            "bypass_files": []
         }
     ]
 }
