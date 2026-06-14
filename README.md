@@ -1006,7 +1006,7 @@
                 "https://drive.google.com/file/d/1NrWpwu9szYEEOQUJUaVHdGfyDKY9k4J7/view?usp=sharing"
             ],
             "bypass_files": [
-                "https://drive.google.com/file/d/1vNP6CYjKnhYhu7VIAuucJblk7QNeiGqm/view?usp=drivesdk"
+                "https://huggingface.co/datasets/Strixgame/RedDead2/resolve/main/Terrariaonlinefix.zip?download=true"
             ]
         },
         {
