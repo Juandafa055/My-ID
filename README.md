@@ -5651,6 +5651,15 @@
             "bypass_files": [
                 "https://huggingface.co/datasets/dikiajak/fix/resolve/main/Hogwarts.Legacy.Crackrar.zip?download=true"
             ]
+        },
+        {
+            "name": "Cartel Tycoon",
+            "steamAppId": 1220140,
+            "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1220140/header.jpg",
+            "inject_files": [
+                "https://kyzu-proxy.ucupbaba1906.workers.dev/secure_download?appid=1220140&auth_code=RYUUMANIFEST72oz"
+            ],
+            "bypass_files": []
         }
     ]
 }
