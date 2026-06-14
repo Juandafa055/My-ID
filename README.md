@@ -6970,6 +6970,15 @@
                 "https://kyzu-proxy.ucupbaba1906.workers.dev/secure_download?appid=2144640&auth_code=RYUUMANIFEST72oz"
             ],
             "bypass_files": []
+        },
+        {
+            "name": "Wizard of Legend 2",
+            "steamAppId": 2193540,
+            "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2193540/header.jpg",
+            "inject_files": [
+                "https://kyzu-proxy.ucupbaba1906.workers.dev/secure_download?appid=2193540&auth_code=RYUUMANIFEST72oz"
+            ],
+            "bypass_files": []
         }
     ]
 }
