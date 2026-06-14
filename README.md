@@ -4370,6 +4370,15 @@
                 "https://kyzu-proxy.ucupbaba1906.workers.dev/secure_download?appid=3365040&auth_code=RYUUMANIFEST72oz"
             ],
             "bypass_files": []
+        },
+        {
+            "name": "Atelier Ryza 3: Alchemist of the End & the Secret Key DX",
+            "steamAppId": 3365050,
+            "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3365050/header.jpg",
+            "inject_files": [
+                "https://kyzu-proxy.ucupbaba1906.workers.dev/secure_download?appid=3365050&auth_code=RYUUMANIFEST72oz"
+            ],
+            "bypass_files": []
         }
     ]
 }
