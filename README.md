@@ -5972,6 +5972,15 @@
             "bypass_files": [
                 "https://huggingface.co/datasets/dikiajak/fix/resolve/main/iw9_crtz_mp(9.40)_sp(9.7)_steam_offline_v1_.r4v3n.zip?download=true"
             ]
+        },
+        {
+            "name": "Call of Duty®: Modern Warfare® III",
+            "steamAppId": 3595270,
+            "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3595270/header.jpg",
+            "inject_files": [
+                "https://kyzu-proxy.ucupbaba1906.workers.dev/secure_download?appid=3595270&auth_code=RYUUMANIFEST72oz"
+            ],
+            "bypass_files": []
         }
     ]
 }
