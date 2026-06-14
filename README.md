@@ -5541,6 +5541,15 @@
                 "https://kyzu-proxy.ucupbaba1906.workers.dev/secure_download?appid=2051120&auth_code=RYUUMANIFEST72oz"
             ],
             "bypass_files": []
+        },
+        {
+            "name": "LEGO® Harry Potter: Years 1-4",
+            "steamAppId": 21130,
+            "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/21130/header.jpg",
+            "inject_files": [
+                "https://kyzu-proxy.ucupbaba1906.workers.dev/secure_download?appid=21130&auth_code=RYUUMANIFEST72oz"
+            ],
+            "bypass_files": []
         }
     ]
 }
