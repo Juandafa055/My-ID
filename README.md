@@ -5687,6 +5687,15 @@
                 "https://kyzu-proxy.ucupbaba1906.workers.dev/secure_download?appid=1447000&auth_code=RYUUMANIFEST72oz"
             ],
             "bypass_files": []
+        },
+        {
+            "name": "Call of Duty®: Modern Warfare® 2 (2009)",
+            "steamAppId": 10180,
+            "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/10180/header.jpg",
+            "inject_files": [
+                "https://kyzu-proxy.ucupbaba1906.workers.dev/secure_download?appid=10180&auth_code=RYUUMANIFEST72oz"
+            ],
+            "bypass_files": []
         }
     ]
 }
