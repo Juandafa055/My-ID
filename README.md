@@ -5779,6 +5779,15 @@
                 "https://kyzu-proxy.ucupbaba1906.workers.dev/secure_download?appid=625980&auth_code=RYUUMANIFEST72oz"
             ],
             "bypass_files": []
+        },
+        {
+            "name": "Zombie Army 4: Dead War",
+            "steamAppId": 694280,
+            "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/694280/header.jpg",
+            "inject_files": [
+                "https://kyzu-proxy.ucupbaba1906.workers.dev/secure_download?appid=694280&auth_code=RYUUMANIFEST72oz"
+            ],
+            "bypass_files": []
         }
     ]
 }
