@@ -5743,6 +5743,15 @@
                 "https://kyzu-proxy.ucupbaba1906.workers.dev/secure_download?appid=362620&auth_code=RYUUMANIFEST72oz"
             ],
             "bypass_files": []
+        },
+        {
+            "name": "Darksiders Warmastered Edition",
+            "steamAppId": 462780,
+            "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/462780/header.jpg",
+            "inject_files": [
+                "https://kyzu-proxy.ucupbaba1906.workers.dev/secure_download?appid=462780&auth_code=RYUUMANIFEST72oz"
+            ],
+            "bypass_files": []
         }
     ]
 }
