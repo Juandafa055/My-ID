@@ -6745,6 +6745,15 @@
                 "https://kyzu-proxy.ucupbaba1906.workers.dev/secure_download?appid=4686110&auth_code=RYUUMANIFEST72oz"
             ],
             "bypass_files": []
+        },
+        {
+            "name": "Devil May Cry 3",
+            "steamAppId": 6550,
+            "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/6550/header.jpg",
+            "inject_files": [
+                "https://kyzu-proxy.ucupbaba1906.workers.dev/secure_download?appid=6550&auth_code=RYUUMANIFEST72oz"
+            ],
+            "bypass_files": []
         }
     ]
 }
