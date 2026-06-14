@@ -6988,6 +6988,17 @@
                 "https://drive.google.com/file/d/1gvOWYkYXQ3kOk_caqKWUK_q7fxU_cjq9/view?usp=drivesdk"
             ],
             "bypass_files": []
+        },
+        {
+            "name": "Gamble With Your Friends",
+            "steamAppId": 3892270,
+            "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3892270/header.jpg",
+            "inject_files": [
+                "https://kyzu-proxy.ucupbaba1906.workers.dev/secure_download?appid=3892270&auth_code=RYUUMANIFEST72oz"
+            ],
+            "bypass_files": [
+                "https://huggingface.co/datasets/dikiajak/fix/resolve/main/gamble%20wth%20fr%20fix.zip?download=true"
+            ]
         }
     ]
 }
