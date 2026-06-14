@@ -5723,6 +5723,17 @@
                 "https://kyzu-proxy.ucupbaba1906.workers.dev/secure_download?appid=322520&auth_code=RYUUMANIFEST72oz"
             ],
             "bypass_files": []
+        },
+        {
+            "name": "Middle-earth™: Shadow of War™",
+            "steamAppId": 356190,
+            "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/356190/header.jpg",
+            "inject_files": [
+                "https://kyzu-proxy.ucupbaba1906.workers.dev/secure_download?appid=356190&auth_code=RYUUMANIFEST72oz"
+            ],
+            "bypass_files": [
+                "https://www.mediafire.com/file/sqk42b5j7w0vnoq/Middle-earth™+Shadow+of+War™+Fix.rar/file"
+            ]
         }
     ]
 }
