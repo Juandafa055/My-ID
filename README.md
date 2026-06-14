@@ -6462,6 +6462,15 @@
             "bypass_files": [
                 "https://huggingface.co/datasets/dikiajak/fix/resolve/main/Need%20for%20Speed%E2%84%A2%20Heat(FIX)kyzugamess.zip?download=true"
             ]
+        },
+        {
+            "name": "Door Kickers 2: Task Force North",
+            "steamAppId": 1239080,
+            "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1239080/header.jpg",
+            "inject_files": [
+                "https://kyzu-proxy.ucupbaba1906.workers.dev/secure_download?appid=1239080&auth_code=RYUUMANIFEST72oz"
+            ],
+            "bypass_files": []
         }
     ]
 }
