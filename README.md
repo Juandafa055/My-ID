@@ -6451,6 +6451,17 @@
                 "https://kyzu-proxy.ucupbaba1906.workers.dev/secure_download?appid=1007040&auth_code=RYUUMANIFEST72oz"
             ],
             "bypass_files": []
+        },
+        {
+            "name": "Need for Speed™ Heat",
+            "steamAppId": 1222680,
+            "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1222680/header.jpg",
+            "inject_files": [
+                "https://kyzu-proxy.ucupbaba1906.workers.dev/secure_download?appid=1222680&auth_code=RYUUMANIFEST72oz"
+            ],
+            "bypass_files": [
+                "https://huggingface.co/datasets/dikiajak/fix/resolve/main/Need%20for%20Speed%E2%84%A2%20Heat(FIX)kyzugamess.zip?download=true"
+            ]
         }
     ]
 }
