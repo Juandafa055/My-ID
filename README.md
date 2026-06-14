@@ -4975,6 +4975,15 @@
                 "https://kyzu-proxy.ucupbaba1906.workers.dev/secure_download?appid=2404880&auth_code=RYUUMANIFEST72oz"
             ],
             "bypass_files": []
+        },
+        {
+            "name": "Anonymous Hacker Simulator",
+            "steamAppId": 2487060,
+            "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2487060/header.jpg",
+            "inject_files": [
+                "https://kyzu-proxy.ucupbaba1906.workers.dev/secure_download?appid=2487060&auth_code=RYUUMANIFEST72oz"
+            ],
+            "bypass_files": []
         }
     ]
 }
