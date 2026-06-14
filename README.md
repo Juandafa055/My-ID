@@ -6062,6 +6062,15 @@
                 "https://kyzu-proxy.ucupbaba1906.workers.dev/secure_download?appid=313120&auth_code=RYUUMANIFEST72oz"
             ],
             "bypass_files": []
+        },
+        {
+            "name": "Dead Island Definitive Edition",
+            "steamAppId": 383150,
+            "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/383150/header.jpg",
+            "inject_files": [
+                "https://kyzu-proxy.ucupbaba1906.workers.dev/secure_download?appid=383150&auth_code=RYUUMANIFEST72oz"
+            ],
+            "bypass_files": []
         }
     ]
 }
