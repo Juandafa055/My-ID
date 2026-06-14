@@ -5943,6 +5943,15 @@
                 "https://huggingface.co/datasets/Strixgame/RedDead2/resolve/main/678960.zip?download=true"
             ],
             "bypass_files": []
+        },
+        {
+            "name": "SAMURAI WARRIORS 4 DX",
+            "steamAppId": 2719200,
+            "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2719200/header.jpg",
+            "inject_files": [
+                "https://kyzu-proxy.ucupbaba1906.workers.dev/secure_download?appid=2719200&auth_code=RYUUMANIFEST72oz"
+            ],
+            "bypass_files": []
         }
     ]
 }
