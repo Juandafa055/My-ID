@@ -6736,6 +6736,15 @@
                 "https://drive.google.com/file/d/19E4e58gK9qe2xyL_cq2cdZbHnaxWvqjv/view?usp=sharing"
             ],
             "bypass_files": []
+        },
+        {
+            "name": "Agents 404",
+            "steamAppId": 4686110,
+            "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4686110/header.jpg",
+            "inject_files": [
+                "https://kyzu-proxy.ucupbaba1906.workers.dev/secure_download?appid=4686110&auth_code=RYUUMANIFEST72oz"
+            ],
+            "bypass_files": []
         }
     ]
 }
