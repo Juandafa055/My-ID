@@ -6574,6 +6574,15 @@
                 "https://kyzu-proxy.ucupbaba1906.workers.dev/secure_download?appid=1030830&auth_code=RYUUMANIFEST72oz"
             ],
             "bypass_files": []
+        },
+        {
+            "name": "BRAVELY DEFAULT II",
+            "steamAppId": 1446650,
+            "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1446650/header.jpg",
+            "inject_files": [
+                "https://kyzu-proxy.ucupbaba1906.workers.dev/secure_download?appid=1446650&auth_code=RYUUMANIFEST72oz"
+            ],
+            "bypass_files": []
         }
     ]
 }
