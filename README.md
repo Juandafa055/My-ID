@@ -5467,6 +5467,15 @@
             "bypass_files": [
                 "https://drive.google.com/file/d/10xdRgLRzykw7SqCTbii2rv5xSJk5yBm5/view?usp=sharing"
             ]
+        },
+        {
+            "name": "City Game Studio: Your Game Dev Adventure Begins",
+            "steamAppId": 726840,
+            "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/726840/header.jpg",
+            "inject_files": [
+                "https://kyzu-proxy.ucupbaba1906.workers.dev/secure_download?appid=726840&auth_code=RYUUMANIFEST72oz"
+            ],
+            "bypass_files": []
         }
     ]
 }
