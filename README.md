@@ -4912,6 +4912,15 @@
                 "https://kyzu-proxy.ucupbaba1906.workers.dev/secure_download?appid=1859290&auth_code=RYUUMANIFEST72oz"
             ],
             "bypass_files": []
+        },
+        {
+            "name": "Train Sim World® 3",
+            "steamAppId": 1944790,
+            "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1944790/header.jpg",
+            "inject_files": [
+                "https://kyzu-proxy.ucupbaba1906.workers.dev/secure_download?appid=1944790&auth_code=RYUUMANIFEST72oz"
+            ],
+            "bypass_files": []
         }
     ]
 }
