@@ -6529,6 +6529,15 @@
                 "https://kyzu-proxy.ucupbaba1906.workers.dev/secure_download?appid=4511140&auth_code=RYUUMANIFEST72oz"
             ],
             "bypass_files": []
+        },
+        {
+            "name": "I Fell for Her",
+            "steamAppId": 4562850,
+            "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4562850/header.jpg",
+            "inject_files": [
+                "https://drive.google.com/file/d/1FCoXldYfbkXJLIE5b1BL2btCG3jClxsg/view?usp=drivesdk"
+            ],
+            "bypass_files": []
         }
     ]
 }
