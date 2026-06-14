@@ -6853,6 +6853,15 @@
                 "https://kyzu-proxy.ucupbaba1906.workers.dev/secure_download?appid=1874000&auth_code=RYUUMANIFEST72oz"
             ],
             "bypass_files": []
+        },
+        {
+            "name": "Shadows of Doubt",
+            "steamAppId": 986130,
+            "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/986130/header.jpg",
+            "inject_files": [
+                "https://kyzu-proxy.ucupbaba1906.workers.dev/secure_download?appid=986130&auth_code=RYUUMANIFEST72oz"
+            ],
+            "bypass_files": []
         }
     ]
 }
