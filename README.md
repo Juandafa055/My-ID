@@ -6352,6 +6352,15 @@
                 "https://drive.google.com/file/d/1yYX3eUtR0XQ90pisUA8z-gFBfzBPO8TU/view?usp=drivesdk"
             ],
             "bypass_files": []
+        },
+        {
+            "name": "Prescribe and Pray",
+            "steamAppId": 3954850,
+            "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3954850/header.jpg",
+            "inject_files": [
+                "https://kyzu-proxy.ucupbaba1906.workers.dev/secure_download?appid=3954850&auth_code=RYUUMANIFEST72oz"
+            ],
+            "bypass_files": []
         }
     ]
 }
