@@ -5833,6 +5833,15 @@
                 "https://kyzu-proxy.ucupbaba1906.workers.dev/secure_download?appid=977880&auth_code=RYUUMANIFEST72oz"
             ],
             "bypass_files": []
+        },
+        {
+            "name": "ONE PIECE: PIRATE WARRIORS 4",
+            "steamAppId": 1089090,
+            "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1089090/header.jpg",
+            "inject_files": [
+                "https://drive.google.com/file/d/1QjE59E1wBFCa83iokRfiDbsrBgu9J1tv/view?usp=sharing"
+            ],
+            "bypass_files": []
         }
     ]
 }
