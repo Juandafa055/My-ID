@@ -6179,6 +6179,15 @@
                 "https://kyzu-proxy.ucupbaba1906.workers.dev/secure_download?appid=1948280&auth_code=RYUUMANIFEST72oz"
             ],
             "bypass_files": []
+        },
+        {
+            "name": "John Carpenter's Toxic Commando",
+            "steamAppId": 2157830,
+            "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2157830/header.jpg",
+            "inject_files": [
+                "https://drive.google.com/file/d/1_aIY1dfGVxVPJPp5n9IYPDef3TxYOAtm/view?usp=drivesdk"
+            ],
+            "bypass_files": []
         }
     ]
 }
