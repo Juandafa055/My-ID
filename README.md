@@ -5456,6 +5456,17 @@
             "bypass_files": [
                 "https://www.mediafire.com/file/xnzu2zjfqwrq70f/football_manager_23_fixKYZUGAMESS.rar/file"
             ]
+        },
+        {
+            "name": "F1 2021",
+            "steamAppId": 1134570,
+            "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1134570/header.jpg",
+            "inject_files": [
+                "https://drive.google.com/file/d/1-citBk0LdC6pcJK_x6jwUS-uc8H40tQC/view?usp=drivesdk"
+            ],
+            "bypass_files": [
+                "https://drive.google.com/file/d/10xdRgLRzykw7SqCTbii2rv5xSJk5yBm5/view?usp=sharing"
+            ]
         }
     ]
 }
