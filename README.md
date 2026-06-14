@@ -6817,6 +6817,15 @@
                 "https://kyzu-proxy.ucupbaba1906.workers.dev/secure_download?appid=3242750&auth_code=RYUUMANIFEST72oz"
             ],
             "bypass_files": []
+        },
+        {
+            "name": "Insurgency",
+            "steamAppId": 222880,
+            "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/222880/header.jpg",
+            "inject_files": [
+                "https://kyzu-proxy.ucupbaba1906.workers.dev/secure_download?appid=222880&auth_code=RYUUMANIFEST72oz"
+            ],
+            "bypass_files": []
         }
     ]
 }
