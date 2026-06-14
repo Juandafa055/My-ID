@@ -5365,6 +5365,17 @@
             "bypass_files": [
                 "https://pixeldrain.com/u/fiYeTqXC"
             ]
+        },
+        {
+            "name": "Assassin’s Creed® Chronicles: China",
+            "steamAppId": 354380,
+            "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/354380/header.jpg",
+            "inject_files": [
+                "https://kyzu-proxy.ucupbaba1906.workers.dev/secure_download?appid=354380&auth_code=RYUUMANIFEST72oz"
+            ],
+            "bypass_files": [
+                "https://www.mediafire.com/file/s90m975tuf2ybjs/ACCNFICkyzugames.zip/file"
+            ]
         }
     ]
 }
