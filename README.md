@@ -5559,6 +5559,15 @@
                 "https://kyzu-proxy.ucupbaba1906.workers.dev/secure_download?appid=204120&auth_code=RYUUMANIFEST72oz"
             ],
             "bypass_files": []
+        },
+        {
+            "name": "LEGO® Batman™ 2: DC Super Heroes",
+            "steamAppId": 213330,
+            "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/213330/header.jpg",
+            "inject_files": [
+                "https://kyzu-proxy.ucupbaba1906.workers.dev/secure_download?appid=213330&auth_code=RYUUMANIFEST72oz"
+            ],
+            "bypass_files": []
         }
     ]
 }
