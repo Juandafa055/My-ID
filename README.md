@@ -6332,7 +6332,7 @@
                 "https://kyzu-proxy.ucupbaba1906.workers.dev/secure_download?appid=1774580&auth_code=RYUUMANIFEST72oz"
             ],
             "bypass_files": [
-                "https://huggingface.co/datasets/dikiajak/fix/resolve/main/jedi_survivor_fix.rar?download=true"
+                "https://huggingface.co/datasets/Strixgame/RedDead2/resolve/main/jedi_survivor_fix_PASS.zip?download=true"
             ]
         }
     ]
