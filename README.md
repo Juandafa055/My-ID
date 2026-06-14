@@ -6134,6 +6134,15 @@
                 "https://drive.google.com/file/d/1bIUTbluTUIAG_DuAU7W8jYoHrOUQ_8V1/view?usp=drivesdk"
             ],
             "bypass_files": []
+        },
+        {
+            "name": "Borderlands 4",
+            "steamAppId": 1285190,
+            "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1285190/header.jpg",
+            "inject_files": [
+                "https://kyzu-proxy.ucupbaba1906.workers.dev/secure_download?appid=1285190&auth_code=RYUUMANIFEST72oz"
+            ],
+            "bypass_files": []
         }
     ]
 }
