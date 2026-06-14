@@ -4586,6 +4586,15 @@
                 "https://kyzu-proxy.ucupbaba1906.workers.dev/secure_download?appid=641320&auth_code=RYUUMANIFEST72oz"
             ],
             "bypass_files": []
+        },
+        {
+            "name": "Beast Battle Simulator",
+            "steamAppId": 671620,
+            "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/671620/header.jpg",
+            "inject_files": [
+                "https://kyzu-proxy.ucupbaba1906.workers.dev/secure_download?appid=671620&auth_code=RYUUMANIFEST72oz"
+            ],
+            "bypass_files": []
         }
     ]
 }
