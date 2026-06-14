@@ -5436,6 +5436,15 @@
                 "https://drive.google.com/file/d/17r5nedosR7uK6Q6H7LvitWejP4YspJCk/view?usp=drivesdk"
             ],
             "bypass_files": []
+        },
+        {
+            "name": "Tour de France 2025",
+            "steamAppId": 2511320,
+            "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2511320/header.jpg",
+            "inject_files": [
+                "https://kyzu-proxy.ucupbaba1906.workers.dev/secure_download?appid=2511320&auth_code=RYUUMANIFEST72oz"
+            ],
+            "bypass_files": []
         }
     ]
 }
