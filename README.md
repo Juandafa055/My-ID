@@ -5290,6 +5290,17 @@
                 "https://kyzu-proxy.ucupbaba1906.workers.dev/secure_download?appid=3751950&auth_code=RYUUMANIFEST72oz"
             ],
             "bypass_files": []
+        },
+        {
+            "name": "Assassin's Creed Valhalla",
+            "steamAppId": 2208920,
+            "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2208920/header.jpg",
+            "inject_files": [
+                "https://kyzu-proxy.ucupbaba1906.workers.dev/secure_download?appid=2208920&auth_code=RYUUMANIFEST72oz"
+            ],
+            "bypass_files": [
+                "https://www.mediafire.com/file/hd5debvn7q1i2tc/AssassinCreedValhalaFIXKYZUGAMESS.zip/file"
+            ]
         }
     ]
 }
