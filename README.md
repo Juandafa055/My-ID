@@ -5343,6 +5343,17 @@
             "bypass_files": [
                 "https://pixeldrain.com/u/u64TFfKq"
             ]
+        },
+        {
+            "name": "Assassin's Creed® Revelations",
+            "steamAppId": 201870,
+            "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/201870/header.jpg",
+            "inject_files": [
+                "https://kyzu-proxy.ucupbaba1906.workers.dev/secure_download?appid=201870&auth_code=RYUUMANIFEST72oz"
+            ],
+            "bypass_files": [
+                "https://pixeldrain.com/u/zqr4YGRF"
+            ]
         }
     ]
 }
