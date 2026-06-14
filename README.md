@@ -6808,6 +6808,15 @@
                 "https://kyzu-proxy.ucupbaba1906.workers.dev/secure_download?appid=2698780&auth_code=RYUUMANIFEST72oz"
             ],
             "bypass_files": []
+        },
+        {
+            "name": "Level Devil",
+            "steamAppId": 3242750,
+            "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3242750/header.jpg",
+            "inject_files": [
+                "https://kyzu-proxy.ucupbaba1906.workers.dev/secure_download?appid=3242750&auth_code=RYUUMANIFEST72oz"
+            ],
+            "bypass_files": []
         }
     ]
 }
