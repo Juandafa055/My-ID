@@ -4885,6 +4885,15 @@
                 "https://kyzu-proxy.ucupbaba1906.workers.dev/secure_download?appid=1749860&auth_code=RYUUMANIFEST72oz"
             ],
             "bypass_files": []
+        },
+        {
+            "name": "Hacker Simulator",
+            "steamAppId": 1754840,
+            "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1754840/header.jpg",
+            "inject_files": [
+                "https://kyzu-proxy.ucupbaba1906.workers.dev/secure_download?appid=1754840&auth_code=RYUUMANIFEST72oz"
+            ],
+            "bypass_files": []
         }
     ]
 }
