@@ -6343,6 +6343,15 @@
                 "https://kyzu-proxy.ucupbaba1906.workers.dev/secure_download?appid=2868840&auth_code=RYUUMANIFEST72oz"
             ],
             "bypass_files": []
+        },
+        {
+            "name": "Island of Hearts",
+            "steamAppId": 3794770,
+            "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3794770/header.jpg",
+            "inject_files": [
+                "https://drive.google.com/file/d/1yYX3eUtR0XQ90pisUA8z-gFBfzBPO8TU/view?usp=drivesdk"
+            ],
+            "bypass_files": []
         }
     ]
 }
