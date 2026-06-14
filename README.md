@@ -5788,6 +5788,15 @@
                 "https://kyzu-proxy.ucupbaba1906.workers.dev/secure_download?appid=694280&auth_code=RYUUMANIFEST72oz"
             ],
             "bypass_files": []
+        },
+        {
+            "name": "World War Z",
+            "steamAppId": 699130,
+            "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/699130/header.jpg",
+            "inject_files": [
+                "https://kyzu-proxy.ucupbaba1906.workers.dev/secure_download?appid=699130&auth_code=RYUUMANIFEST72oz"
+            ],
+            "bypass_files": []
         }
     ]
 }
