@@ -5227,6 +5227,15 @@
                 "https://drive.google.com/file/d/1vQGaCjJa4he8trEkeFovzhVXZIlUGncs/view?usp=drivesdk"
             ],
             "bypass_files": []
+        },
+        {
+            "name": "Gamer Stop Simulator",
+            "steamAppId": 3499220,
+            "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3499220/header.jpg",
+            "inject_files": [
+                "https://kyzu-proxy.ucupbaba1906.workers.dev/secure_download?appid=3499220&auth_code=RYUUMANIFEST72oz"
+            ],
+            "bypass_files": []
         }
     ]
 }
