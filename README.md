@@ -5797,6 +5797,15 @@
                 "https://kyzu-proxy.ucupbaba1906.workers.dev/secure_download?appid=699130&auth_code=RYUUMANIFEST72oz"
             ],
             "bypass_files": []
+        },
+        {
+            "name": "Outward Definitive Edition",
+            "steamAppId": 794260,
+            "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/794260/header.jpg",
+            "inject_files": [
+                "https://kyzu-proxy.ucupbaba1906.workers.dev/secure_download?appid=794260&auth_code=RYUUMANIFEST72oz"
+            ],
+            "bypass_files": []
         }
     ]
 }
