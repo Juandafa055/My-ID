@@ -4559,6 +4559,15 @@
                 "https://kyzu-proxy.ucupbaba1906.workers.dev/secure_download?appid=301320&auth_code=RYUUMANIFEST72oz"
             ],
             "bypass_files": []
+        },
+        {
+            "name": "Microsoft Flight Simulator X: Steam Edition",
+            "steamAppId": 314160,
+            "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/314160/header.jpg",
+            "inject_files": [
+                "https://kyzu-proxy.ucupbaba1906.workers.dev/secure_download?appid=314160&auth_code=RYUUMANIFEST72oz"
+            ],
+            "bypass_files": []
         }
     ]
 }
