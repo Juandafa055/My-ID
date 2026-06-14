@@ -4676,6 +4676,15 @@
                 "https://kyzu-proxy.ucupbaba1906.workers.dev/secure_download?appid=860233&auth_code=RYUUMANIFEST72oz"
             ],
             "bypass_files": []
+        },
+        {
+            "name": "Bus Simulator 21 Next Stop",
+            "steamAppId": 976590,
+            "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/976590/header.jpg",
+            "inject_files": [
+                "https://kyzu-proxy.ucupbaba1906.workers.dev/secure_download?appid=976590&auth_code=RYUUMANIFEST72oz"
+            ],
+            "bypass_files": []
         }
     ]
 }
