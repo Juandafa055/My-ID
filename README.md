@@ -6979,6 +6979,15 @@
                 "https://kyzu-proxy.ucupbaba1906.workers.dev/secure_download?appid=2193540&auth_code=RYUUMANIFEST72oz"
             ],
             "bypass_files": []
+        },
+        {
+            "name": "Thomas & Friends™: Wonders of Sodor",
+            "steamAppId": 3743790,
+            "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3743790/header.jpg",
+            "inject_files": [
+                "https://drive.google.com/file/d/1gvOWYkYXQ3kOk_caqKWUK_q7fxU_cjq9/view?usp=drivesdk"
+            ],
+            "bypass_files": []
         }
     ]
 }
