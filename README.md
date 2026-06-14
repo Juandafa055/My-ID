@@ -6999,6 +6999,15 @@
             "bypass_files": [
                 "https://huggingface.co/datasets/dikiajak/fix/resolve/main/gamble%20wth%20fr%20fix.zip?download=true"
             ]
+        },
+        {
+            "name": "My Best Friend's Sister",
+            "steamAppId": 4007700,
+            "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4007700/header.jpg",
+            "inject_files": [
+                "https://kyzu-proxy.ucupbaba1906.workers.dev/secure_download?appid=4007700&auth_code=RYUUMANIFEST72oz"
+            ],
+            "bypass_files": []
         }
     ]
 }
