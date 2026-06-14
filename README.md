@@ -4795,6 +4795,15 @@
             "bypass_files": [
                 "https://www.mediafire.com/file/ulwlgz2mmgukdt0/MICROSOFT_FLIGHT_FIX.zip/file"
             ]
+        },
+        {
+            "name": "Ship Graveyard Simulator",
+            "steamAppId": 1286880,
+            "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1286880/header.jpg",
+            "inject_files": [
+                "https://kyzu-proxy.ucupbaba1906.workers.dev/secure_download?appid=1286880&auth_code=RYUUMANIFEST72oz"
+            ],
+            "bypass_files": []
         }
     ]
 }
