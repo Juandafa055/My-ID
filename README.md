@@ -5990,6 +5990,15 @@
                 "https://kyzu-proxy.ucupbaba1906.workers.dev/secure_download?appid=4032770&auth_code=RYUUMANIFEST72oz"
             ],
             "bypass_files": []
+        },
+        {
+            "name": "PlatyGuard: Swarm Slayer",
+            "steamAppId": 4265120,
+            "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4265120/header.jpg",
+            "inject_files": [
+                "https://drive.google.com/file/d/1YYH3U7Q_m6YFDosFhjEbugbXeSoXPMwg/view?usp=sharing"
+            ],
+            "bypass_files": []
         }
     ]
 }
