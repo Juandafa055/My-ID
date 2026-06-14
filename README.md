@@ -5907,6 +5907,15 @@
                 "https://kyzu-proxy.ucupbaba1906.workers.dev/secure_download?appid=2000950&auth_code=RYUUMANIFEST72oz"
             ],
             "bypass_files": []
+        },
+        {
+            "name": "Oriental Dynasty - Silk Road defense war",
+            "steamAppId": 2050510,
+            "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2050510/header.jpg",
+            "inject_files": [
+                "https://kyzu-proxy.ucupbaba1906.workers.dev/secure_download?appid=2050510&auth_code=RYUUMANIFEST72oz"
+            ],
+            "bypass_files": []
         }
     ]
 }
