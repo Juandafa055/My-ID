@@ -5853,6 +5853,15 @@
             "bypass_files": [
                 "https://huggingface.co/datasets/dikiajak/fix/resolve/main/FIX_fallen_order.zip?download=true"
             ]
+        },
+        {
+            "name": "Sniper Ghost Warrior Contracts 2",
+            "steamAppId": 1338770,
+            "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1338770/header.jpg",
+            "inject_files": [
+                "https://kyzu-proxy.ucupbaba1906.workers.dev/secure_download?appid=1338770&auth_code=RYUUMANIFEST72oz"
+            ],
+            "bypass_files": []
         }
     ]
 }
