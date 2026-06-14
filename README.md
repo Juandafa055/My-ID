@@ -4685,6 +4685,15 @@
                 "https://kyzu-proxy.ucupbaba1906.workers.dev/secure_download?appid=976590&auth_code=RYUUMANIFEST72oz"
             ],
             "bypass_files": []
+        },
+        {
+            "name": "Aimbeast",
+            "steamAppId": 1100990,
+            "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1100990/header.jpg",
+            "inject_files": [
+                "https://kyzu-proxy.ucupbaba1906.workers.dev/secure_download?appid=1100990&auth_code=RYUUMANIFEST72oz"
+            ],
+            "bypass_files": []
         }
     ]
 }
