@@ -5427,6 +5427,15 @@
             "bypass_files": [
                 "https://drive.google.com/file/d/1jJ5XkkOLwRbP4EjvDmL75oVX3crxtN0s/view?usp=sharing"
             ]
+        },
+        {
+            "name": "Movavi Video Editor 2026",
+            "steamAppId": 4036790,
+            "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4036790/header.jpg",
+            "inject_files": [
+                "https://drive.google.com/file/d/17r5nedosR7uK6Q6H7LvitWejP4YspJCk/view?usp=drivesdk"
+            ],
+            "bypass_files": []
         }
     ]
 }
