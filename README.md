@@ -5254,6 +5254,15 @@
                 "https://kyzu-proxy.ucupbaba1906.workers.dev/secure_download?appid=4021780&auth_code=RYUUMANIFEST72oz"
             ],
             "bypass_files": []
+        },
+        {
+            "name": "Breezy Bakes Simulator",
+            "steamAppId": 4044510,
+            "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4044510/header.jpg",
+            "inject_files": [
+                "https://kyzu-proxy.ucupbaba1906.workers.dev/secure_download?appid=4044510&auth_code=RYUUMANIFEST72oz"
+            ],
+            "bypass_files": []
         }
     ]
 }
