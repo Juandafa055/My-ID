@@ -6673,6 +6673,15 @@
                 "https://kyzu-proxy.ucupbaba1906.workers.dev/secure_download?appid=2570850&auth_code=RYUUMANIFEST72oz"
             ],
             "bypass_files": []
+        },
+        {
+            "name": "Nero AI Image Upscaler Pro",
+            "steamAppId": 2812930,
+            "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2812930/header.jpg",
+            "inject_files": [
+                "https://drive.google.com/file/d/1hAQ6WO8mH_Nvd-xLPKliR0gv2pDONU0S/view?usp=drivesdk"
+            ],
+            "bypass_files": []
         }
     ]
 }
