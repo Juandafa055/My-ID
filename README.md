@@ -4352,6 +4352,15 @@
                 "https://kyzu-proxy.ucupbaba1906.workers.dev/secure_download?appid=3314070&auth_code=RYUUMANIFEST72oz"
             ],
             "bypass_files": []
+        },
+        {
+            "name": "The Scouring",
+            "steamAppId": 3338950,
+            "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3338950/header.jpg",
+            "inject_files": [
+                "https://kyzu-proxy.ucupbaba1906.workers.dev/secure_download?appid=3338950&auth_code=RYUUMANIFEST72oz"
+            ],
+            "bypass_files": []
         }
     ]
 }
