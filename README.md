@@ -5200,6 +5200,15 @@
                 "https://drive.google.com/file/d/1z6EaFju9fh3pt07pCn3SGYJz_zHtr5QP/view?usp=drivesdk"
             ],
             "bypass_files": []
+        },
+        {
+            "name": "Waterpark Simulator",
+            "steamAppId": 3293260,
+            "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3293260/header.jpg",
+            "inject_files": [
+                "https://kyzu-proxy.ucupbaba1906.workers.dev/secure_download?appid=3293260&auth_code=RYUUMANIFEST72oz"
+            ],
+            "bypass_files": []
         }
     ]
 }
