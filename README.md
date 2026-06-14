@@ -5164,6 +5164,15 @@
                 "https://kyzu-proxy.ucupbaba1906.workers.dev/secure_download?appid=3158270&auth_code=RYUUMANIFEST72oz"
             ],
             "bypass_files": []
+        },
+        {
+            "name": "CoffeeShop Simulator",
+            "steamAppId": 3162390,
+            "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3162390/header.jpg",
+            "inject_files": [
+                "https://kyzu-proxy.ucupbaba1906.workers.dev/secure_download?appid=3162390&auth_code=RYUUMANIFEST72oz"
+            ],
+            "bypass_files": []
         }
     ]
 }
