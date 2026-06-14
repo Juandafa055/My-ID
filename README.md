@@ -6188,6 +6188,15 @@
                 "https://drive.google.com/file/d/1_aIY1dfGVxVPJPp5n9IYPDef3TxYOAtm/view?usp=drivesdk"
             ],
             "bypass_files": []
+        },
+        {
+            "name": "Command & Conquer Red Alert™ 2 and Yuri’s Revenge™",
+            "steamAppId": 2229850,
+            "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2229850/header.jpg",
+            "inject_files": [
+                "https://kyzu-proxy.ucupbaba1906.workers.dev/secure_download?appid=2229850&auth_code=RYUUMANIFEST72oz"
+            ],
+            "bypass_files": []
         }
     ]
 }
