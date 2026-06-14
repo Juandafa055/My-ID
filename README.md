@@ -6880,6 +6880,15 @@
                 "https://kyzu-proxy.ucupbaba1906.workers.dev/secure_download?appid=9010&auth_code=RYUUMANIFEST72oz"
             ],
             "bypass_files": []
+        },
+        {
+            "name": "Castle Crashers®",
+            "steamAppId": 204360,
+            "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/204360/header.jpg",
+            "inject_files": [
+                "https://kyzu-proxy.ucupbaba1906.workers.dev/secure_download?appid=204360&auth_code=RYUUMANIFEST72oz"
+            ],
+            "bypass_files": []
         }
     ]
 }
