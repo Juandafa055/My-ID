@@ -4921,6 +4921,15 @@
                 "https://kyzu-proxy.ucupbaba1906.workers.dev/secure_download?appid=1944790&auth_code=RYUUMANIFEST72oz"
             ],
             "bypass_files": []
+        },
+        {
+            "name": "Aerofly FS 4 Flight Simulator - Aircraft AddOn",
+            "steamAppId": 2011820,
+            "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2011820/header.jpg",
+            "inject_files": [
+                "https://drive.google.com/file/d/1aG9n1-PX22IQNEC_4nlVsEVAHLuBclVe/view?usp=drivesdk"
+            ],
+            "bypass_files": []
         }
     ]
 }
