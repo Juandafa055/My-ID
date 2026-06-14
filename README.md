@@ -4849,6 +4849,15 @@
                 "https://kyzu-proxy.ucupbaba1906.workers.dev/secure_download?appid=1468720&auth_code=RYUUMANIFEST72oz"
             ],
             "bypass_files": []
+        },
+        {
+            "name": "Hmmsim Metro",
+            "steamAppId": 1591420,
+            "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1591420/header.jpg",
+            "inject_files": [
+                "https://kyzu-proxy.ucupbaba1906.workers.dev/secure_download?appid=1591420&auth_code=RYUUMANIFEST72oz"
+            ],
+            "bypass_files": []
         }
     ]
 }
