@@ -4930,6 +4930,15 @@
                 "https://drive.google.com/file/d/1aG9n1-PX22IQNEC_4nlVsEVAHLuBclVe/view?usp=drivesdk"
             ],
             "bypass_files": []
+        },
+        {
+            "name": "Tower! Simulator 3",
+            "steamAppId": 2176130,
+            "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2176130/header.jpg",
+            "inject_files": [
+                "https://kyzu-proxy.ucupbaba1906.workers.dev/secure_download?appid=2176130&auth_code=RYUUMANIFEST72oz"
+            ],
+            "bypass_files": []
         }
     ]
 }
