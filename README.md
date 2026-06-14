@@ -5173,6 +5173,15 @@
                 "https://kyzu-proxy.ucupbaba1906.workers.dev/secure_download?appid=3162390&auth_code=RYUUMANIFEST72oz"
             ],
             "bypass_files": []
+        },
+        {
+            "name": "Mall Simulator",
+            "steamAppId": 3180150,
+            "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3180150/header.jpg",
+            "inject_files": [
+                "https://kyzu-proxy.ucupbaba1906.workers.dev/secure_download?appid=3180150&auth_code=RYUUMANIFEST72oz"
+            ],
+            "bypass_files": []
         }
     ]
 }
