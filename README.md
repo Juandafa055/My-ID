@@ -5568,6 +5568,15 @@
                 "https://kyzu-proxy.ucupbaba1906.workers.dev/secure_download?appid=213330&auth_code=RYUUMANIFEST72oz"
             ],
             "bypass_files": []
+        },
+        {
+            "name": "LEGO® Marvel™ Super Heroes",
+            "steamAppId": 249130,
+            "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/249130/header.jpg",
+            "inject_files": [
+                "https://kyzu-proxy.ucupbaba1906.workers.dev/secure_download?appid=249130&auth_code=RYUUMANIFEST72oz"
+            ],
+            "bypass_files": []
         }
     ]
 }
