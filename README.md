@@ -6287,6 +6287,15 @@
                 "https://kyzu-proxy.ucupbaba1906.workers.dev/secure_download?appid=1857740&auth_code=RYUUMANIFEST72oz"
             ],
             "bypass_files": []
+        },
+        {
+            "name": "PICO PARK 2",
+            "steamAppId": 2644470,
+            "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2644470/header.jpg",
+            "inject_files": [
+                "https://kyzu-proxy.ucupbaba1906.workers.dev/secure_download?appid=2644470&auth_code=RYUUMANIFEST72oz"
+            ],
+            "bypass_files": []
         }
     ]
 }
