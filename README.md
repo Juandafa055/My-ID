@@ -6538,6 +6538,15 @@
                 "https://drive.google.com/file/d/1FCoXldYfbkXJLIE5b1BL2btCG3jClxsg/view?usp=drivesdk"
             ],
             "bypass_files": []
+        },
+        {
+            "name": "Dungeon Defenders",
+            "steamAppId": 65800,
+            "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/65800/header.jpg",
+            "inject_files": [
+                "https://drive.google.com/file/d/1jdrLAd5Bv5qYaOO0U9hvY8j1_WvAIwkg/view?usp=sharing"
+            ],
+            "bypass_files": []
         }
     ]
 }
