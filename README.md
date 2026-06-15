@@ -7251,6 +7251,15 @@
                 "https://kyzu-proxy.ucupbaba1906.workers.dev/secure_download?appid=620980&auth_code=RYUUMANIFEST72oz"
             ],
             "bypass_files": []
+        },
+        {
+            "name": "Omega Labyrinth Life",
+            "steamAppId": 1163600,
+            "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1163600/header.jpg",
+            "inject_files": [
+                "https://kyzu-proxy.ucupbaba1906.workers.dev/secure_download?appid=1163600&auth_code=RYUUMANIFEST72oz"
+            ],
+            "bypass_files": []
         }
     ]
 }
