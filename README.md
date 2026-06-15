@@ -7997,6 +7997,15 @@
             "bypass_files": [
                 "https://pixeldrain.com/u/dbLri1Pv"
             ]
+        },
+        {
+            "name": "NOBUNAGA'S AMBITION: Sphere of Influence",
+            "steamAppId": 392470,
+            "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/392470/header.jpg",
+            "inject_files": [
+                "https://kyzu-proxy.ucupbaba1906.workers.dev/secure_download?appid=392470&auth_code=RYUUMANIFEST72oz"
+            ],
+            "bypass_files": []
         }
     ]
 }
