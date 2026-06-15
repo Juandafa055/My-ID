@@ -7597,6 +7597,15 @@
                 "https://kyzu-proxy.ucupbaba1906.workers.dev/secure_download?appid=1042550&auth_code=RYUUMANIFEST72oz"
             ],
             "bypass_files": []
+        },
+        {
+            "name": "CUSTOM ORDER MAID 3D2 It's a Night Magic",
+            "steamAppId": 1097580,
+            "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1097580/header.jpg",
+            "inject_files": [
+                "https://kyzu-proxy.ucupbaba1906.workers.dev/secure_download?appid=1097580&auth_code=RYUUMANIFEST72oz"
+            ],
+            "bypass_files": []
         }
     ]
 }
