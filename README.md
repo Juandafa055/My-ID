@@ -8116,6 +8116,15 @@
                 "https://kyzu-proxy.ucupbaba1906.workers.dev/secure_download?appid=1689620&auth_code=RYUUMANIFEST72oz"
             ],
             "bypass_files": []
+        },
+        {
+            "name": "FATAL FRAME / PROJECT ZERO: Maiden of Black Water",
+            "steamAppId": 1732190,
+            "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1732190/header.jpg",
+            "inject_files": [
+                "https://kyzu-proxy.ucupbaba1906.workers.dev/secure_download?appid=1732190&auth_code=RYUUMANIFEST72oz"
+            ],
+            "bypass_files": []
         }
     ]
 }
