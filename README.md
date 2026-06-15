@@ -8107,6 +8107,15 @@
                 "https://kyzu-proxy.ucupbaba1906.workers.dev/secure_download?appid=1594320&auth_code=RYUUMANIFEST72oz"
             ],
             "bypass_files": []
+        },
+        {
+            "name": "BLEACH Rebirth of Souls",
+            "steamAppId": 1689620,
+            "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1689620/header.jpg",
+            "inject_files": [
+                "https://kyzu-proxy.ucupbaba1906.workers.dev/secure_download?appid=1689620&auth_code=RYUUMANIFEST72oz"
+            ],
+            "bypass_files": []
         }
     ]
 }
