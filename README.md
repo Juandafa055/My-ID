@@ -7242,6 +7242,15 @@
                 "https://kyzu-proxy.ucupbaba1906.workers.dev/secure_download?appid=571890&auth_code=RYUUMANIFEST72oz"
             ],
             "bypass_files": []
+        },
+        {
+            "name": "Beat Saber",
+            "steamAppId": 620980,
+            "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/620980/header.jpg",
+            "inject_files": [
+                "https://kyzu-proxy.ucupbaba1906.workers.dev/secure_download?appid=620980&auth_code=RYUUMANIFEST72oz"
+            ],
+            "bypass_files": []
         }
     ]
 }
