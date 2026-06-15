@@ -7968,6 +7968,15 @@
             "bypass_files": [
                 "https://www.mediafire.com/file/df1idumbcxmo9f6/Call_Of_Duty_Black_Ops_2.rar/file"
             ]
+        },
+        {
+            "name": "State of Decay",
+            "steamAppId": 241540,
+            "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/241540/header.jpg",
+            "inject_files": [
+                "https://kyzu-proxy.ucupbaba1906.workers.dev/secure_download?appid=241540&auth_code=RYUUMANIFEST72oz"
+            ],
+            "bypass_files": []
         }
     ]
 }
