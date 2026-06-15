@@ -7822,6 +7822,15 @@
                 "https://kyzu-proxy.ucupbaba1906.workers.dev/secure_download?appid=2961530&auth_code=RYUUMANIFEST72oz"
             ],
             "bypass_files": []
+        },
+        {
+            "name": "OCTOPATH TRAVELER 0",
+            "steamAppId": 3014320,
+            "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3014320/header.jpg",
+            "inject_files": [
+                "https://kyzu-proxy.ucupbaba1906.workers.dev/secure_download?appid=3014320&auth_code=RYUUMANIFEST72oz"
+            ],
+            "bypass_files": []
         }
     ]
 }
