@@ -7669,6 +7669,15 @@
                 "https://kyzu-proxy.ucupbaba1906.workers.dev/secure_download?appid=1585220&auth_code=RYUUMANIFEST72oz"
             ],
             "bypass_files": []
+        },
+        {
+            "name": "Fears to Fathom - Home Alone",
+            "steamAppId": 1671340,
+            "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1671340/header.jpg",
+            "inject_files": [
+                "https://kyzu-proxy.ucupbaba1906.workers.dev/secure_download?appid=1671340&auth_code=RYUUMANIFEST72oz"
+            ],
+            "bypass_files": []
         }
     ]
 }
