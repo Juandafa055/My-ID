@@ -7170,6 +7170,15 @@
                 "https://kyzu-proxy.ucupbaba1906.workers.dev/secure_download?appid=110800&auth_code=RYUUMANIFEST72oz"
             ],
             "bypass_files": []
+        },
+        {
+            "name": "A.V.A Global",
+            "steamAppId": 1473480,
+            "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1473480/header.jpg",
+            "inject_files": [
+                "https://drive.google.com/file/d/1g-A762Pi-93oTgZ6G18F_5Parb0ooR8f/view?usp=drivesdk"
+            ],
+            "bypass_files": []
         }
     ]
 }
