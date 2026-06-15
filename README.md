@@ -7849,6 +7849,15 @@
                 "https://kyzu-proxy.ucupbaba1906.workers.dev/secure_download?appid=3115220&auth_code=RYUUMANIFEST72oz"
             ],
             "bypass_files": []
+        },
+        {
+            "name": "STORROR Parkour Pro",
+            "steamAppId": 3125250,
+            "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3125250/header.jpg",
+            "inject_files": [
+                "https://kyzu-proxy.ucupbaba1906.workers.dev/secure_download?appid=3125250&auth_code=RYUUMANIFEST72oz"
+            ],
+            "bypass_files": []
         }
     ]
 }
