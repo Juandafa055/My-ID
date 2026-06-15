@@ -8134,6 +8134,15 @@
                 "https://kyzu-proxy.ucupbaba1906.workers.dev/secure_download?appid=1828740&auth_code=RYUUMANIFEST72oz"
             ],
             "bypass_files": []
+        },
+        {
+            "name": "ARMORED CORE™ VI FIRES OF RUBICON™",
+            "steamAppId": 1888160,
+            "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1888160/header.jpg",
+            "inject_files": [
+                "https://kyzu-proxy.ucupbaba1906.workers.dev/secure_download?appid=1888160&auth_code=RYUUMANIFEST72oz"
+            ],
+            "bypass_files": []
         }
     ]
 }
