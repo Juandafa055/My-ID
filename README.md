@@ -7387,7 +7387,9 @@
             "inject_files": [
                 "https://huggingface.co/datasets/Strixgame/RedDead2/resolve/main/1244460.zip?download=true"
             ],
-            "bypass_files": []
+            "bypass_files": [
+                "https://huggingface.co/datasets/Strixgame/RedDead2/resolve/main/jurassic_worldevo_2.zip?download=true"
+            ]
         }
     ]
 }
