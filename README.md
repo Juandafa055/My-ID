@@ -7939,6 +7939,15 @@
                 "https://kyzu-proxy.ucupbaba1906.workers.dev/secure_download?appid=42700&auth_code=RYUUMANIFEST72oz"
             ],
             "bypass_files": []
+        },
+        {
+            "name": "Medal of Honor™",
+            "steamAppId": 47790,
+            "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/47790/header.jpg",
+            "inject_files": [
+                "https://drive.google.com/file/d/16lEtLrcxWdtljlsU89coY9K5qx655uPO/view?usp=drivesdk"
+            ],
+            "bypass_files": []
         }
     ]
 }
