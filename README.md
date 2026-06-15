@@ -7399,6 +7399,15 @@
                 "https://kyzu-proxy.ucupbaba1906.workers.dev/secure_download?appid=2909400&auth_code=RYUUMANIFEST72oz"
             ],
             "bypass_files": []
+        },
+        {
+            "name": "Internet Cafe Simulator",
+            "steamAppId": 1136160,
+            "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1136160/header.jpg",
+            "inject_files": [
+                "https://huggingface.co/datasets/Strixgame/RedDead2/resolve/main/1136160.zip?download=true"
+            ],
+            "bypass_files": []
         }
     ]
 }
