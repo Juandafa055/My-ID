@@ -7624,6 +7624,15 @@
                 "https://kyzu-proxy.ucupbaba1906.workers.dev/secure_download?appid=1223910&auth_code=RYUUMANIFEST72oz"
             ],
             "bypass_files": []
+        },
+        {
+            "name": "Trek to Yomi",
+            "steamAppId": 1370050,
+            "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1370050/header.jpg",
+            "inject_files": [
+                "https://kyzu-proxy.ucupbaba1906.workers.dev/secure_download?appid=1370050&auth_code=RYUUMANIFEST72oz"
+            ],
+            "bypass_files": []
         }
     ]
 }
