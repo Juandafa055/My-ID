@@ -8069,6 +8069,17 @@
                 "https://kyzu-proxy.ucupbaba1906.workers.dev/secure_download?appid=1358700&auth_code=RYUUMANIFEST72oz"
             ],
             "bypass_files": []
+        },
+        {
+            "name": "Sonic Frontiers",
+            "steamAppId": 1237320,
+            "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1237320/header.jpg",
+            "inject_files": [
+                "https://kyzu-proxy.ucupbaba1906.workers.dev/secure_download?appid=1237320&auth_code=RYUUMANIFEST72oz"
+            ],
+            "bypass_files": [
+                "https://pixeldrain.com/u/rUCfexwG"
+            ]
         }
     ]
 }
