@@ -7957,6 +7957,17 @@
                 "https://kyzu-proxy.ucupbaba1906.workers.dev/secure_download?appid=115300&auth_code=RYUUMANIFEST72oz"
             ],
             "bypass_files": []
+        },
+        {
+            "name": "Call of Duty®: Black Ops II",
+            "steamAppId": 202970,
+            "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/202970/header.jpg",
+            "inject_files": [
+                "https://drive.google.com/file/d/1LX4EdOwUX0qZXNIp8q3IFuFK0fe5cEeS/view?usp=sharing"
+            ],
+            "bypass_files": [
+                "https://www.mediafire.com/file/df1idumbcxmo9f6/Call_Of_Duty_Black_Ops_2.rar/file"
+            ]
         }
     ]
 }
