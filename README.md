@@ -7723,6 +7723,15 @@
                 "https://kyzu-proxy.ucupbaba1906.workers.dev/secure_download?appid=1958390&auth_code=RYUUMANIFEST72oz"
             ],
             "bypass_files": []
+        },
+        {
+            "name": "OCTOPATH TRAVELER II",
+            "steamAppId": 1971650,
+            "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1971650/header.jpg",
+            "inject_files": [
+                "https://kyzu-proxy.ucupbaba1906.workers.dev/secure_download?appid=1971650&auth_code=RYUUMANIFEST72oz"
+            ],
+            "bypass_files": []
         }
     ]
 }
