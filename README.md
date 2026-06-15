@@ -7134,6 +7134,15 @@
                 "https://kyzu-proxy.ucupbaba1906.workers.dev/secure_download?appid=2788520&auth_code=RYUUMANIFEST72oz"
             ],
             "bypass_files": []
+        },
+        {
+            "name": "Cheap Car Repair",
+            "steamAppId": 2904040,
+            "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2904040/header.jpg",
+            "inject_files": [
+                "https://kyzu-proxy.ucupbaba1906.workers.dev/secure_download?appid=2904040&auth_code=RYUUMANIFEST72oz"
+            ],
+            "bypass_files": []
         }
     ]
 }
