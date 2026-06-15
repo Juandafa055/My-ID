@@ -7930,6 +7930,15 @@
                 "https://kyzu-proxy.ucupbaba1906.workers.dev/secure_download?appid=4148240&auth_code=RYUUMANIFEST72oz"
             ],
             "bypass_files": []
+        },
+        {
+            "name": "Call of Duty®: Black Ops",
+            "steamAppId": 42700,
+            "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/42700/header.jpg",
+            "inject_files": [
+                "https://kyzu-proxy.ucupbaba1906.workers.dev/secure_download?appid=42700&auth_code=RYUUMANIFEST72oz"
+            ],
+            "bypass_files": []
         }
     ]
 }
