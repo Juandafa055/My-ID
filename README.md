@@ -8089,6 +8089,15 @@
                 "https://kyzu-proxy.ucupbaba1906.workers.dev/secure_download?appid=2486820&auth_code=RYUUMANIFEST72oz"
             ],
             "bypass_files": []
+        },
+        {
+            "name": "Class of '09",
+            "steamAppId": 1443200,
+            "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1443200/header.jpg",
+            "inject_files": [
+                "https://kyzu-proxy.ucupbaba1906.workers.dev/secure_download?appid=1443200&auth_code=RYUUMANIFEST72oz"
+            ],
+            "bypass_files": []
         }
     ]
 }
