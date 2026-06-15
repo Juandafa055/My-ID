@@ -7116,6 +7116,15 @@
                 "https://kyzu-proxy.ucupbaba1906.workers.dev/secure_download?appid=1826420&auth_code=RYUUMANIFEST72oz"
             ],
             "bypass_files": []
+        },
+        {
+            "name": "That Time I Got Reincarnated as a Slime ISEKAI Chronicles",
+            "steamAppId": 2197680,
+            "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2197680/header.jpg",
+            "inject_files": [
+                "https://kyzu-proxy.ucupbaba1906.workers.dev/secure_download?appid=2197680&auth_code=RYUUMANIFEST72oz"
+            ],
+            "bypass_files": []
         }
     ]
 }
