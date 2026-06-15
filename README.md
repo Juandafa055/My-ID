@@ -7977,6 +7977,15 @@
                 "https://kyzu-proxy.ucupbaba1906.workers.dev/secure_download?appid=241540&auth_code=RYUUMANIFEST72oz"
             ],
             "bypass_files": []
+        },
+        {
+            "name": "Saints Row: Gat out of Hell",
+            "steamAppId": 301910,
+            "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/301910/header.jpg",
+            "inject_files": [
+                "https://kyzu-proxy.ucupbaba1906.workers.dev/secure_download?appid=301910&auth_code=RYUUMANIFEST72oz"
+            ],
+            "bypass_files": []
         }
     ]
 }
