@@ -7379,6 +7379,15 @@
                 "https://huggingface.co/datasets/Strixgame/RedDead2/resolve/main/2700920.zip?download=true"
             ],
             "bypass_files": []
+        },
+        {
+            "name": "Jurassic World Evolution 2",
+            "steamAppId": 1244460,
+            "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1244460/header.jpg",
+            "inject_files": [
+                "https://huggingface.co/datasets/Strixgame/RedDead2/resolve/main/1244460.zip?download=true"
+            ],
+            "bypass_files": []
         }
     ]
 }
