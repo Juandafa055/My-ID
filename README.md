@@ -7314,6 +7314,15 @@
                 "https://kyzu-proxy.ucupbaba1906.workers.dev/secure_download?appid=42960&auth_code=RYUUMANIFEST72oz"
             ],
             "bypass_files": []
+        },
+        {
+            "name": "Prototype 2",
+            "steamAppId": 115320,
+            "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/115320/header.jpg",
+            "inject_files": [
+                "https://kyzu-proxy.ucupbaba1906.workers.dev/secure_download?appid=115320&auth_code=RYUUMANIFEST72oz"
+            ],
+            "bypass_files": []
         }
     ]
 }
