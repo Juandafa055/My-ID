@@ -7678,6 +7678,15 @@
                 "https://kyzu-proxy.ucupbaba1906.workers.dev/secure_download?appid=1671340&auth_code=RYUUMANIFEST72oz"
             ],
             "bypass_files": []
+        },
+        {
+            "name": "MotoGP™22",
+            "steamAppId": 1710580,
+            "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1710580/header.jpg",
+            "inject_files": [
+                "https://kyzu-proxy.ucupbaba1906.workers.dev/secure_download?appid=1710580&auth_code=RYUUMANIFEST72oz"
+            ],
+            "bypass_files": []
         }
     ]
 }
