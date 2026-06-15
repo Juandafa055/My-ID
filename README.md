@@ -7768,6 +7768,15 @@
                 "https://kyzu-proxy.ucupbaba1906.workers.dev/secure_download?appid=2195120&auth_code=RYUUMANIFEST72oz"
             ],
             "bypass_files": []
+        },
+        {
+            "name": "ShantyTown",
+            "steamAppId": 2434600,
+            "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2434600/header.jpg",
+            "inject_files": [
+                "https://kyzu-proxy.ucupbaba1906.workers.dev/secure_download?appid=2434600&auth_code=RYUUMANIFEST72oz"
+            ],
+            "bypass_files": []
         }
     ]
 }
