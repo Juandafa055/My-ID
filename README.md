@@ -7750,6 +7750,15 @@
                 "https://drive.google.com/file/d/1EdHN8te4OnL08XjKYx4ZoxwIvZ5R-mos/view?usp=drivesdk"
             ],
             "bypass_files": []
+        },
+        {
+            "name": "shapez 2 - Factory",
+            "steamAppId": 2162800,
+            "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2162800/header.jpg",
+            "inject_files": [
+                "https://kyzu-proxy.ucupbaba1906.workers.dev/secure_download?appid=2162800&auth_code=RYUUMANIFEST72oz"
+            ],
+            "bypass_files": []
         }
     ]
 }
