@@ -7435,6 +7435,15 @@
                 "https://huggingface.co/datasets/Strixgame/RedDead2/resolve/main/4160210.zip?download=true"
             ],
             "bypass_files": []
+        },
+        {
+            "name": "Gentoo Rescue",
+            "steamAppId": 2830480,
+            "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2830480/header.jpg",
+            "inject_files": [
+                "https://huggingface.co/datasets/Strixgame/RedDead2/resolve/main/2830480.zip?download=true"
+            ],
+            "bypass_files": []
         }
     ]
 }
