@@ -7462,6 +7462,15 @@
                 "https://kyzu-proxy.ucupbaba1906.workers.dev/secure_download?appid=239030&auth_code=RYUUMANIFEST72oz"
             ],
             "bypass_files": []
+        },
+        {
+            "name": "A Good Snowman Is Hard To Build",
+            "steamAppId": 316610,
+            "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/316610/header.jpg",
+            "inject_files": [
+                "https://huggingface.co/datasets/Strixgame/RedDead2/resolve/main/316610.zip?download=true"
+            ],
+            "bypass_files": []
         }
     ]
 }
