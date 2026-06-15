@@ -7615,6 +7615,15 @@
                 "https://kyzu-proxy.ucupbaba1906.workers.dev/secure_download?appid=1127500&auth_code=RYUUMANIFEST72oz"
             ],
             "bypass_files": []
+        },
+        {
+            "name": "Tennis World Tour 2",
+            "steamAppId": 1223910,
+            "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1223910/header.jpg",
+            "inject_files": [
+                "https://kyzu-proxy.ucupbaba1906.workers.dev/secure_download?appid=1223910&auth_code=RYUUMANIFEST72oz"
+            ],
+            "bypass_files": []
         }
     ]
 }
