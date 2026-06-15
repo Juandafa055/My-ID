@@ -7444,6 +7444,15 @@
                 "https://huggingface.co/datasets/Strixgame/RedDead2/resolve/main/2830480.zip?download=true"
             ],
             "bypass_files": []
+        },
+        {
+            "name": "A Monster's Expedition",
+            "steamAppId": 1052990,
+            "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1052990/header.jpg",
+            "inject_files": [
+                "https://huggingface.co/datasets/Strixgame/RedDead2/resolve/main/1052990.zip?download=true"
+            ],
+            "bypass_files": []
         }
     ]
 }
