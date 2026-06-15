@@ -7359,6 +7359,17 @@
                 "https://kyzu-proxy.ucupbaba1906.workers.dev/secure_download?appid=251570&auth_code=RYUUMANIFEST72oz"
             ],
             "bypass_files": []
+        },
+        {
+            "name": "Squad",
+            "steamAppId": 393380,
+            "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/393380/header.jpg",
+            "inject_files": [
+                "https://huggingface.co/datasets/Strixgame/RedDead2/resolve/main/393380.zip?download=true"
+            ],
+            "bypass_files": [
+                "https://huggingface.co/datasets/Strixgame/RedDead2/resolve/main/Squad_Fix.zip?download=true"
+            ]
         }
     ]
 }
