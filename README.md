@@ -7579,6 +7579,15 @@
                 "https://kyzu-proxy.ucupbaba1906.workers.dev/secure_download?appid=984780&auth_code=RYUUMANIFEST72oz"
             ],
             "bypass_files": []
+        },
+        {
+            "name": "Tools Up!",
+            "steamAppId": 1004490,
+            "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1004490/header.jpg",
+            "inject_files": [
+                "https://kyzu-proxy.ucupbaba1906.workers.dev/secure_download?appid=1004490&auth_code=RYUUMANIFEST72oz"
+            ],
+            "bypass_files": []
         }
     ]
 }
