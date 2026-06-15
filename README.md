@@ -7986,6 +7986,17 @@
                 "https://kyzu-proxy.ucupbaba1906.workers.dev/secure_download?appid=301910&auth_code=RYUUMANIFEST72oz"
             ],
             "bypass_files": []
+        },
+        {
+            "name": "Call of Duty®: Black Ops III",
+            "steamAppId": 311210,
+            "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/311210/header.jpg",
+            "inject_files": [
+                "https://kyzu-proxy.ucupbaba1906.workers.dev/secure_download?appid=311210&auth_code=RYUUMANIFEST72oz"
+            ],
+            "bypass_files": [
+                "https://pixeldrain.com/u/dbLri1Pv"
+            ]
         }
     ]
 }
