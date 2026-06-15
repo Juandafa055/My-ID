@@ -7714,6 +7714,15 @@
                 "https://kyzu-proxy.ucupbaba1906.workers.dev/secure_download?appid=1942280&auth_code=RYUUMANIFEST72oz"
             ],
             "bypass_files": []
+        },
+        {
+            "name": "Innocence Or Money Season 1 - Episodes 1 to 3",
+            "steamAppId": 1958390,
+            "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1958390/header.jpg",
+            "inject_files": [
+                "https://kyzu-proxy.ucupbaba1906.workers.dev/secure_download?appid=1958390&auth_code=RYUUMANIFEST72oz"
+            ],
+            "bypass_files": []
         }
     ]
 }
