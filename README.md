@@ -7426,6 +7426,15 @@
                 "https://huggingface.co/datasets/Strixgame/RedDead2/resolve/main/2725090.zip?download=true"
             ],
             "bypass_files": []
+        },
+        {
+            "name": "The Artisan of Glimmith",
+            "steamAppId": 4160210,
+            "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4160210/header.jpg",
+            "inject_files": [
+                "https://huggingface.co/datasets/Strixgame/RedDead2/resolve/main/4160210.zip?download=true"
+            ],
+            "bypass_files": []
         }
     ]
 }
