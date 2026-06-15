@@ -7179,6 +7179,15 @@
                 "https://drive.google.com/file/d/1g-A762Pi-93oTgZ6G18F_5Parb0ooR8f/view?usp=drivesdk"
             ],
             "bypass_files": []
+        },
+        {
+            "name": "S.T.A.L.K.E.R. 2: Heart of Chornobyl",
+            "steamAppId": 1643320,
+            "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1643320/header.jpg",
+            "inject_files": [
+                "https://kyzu-proxy.ucupbaba1906.workers.dev/secure_download?appid=1643320&auth_code=RYUUMANIFEST72oz"
+            ],
+            "bypass_files": []
         }
     ]
 }
