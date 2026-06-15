@@ -7224,6 +7224,15 @@
                 "https://kyzu-proxy.ucupbaba1906.workers.dev/secure_download?appid=3492610&auth_code=RYUUMANIFEST72oz"
             ],
             "bypass_files": []
+        },
+        {
+            "name": "Aaero2",
+            "steamAppId": 3010090,
+            "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3010090/header.jpg",
+            "inject_files": [
+                "https://drive.google.com/file/d/1bABdyqBzz8NgS1mqtBEKFxUeS1MeUWod/view?usp=drivesdk"
+            ],
+            "bypass_files": []
         }
     ]
 }
