@@ -9177,6 +9177,15 @@
             "bypass_files": [
                 "https://drive.google.com/file/d/1JrwlWRqy7t8McILksOKM00sbuoSfPGe9/view?usp=drivesdk"
             ]
+        },
+        {
+            "name": "Camper Van: Make it Home",
+            "steamAppId": 2843190,
+            "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2843190/header.jpg",
+            "inject_files": [
+                "https://kyzu-proxy.ucupbaba1906.workers.dev/secure_download?appid=2843190&auth_code=RYUUMANIFEST72oz"
+            ],
+            "bypass_files": []
         }
     ]
 }
