@@ -8476,6 +8476,15 @@
                 "https://kyzu-proxy.ucupbaba1906.workers.dev/secure_download?appid=3287520&auth_code=RYUUMANIFEST72oz"
             ],
             "bypass_files": []
+        },
+        {
+            "name": "Packing Life",
+            "steamAppId": 3482510,
+            "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3482510/header.jpg",
+            "inject_files": [
+                "https://kyzu-proxy.ucupbaba1906.workers.dev/secure_download?appid=3482510&auth_code=RYUUMANIFEST72oz"
+            ],
+            "bypass_files": []
         }
     ]
 }
