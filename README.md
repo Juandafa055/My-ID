@@ -8251,6 +8251,15 @@
                 "https://kyzu-proxy.ucupbaba1906.workers.dev/secure_download?appid=1113560&auth_code=RYUUMANIFEST72oz"
             ],
             "bypass_files": []
+        },
+        {
+            "name": "VR Kanojo / VRカノジョ",
+            "steamAppId": 751440,
+            "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/751440/header.jpg",
+            "inject_files": [
+                "https://drive.google.com/file/d/1eLj0FffZxr30Qd5vZDtf3KvhHtNsEPBZ/view?usp=sharing"
+            ],
+            "bypass_files": []
         }
     ]
 }
