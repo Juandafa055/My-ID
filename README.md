@@ -8784,6 +8784,15 @@
                 "https://kyzu-proxy.ucupbaba1906.workers.dev/secure_download?appid=648800&auth_code=RYUUMANIFEST72oz"
             ],
             "bypass_files": []
+        },
+        {
+            "name": "DRAGON BALL XENOVERSE 2",
+            "steamAppId": 454650,
+            "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/454650/header.jpg",
+            "inject_files": [
+                "https://kyzu-proxy.ucupbaba1906.workers.dev/secure_download?appid=454650&auth_code=RYUUMANIFEST72oz"
+            ],
+            "bypass_files": []
         }
     ]
 }
