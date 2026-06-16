@@ -8939,6 +8939,15 @@
                 "https://kyzu-proxy.ucupbaba1906.workers.dev/secure_download?appid=1159690&auth_code=RYUUMANIFEST72oz"
             ],
             "bypass_files": []
+        },
+        {
+            "name": "AI＊Shoujo/AI＊少女",
+            "steamAppId": 1250650,
+            "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1250650/header.jpg",
+            "inject_files": [
+                "https://drive.google.com/file/d/1_oTI2QpIrDcZ8RhGPU0l9g7hOT3HNxFk/view?usp=drivesdk"
+            ],
+            "bypass_files": []
         }
     ]
 }
