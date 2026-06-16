@@ -9321,6 +9321,15 @@
                 "https://kyzu-proxy.ucupbaba1906.workers.dev/secure_download?appid=613880&auth_code=RYUUMANIFEST72oz"
             ],
             "bypass_files": []
+        },
+        {
+            "name": "POSTAL 4: No Regerts",
+            "steamAppId": 707030,
+            "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/707030/header.jpg",
+            "inject_files": [
+                "https://kyzu-proxy.ucupbaba1906.workers.dev/secure_download?appid=707030&auth_code=RYUUMANIFEST72oz"
+            ],
+            "bypass_files": []
         }
     ]
 }
