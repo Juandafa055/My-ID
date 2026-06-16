@@ -9595,6 +9595,15 @@
                 "https://kyzu-proxy.ucupbaba1906.workers.dev/secure_download?appid=2658510&auth_code=RYUUMANIFEST72oz"
             ],
             "bypass_files": []
+        },
+        {
+            "name": "Palia",
+            "steamAppId": 2707930,
+            "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2707930/header.jpg",
+            "inject_files": [
+                "https://kyzu-proxy.ucupbaba1906.workers.dev/secure_download?appid=2707930&auth_code=RYUUMANIFEST72oz"
+            ],
+            "bypass_files": []
         }
     ]
 }
