@@ -8458,6 +8458,15 @@
                 "https://kyzu-proxy.ucupbaba1906.workers.dev/secure_download?appid=2432860&auth_code=RYUUMANIFEST72oz"
             ],
             "bypass_files": []
+        },
+        {
+            "name": "Prologue: Go Wayback!",
+            "steamAppId": 2943740,
+            "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2943740/header.jpg",
+            "inject_files": [
+                "https://kyzu-proxy.ucupbaba1906.workers.dev/secure_download?appid=2943740&auth_code=RYUUMANIFEST72oz"
+            ],
+            "bypass_files": []
         }
     ]
 }
