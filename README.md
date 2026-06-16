@@ -9231,6 +9231,15 @@
                 "https://drive.google.com/file/d/1NhRHWy5Cvt2jrbC72jEhjpQ8sGOCikkq/view?usp=sharing"
             ],
             "bypass_files": []
+        },
+        {
+            "name": "X-Plane 10 Global - 64 Bit",
+            "steamAppId": 292180,
+            "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/292180/header.jpg",
+            "inject_files": [
+                "https://kyzu-proxy.ucupbaba1906.workers.dev/secure_download?appid=292180&auth_code=RYUUMANIFEST72oz"
+            ],
+            "bypass_files": []
         }
     ]
 }
