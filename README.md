@@ -9820,6 +9820,15 @@
                 "https://kyzu-proxy.ucupbaba1906.workers.dev/secure_download?appid=231990&auth_code=RYUUMANIFEST72oz"
             ],
             "bypass_files": []
+        },
+        {
+            "name": "No Man's Sky",
+            "steamAppId": 275850,
+            "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/275850/header.jpg",
+            "inject_files": [
+                "https://kyzu-proxy.ucupbaba1906.workers.dev/secure_download?appid=275850&auth_code=RYUUMANIFEST72oz"
+            ],
+            "bypass_files": []
         }
     ]
 }
