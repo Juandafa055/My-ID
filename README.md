@@ -9766,6 +9766,15 @@
                 "https://kyzu-proxy.ucupbaba1906.workers.dev/secure_download?appid=3720460&auth_code=RYUUMANIFEST72oz"
             ],
             "bypass_files": []
+        },
+        {
+            "name": "VEGAS Pro 23 Steam Edition",
+            "steamAppId": 4006040,
+            "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4006040/header.jpg",
+            "inject_files": [
+                "https://kyzu-proxy.ucupbaba1906.workers.dev/secure_download?appid=4006040&auth_code=RYUUMANIFEST72oz"
+            ],
+            "bypass_files": []
         }
     ]
 }
