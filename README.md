@@ -8638,6 +8638,15 @@
                 "https://kyzu-proxy.ucupbaba1906.workers.dev/secure_download?appid=1805320&auth_code=RYUUMANIFEST72oz"
             ],
             "bypass_files": []
+        },
+        {
+            "name": "Arcadia Fallen II",
+            "steamAppId": 1924070,
+            "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1924070/header.jpg",
+            "inject_files": [
+                "https://drive.google.com/file/d/196ULZHxVa0Bu50MHgqfo6D1HBIVT0Oz9/view?usp=sharing"
+            ],
+            "bypass_files": []
         }
     ]
 }
