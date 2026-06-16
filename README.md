@@ -9476,6 +9476,17 @@
                 "https://drive.google.com/file/d/1NnwccL-5eOPNR3VCkEThqdHsEFQs-Zjh/view?usp=drivesdk"
             ],
             "bypass_files": []
+        },
+        {
+            "name": "Disney Dreamlight Valley",
+            "steamAppId": 1401590,
+            "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1401590/header.jpg",
+            "inject_files": [
+                "https://kyzu-proxy.ucupbaba1906.workers.dev/secure_download?appid=1401590&auth_code=RYUUMANIFEST72oz"
+            ],
+            "bypass_files": [
+                "https://drive.google.com/file/d/1-fwj0p94o3h21z4lqP9H35wJ6rcAfXmZ/view?usp=drivesdk"
+            ]
         }
     ]
 }
