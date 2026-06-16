@@ -8512,6 +8512,15 @@
                 "https://kyzu-proxy.ucupbaba1906.workers.dev/secure_download?appid=4218170&auth_code=RYUUMANIFEST72oz"
             ],
             "bypass_files": []
+        },
+        {
+            "name": "Alice: Madness Returns",
+            "steamAppId": 19680,
+            "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/19680/header.jpg",
+            "inject_files": [
+                "https://kyzu-proxy.ucupbaba1906.workers.dev/secure_download?appid=19680&auth_code=RYUUMANIFEST72oz"
+            ],
+            "bypass_files": []
         }
     ]
 }
