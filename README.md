@@ -8566,6 +8566,15 @@
                 "https://kyzu-proxy.ucupbaba1906.workers.dev/secure_download?appid=534380&auth_code=RYUUMANIFEST72oz"
             ],
             "bypass_files": []
+        },
+        {
+            "name": "DreadOut 2",
+            "steamAppId": 945710,
+            "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/945710/header.jpg",
+            "inject_files": [
+                "https://drive.google.com/file/d/1gn_KG19O9EZjo3vXVHF9UWcstTLnRAgy/view?usp=sharing"
+            ],
+            "bypass_files": []
         }
     ]
 }
