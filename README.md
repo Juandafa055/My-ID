@@ -9002,6 +9002,15 @@
                 "https://drive.google.com/file/d/1t4xZLcPOCKUMQsdxi0aPlKvQuJBkTI5d/view?usp=sharing"
             ],
             "bypass_files": []
+        },
+        {
+            "name": "Airport Control 27",
+            "steamAppId": 3328490,
+            "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3328490/header.jpg",
+            "inject_files": [
+                "https://kyzu-proxy.ucupbaba1906.workers.dev/secure_download?appid=3328490&auth_code=RYUUMANIFEST72oz"
+            ],
+            "bypass_files": []
         }
     ]
 }
