@@ -8377,6 +8377,15 @@
                 "https://kyzu-proxy.ucupbaba1906.workers.dev/secure_download?appid=1135690&auth_code=RYUUMANIFEST72oz"
             ],
             "bypass_files": []
+        },
+        {
+            "name": "Daemon X Machina: Titanic Scion",
+            "steamAppId": 1342490,
+            "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1342490/header.jpg",
+            "inject_files": [
+                "https://kyzu-proxy.ucupbaba1906.workers.dev/secure_download?appid=1342490&auth_code=RYUUMANIFEST72oz"
+            ],
+            "bypass_files": []
         }
     ]
 }
