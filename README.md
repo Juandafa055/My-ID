@@ -8813,6 +8813,15 @@
             "bypass_files": [
                 "https://huggingface.co/datasets/dikiajak/fix/resolve/main/a%20palgue%20tale%20fix.zip?download=true"
             ]
+        },
+        {
+            "name": "SENRAN KAGURA Burst Re:Newal",
+            "steamAppId": 889510,
+            "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/889510/header.jpg",
+            "inject_files": [
+                "https://kyzu-proxy.ucupbaba1906.workers.dev/secure_download?appid=889510&auth_code=RYUUMANIFEST72oz"
+            ],
+            "bypass_files": []
         }
     ]
 }
