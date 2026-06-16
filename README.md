@@ -9658,6 +9658,15 @@
                 "https://kyzu-proxy.ucupbaba1906.workers.dev/secure_download?appid=219150&auth_code=RYUUMANIFEST72oz"
             ],
             "bypass_files": []
+        },
+        {
+            "name": "DCS World Steam Edition",
+            "steamAppId": 223750,
+            "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/223750/header.jpg",
+            "inject_files": [
+                "https://kyzu-proxy.ucupbaba1906.workers.dev/secure_download?appid=223750&auth_code=RYUUMANIFEST72oz"
+            ],
+            "bypass_files": []
         }
     ]
 }
