@@ -9058,6 +9058,15 @@
                 "https://kyzu-proxy.ucupbaba1906.workers.dev/secure_download?appid=878520&auth_code=RYUUMANIFEST72oz"
             ],
             "bypass_files": []
+        },
+        {
+            "name": "Yakuza 3 Remastered",
+            "steamAppId": 1088710,
+            "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1088710/header.jpg",
+            "inject_files": [
+                "https://kyzu-proxy.ucupbaba1906.workers.dev/secure_download?appid=1088710&auth_code=RYUUMANIFEST72oz"
+            ],
+            "bypass_files": []
         }
     ]
 }
