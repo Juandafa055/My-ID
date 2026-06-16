@@ -9667,6 +9667,15 @@
                 "https://kyzu-proxy.ucupbaba1906.workers.dev/secure_download?appid=223750&auth_code=RYUUMANIFEST72oz"
             ],
             "bypass_files": []
+        },
+        {
+            "name": "Hotline Miami 2: Wrong Number",
+            "steamAppId": 274170,
+            "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/274170/header.jpg",
+            "inject_files": [
+                "https://kyzu-proxy.ucupbaba1906.workers.dev/secure_download?appid=274170&auth_code=RYUUMANIFEST72oz"
+            ],
+            "bypass_files": []
         }
     ]
 }
