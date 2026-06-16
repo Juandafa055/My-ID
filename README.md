@@ -9411,6 +9411,17 @@
                 "https://kyzu-proxy.ucupbaba1906.workers.dev/secure_download?appid=2001120&auth_code=RYUUMANIFEST72oz"
             ],
             "bypass_files": []
+        },
+        {
+            "name": "Medieval Dynasty",
+            "steamAppId": 1129580,
+            "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1129580/header.jpg",
+            "inject_files": [
+                "https://kyzu-proxy.ucupbaba1906.workers.dev/secure_download?appid=1129580&auth_code=RYUUMANIFEST72oz"
+            ],
+            "bypass_files": [
+                "https://pixeldrain.com/u/3LdhqGZD"
+            ]
         }
     ]
 }
