@@ -8966,6 +8966,15 @@
                 "https://kyzu-proxy.ucupbaba1906.workers.dev/secure_download?appid=1366800&auth_code=RYUUMANIFEST72oz"
             ],
             "bypass_files": []
+        },
+        {
+            "name": "Taiko no Tatsujin: Rhythm Festival",
+            "steamAppId": 2288630,
+            "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2288630/header.jpg",
+            "inject_files": [
+                "https://kyzu-proxy.ucupbaba1906.workers.dev/secure_download?appid=2288630&auth_code=RYUUMANIFEST72oz"
+            ],
+            "bypass_files": []
         }
     ]
 }
