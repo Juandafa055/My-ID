@@ -9604,6 +9604,15 @@
                 "https://kyzu-proxy.ucupbaba1906.workers.dev/secure_download?appid=2707930&auth_code=RYUUMANIFEST72oz"
             ],
             "bypass_files": []
+        },
+        {
+            "name": "Halcyon Days at Taoyuan",
+            "steamAppId": 2678830,
+            "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2678830/header.jpg",
+            "inject_files": [
+                "https://kyzu-proxy.ucupbaba1906.workers.dev/secure_download?appid=2678830&auth_code=RYUUMANIFEST72oz"
+            ],
+            "bypass_files": []
         }
     ]
 }
