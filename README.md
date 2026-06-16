@@ -9213,6 +9213,15 @@
                 "https://kyzu-proxy.ucupbaba1906.workers.dev/secure_download?appid=22380&auth_code=RYUUMANIFEST72oz"
             ],
             "bypass_files": []
+        },
+        {
+            "name": "METAL GEAR RISING: REVENGEANCE",
+            "steamAppId": 235460,
+            "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/235460/header.jpg",
+            "inject_files": [
+                "https://kyzu-proxy.ucupbaba1906.workers.dev/secure_download?appid=235460&auth_code=RYUUMANIFEST72oz"
+            ],
+            "bypass_files": []
         }
     ]
 }
