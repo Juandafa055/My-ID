@@ -9422,6 +9422,15 @@
             "bypass_files": [
                 "https://pixeldrain.com/u/3LdhqGZD"
             ]
+        },
+        {
+            "name": "Titanfall® 2",
+            "steamAppId": 1237970,
+            "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1237970/header.jpg",
+            "inject_files": [
+                "https://drive.google.com/file/d/19nfs7HVXLb64-EkBGJ49krX9XdlJFhQn/view?usp=sharing"
+            ],
+            "bypass_files": []
         }
     ]
 }
