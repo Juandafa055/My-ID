@@ -5299,7 +5299,7 @@
                 "https://kyzu-proxy.ucupbaba1906.workers.dev/secure_download?appid=2208920&auth_code=RYUUMANIFEST72oz"
             ],
             "bypass_files": [
-                "https://www.mediafire.com/file/hd5debvn7q1i2tc/AssassinCreedValhalaFIXKYZUGAMESS.zip/file"
+                "https://huggingface.co/datasets/Strixgame/RedDead2/resolve/main/AssassinCreedValhala.zip?download=true"
             ]
         },
         {
