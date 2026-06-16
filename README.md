@@ -8386,6 +8386,15 @@
                 "https://kyzu-proxy.ucupbaba1906.workers.dev/secure_download?appid=1342490&auth_code=RYUUMANIFEST72oz"
             ],
             "bypass_files": []
+        },
+        {
+            "name": "Yes, Your Grace 2: Snowfall",
+            "steamAppId": 1373090,
+            "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1373090/header.jpg",
+            "inject_files": [
+                "https://kyzu-proxy.ucupbaba1906.workers.dev/secure_download?appid=1373090&auth_code=RYUUMANIFEST72oz"
+            ],
+            "bypass_files": []
         }
     ]
 }
