@@ -9784,6 +9784,15 @@
                 "https://drive.google.com/file/d/1ZtTuhNhSjBgaedt20_b__vfRpZcqctN9/view?usp=drivesdk"
             ],
             "bypass_files": []
+        },
+        {
+            "name": "Game Dev Life",
+            "steamAppId": 4184910,
+            "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4184910/header.jpg",
+            "inject_files": [
+                "https://kyzu-proxy.ucupbaba1906.workers.dev/secure_download?appid=4184910&auth_code=RYUUMANIFEST72oz"
+            ],
+            "bypass_files": []
         }
     ]
 }
