@@ -8557,6 +8557,15 @@
                 "https://kyzu-proxy.ucupbaba1906.workers.dev/secure_download?appid=488860&auth_code=RYUUMANIFEST72oz"
             ],
             "bypass_files": []
+        },
+        {
+            "name": "Dying Light 2 Stay Human: Reloaded Edition",
+            "steamAppId": 534380,
+            "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/534380/header.jpg",
+            "inject_files": [
+                "https://kyzu-proxy.ucupbaba1906.workers.dev/secure_download?appid=534380&auth_code=RYUUMANIFEST72oz"
+            ],
+            "bypass_files": []
         }
     ]
 }
