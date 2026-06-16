@@ -9067,6 +9067,15 @@
                 "https://kyzu-proxy.ucupbaba1906.workers.dev/secure_download?appid=1088710&auth_code=RYUUMANIFEST72oz"
             ],
             "bypass_files": []
+        },
+        {
+            "name": "Lake",
+            "steamAppId": 1118240,
+            "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1118240/header.jpg",
+            "inject_files": [
+                "https://kyzu-proxy.ucupbaba1906.workers.dev/secure_download?appid=1118240&auth_code=RYUUMANIFEST72oz"
+            ],
+            "bypass_files": []
         }
     ]
 }
