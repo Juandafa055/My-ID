@@ -9139,6 +9139,15 @@
                 "https://kyzu-proxy.ucupbaba1906.workers.dev/secure_download?appid=1672500&auth_code=RYUUMANIFEST72oz"
             ],
             "bypass_files": []
+        },
+        {
+            "name": "MakeRoom",
+            "steamAppId": 2212670,
+            "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2212670/header.jpg",
+            "inject_files": [
+                "https://kyzu-proxy.ucupbaba1906.workers.dev/secure_download?appid=2212670&auth_code=RYUUMANIFEST72oz"
+            ],
+            "bypass_files": []
         }
     ]
 }
