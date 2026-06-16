@@ -9487,6 +9487,15 @@
             "bypass_files": [
                 "https://drive.google.com/file/d/1-fwj0p94o3h21z4lqP9H35wJ6rcAfXmZ/view?usp=drivesdk"
             ]
+        },
+        {
+            "name": "Wo Long: Fallen Dynasty",
+            "steamAppId": 1448440,
+            "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1448440/header.jpg",
+            "inject_files": [
+                "https://kyzu-proxy.ucupbaba1906.workers.dev/secure_download?appid=1448440&auth_code=RYUUMANIFEST72oz"
+            ],
+            "bypass_files": []
         }
     ]
 }
