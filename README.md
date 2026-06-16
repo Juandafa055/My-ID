@@ -8665,6 +8665,15 @@
                 "https://kyzu-proxy.ucupbaba1906.workers.dev/secure_download?appid=2198150&auth_code=RYUUMANIFEST72oz"
             ],
             "bypass_files": []
+        },
+        {
+            "name": "Senua’s Saga: Hellblade II",
+            "steamAppId": 2461850,
+            "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2461850/header.jpg",
+            "inject_files": [
+                "https://kyzu-proxy.ucupbaba1906.workers.dev/secure_download?appid=2461850&auth_code=RYUUMANIFEST72oz"
+            ],
+            "bypass_files": []
         }
     ]
 }
