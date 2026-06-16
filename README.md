@@ -8703,6 +8703,15 @@
                 "https://kyzu-proxy.ucupbaba1906.workers.dev/secure_download?appid=2485270&auth_code=RYUUMANIFEST72oz"
             ],
             "bypass_files": []
+        },
+        {
+            "name": "Bad 2 Bad: Apocalypse",
+            "steamAppId": 2782610,
+            "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2782610/header.jpg",
+            "inject_files": [
+                "https://kyzu-proxy.ucupbaba1906.workers.dev/secure_download?appid=2782610&auth_code=RYUUMANIFEST72oz"
+            ],
+            "bypass_files": []
         }
     ]
 }
