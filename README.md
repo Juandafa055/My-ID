@@ -9166,6 +9166,17 @@
                 "https://kyzu-proxy.ucupbaba1906.workers.dev/secure_download?appid=239140&auth_code=RYUUMANIFEST72oz"
             ],
             "bypass_files": []
+        },
+        {
+            "name": "Bully: Scholarship Edition",
+            "steamAppId": 12200,
+            "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/12200/header.jpg",
+            "inject_files": [
+                "https://kyzu-proxy.ucupbaba1906.workers.dev/secure_download?appid=12200&auth_code=RYUUMANIFEST72oz"
+            ],
+            "bypass_files": [
+                "https://drive.google.com/file/d/1JrwlWRqy7t8McILksOKM00sbuoSfPGe9/view?usp=drivesdk"
+            ]
         }
     ]
 }
