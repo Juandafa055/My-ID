@@ -8332,6 +8332,15 @@
                 "https://kyzu-proxy.ucupbaba1906.workers.dev/secure_download?appid=605230&auth_code=RYUUMANIFEST72oz"
             ],
             "bypass_files": []
+        },
+        {
+            "name": "SENRAN KAGURA Peach Beach Splash",
+            "steamAppId": 696170,
+            "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/696170/header.jpg",
+            "inject_files": [
+                "https://kyzu-proxy.ucupbaba1906.workers.dev/secure_download?appid=696170&auth_code=RYUUMANIFEST72oz"
+            ],
+            "bypass_files": []
         }
     ]
 }
