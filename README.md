@@ -8957,6 +8957,15 @@
                 "https://kyzu-proxy.ucupbaba1906.workers.dev/secure_download?appid=1580780&auth_code=RYUUMANIFEST72oz"
             ],
             "bypass_files": []
+        },
+        {
+            "name": "Crosshair X",
+            "steamAppId": 1366800,
+            "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1366800/header.jpg",
+            "inject_files": [
+                "https://kyzu-proxy.ucupbaba1906.workers.dev/secure_download?appid=1366800&auth_code=RYUUMANIFEST72oz"
+            ],
+            "bypass_files": []
         }
     ]
 }
