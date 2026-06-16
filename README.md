@@ -9802,6 +9802,15 @@
                 "https://kyzu-proxy.ucupbaba1906.workers.dev/secure_download?appid=3590&auth_code=RYUUMANIFEST72oz"
             ],
             "bypass_files": []
+        },
+        {
+            "name": "GROUND BRANCH",
+            "steamAppId": 16900,
+            "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/16900/header.jpg",
+            "inject_files": [
+                "https://kyzu-proxy.ucupbaba1906.workers.dev/secure_download?appid=16900&auth_code=RYUUMANIFEST72oz"
+            ],
+            "bypass_files": []
         }
     ]
 }
