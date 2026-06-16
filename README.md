@@ -9431,6 +9431,15 @@
                 "https://drive.google.com/file/d/19nfs7HVXLb64-EkBGJ49krX9XdlJFhQn/view?usp=sharing"
             ],
             "bypass_files": []
+        },
+        {
+            "name": "Our Life: Beginnings & Always",
+            "steamAppId": 1129190,
+            "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1129190/header.jpg",
+            "inject_files": [
+                "https://drive.google.com/file/d/1iCTK1dn7_iNauWlQkRWCebN25-y0I0gp/view?usp=drivesdk"
+            ],
+            "bypass_files": []
         }
     ]
 }
