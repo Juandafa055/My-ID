@@ -8584,6 +8584,15 @@
                 "https://kyzu-proxy.ucupbaba1906.workers.dev/secure_download?appid=979070&auth_code=RYUUMANIFEST72oz"
             ],
             "bypass_files": []
+        },
+        {
+            "name": "Fashion Police Squad",
+            "steamAppId": 1319460,
+            "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1319460/header.jpg",
+            "inject_files": [
+                "https://kyzu-proxy.ucupbaba1906.workers.dev/secure_download?appid=1319460&auth_code=RYUUMANIFEST72oz"
+            ],
+            "bypass_files": []
         }
     ]
 }
