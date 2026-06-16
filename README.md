@@ -8685,6 +8685,15 @@
             "bypass_files": [
                 "https://drive.google.com/file/d/17ARU19xkaVYnOatG9C2WxXoX1eXxVC1X/view?usp=sharing"
             ]
+        },
+        {
+            "name": "Wax Heads",
+            "steamAppId": 2769240,
+            "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2769240/header.jpg",
+            "inject_files": [
+                "https://drive.google.com/file/d/1Rdk8idKzKEvztgx9kqP6teC0FCvIfdOe/view?usp=drivesdk"
+            ],
+            "bypass_files": []
         }
     ]
 }
