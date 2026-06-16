@@ -9249,6 +9249,15 @@
                 "https://kyzu-proxy.ucupbaba1906.workers.dev/secure_download?appid=374040&auth_code=RYUUMANIFEST72oz"
             ],
             "bypass_files": []
+        },
+        {
+            "name": "FINAL FANTASY IX",
+            "steamAppId": 377840,
+            "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/377840/header.jpg",
+            "inject_files": [
+                "https://kyzu-proxy.ucupbaba1906.workers.dev/secure_download?appid=377840&auth_code=RYUUMANIFEST72oz"
+            ],
+            "bypass_files": []
         }
     ]
 }
