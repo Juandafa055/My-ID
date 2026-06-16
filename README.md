@@ -9694,6 +9694,15 @@
                 "https://kyzu-proxy.ucupbaba1906.workers.dev/secure_download?appid=665300&auth_code=RYUUMANIFEST72oz"
             ],
             "bypass_files": []
+        },
+        {
+            "name": "Flotsam",
+            "steamAppId": 821250,
+            "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/821250/header.jpg",
+            "inject_files": [
+                "https://kyzu-proxy.ucupbaba1906.workers.dev/secure_download?appid=821250&auth_code=RYUUMANIFEST72oz"
+            ],
+            "bypass_files": []
         }
     ]
 }
