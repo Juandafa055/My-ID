@@ -8757,6 +8757,15 @@
                 "https://kyzu-proxy.ucupbaba1906.workers.dev/secure_download?appid=1348390&auth_code=RYUUMANIFEST72oz"
             ],
             "bypass_files": []
+        },
+        {
+            "name": "BUSTAFELLOWS",
+            "steamAppId": 1494470,
+            "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1494470/header.jpg",
+            "inject_files": [
+                "https://kyzu-proxy.ucupbaba1906.workers.dev/secure_download?appid=1494470&auth_code=RYUUMANIFEST72oz"
+            ],
+            "bypass_files": []
         }
     ]
 }
