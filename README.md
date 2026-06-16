@@ -8530,6 +8530,15 @@
                 "https://kyzu-proxy.ucupbaba1906.workers.dev/secure_download?appid=33120&auth_code=RYUUMANIFEST72oz"
             ],
             "bypass_files": []
+        },
+        {
+            "name": "DreadOut",
+            "steamAppId": 269790,
+            "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/269790/header.jpg",
+            "inject_files": [
+                "https://kyzu-proxy.ucupbaba1906.workers.dev/secure_download?appid=269790&auth_code=RYUUMANIFEST72oz"
+            ],
+            "bypass_files": []
         }
     ]
 }
