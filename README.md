@@ -9568,6 +9568,15 @@
                 "https://kyzu-proxy.ucupbaba1906.workers.dev/secure_download?appid=2314720&auth_code=RYUUMANIFEST72oz"
             ],
             "bypass_files": []
+        },
+        {
+            "name": "Love Is All Around",
+            "steamAppId": 2322560,
+            "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2322560/header.jpg",
+            "inject_files": [
+                "https://kyzu-proxy.ucupbaba1906.workers.dev/secure_download?appid=2322560&auth_code=RYUUMANIFEST72oz"
+            ],
+            "bypass_files": []
         }
     ]
 }
