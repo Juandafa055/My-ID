@@ -8629,6 +8629,15 @@
                 "https://kyzu-proxy.ucupbaba1906.workers.dev/secure_download?appid=1670870&auth_code=RYUUMANIFEST72oz"
             ],
             "bypass_files": []
+        },
+        {
+            "name": "Romestead",
+            "steamAppId": 1805320,
+            "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1805320/header.jpg",
+            "inject_files": [
+                "https://kyzu-proxy.ucupbaba1906.workers.dev/secure_download?appid=1805320&auth_code=RYUUMANIFEST72oz"
+            ],
+            "bypass_files": []
         }
     ]
 }
