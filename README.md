@@ -5363,7 +5363,7 @@
                 "https://kyzu-proxy.ucupbaba1906.workers.dev/secure_download?appid=368500&auth_code=RYUUMANIFEST72oz"
             ],
             "bypass_files": [
-                "https://pixeldrain.com/u/fiYeTqXC"
+                "https://huggingface.co/datasets/Strixgame/RedDead2/resolve/main/AssassinCreedSydicate.zip?download=true"
             ]
         },
         {
