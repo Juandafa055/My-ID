@@ -9222,6 +9222,15 @@
                 "https://kyzu-proxy.ucupbaba1906.workers.dev/secure_download?appid=235460&auth_code=RYUUMANIFEST72oz"
             ],
             "bypass_files": []
+        },
+        {
+            "name": "Mortal Kombat Komplete Edition",
+            "steamAppId": 237110,
+            "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/237110/header.jpg",
+            "inject_files": [
+                "https://drive.google.com/file/d/1NhRHWy5Cvt2jrbC72jEhjpQ8sGOCikkq/view?usp=sharing"
+            ],
+            "bypass_files": []
         }
     ]
 }
