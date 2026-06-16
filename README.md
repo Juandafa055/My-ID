@@ -8894,6 +8894,15 @@
                 "https://kyzu-proxy.ucupbaba1906.workers.dev/secure_download?appid=948740&auth_code=RYUUMANIFEST72oz"
             ],
             "bypass_files": []
+        },
+        {
+            "name": "Heavy Rain",
+            "steamAppId": 960910,
+            "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/960910/header.jpg",
+            "inject_files": [
+                "https://kyzu-proxy.ucupbaba1906.workers.dev/secure_download?appid=960910&auth_code=RYUUMANIFEST72oz"
+            ],
+            "bypass_files": []
         }
     ]
 }
