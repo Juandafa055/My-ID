@@ -8503,6 +8503,15 @@
                 "https://kyzu-proxy.ucupbaba1906.workers.dev/secure_download?appid=3505090&auth_code=RYUUMANIFEST72oz"
             ],
             "bypass_files": []
+        },
+        {
+            "name": "Fishing Planet: Valkyrie Saga Pack",
+            "steamAppId": 4218170,
+            "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4218170/header.jpg",
+            "inject_files": [
+                "https://kyzu-proxy.ucupbaba1906.workers.dev/secure_download?appid=4218170&auth_code=RYUUMANIFEST72oz"
+            ],
+            "bypass_files": []
         }
     ]
 }
