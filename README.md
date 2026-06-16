@@ -8802,6 +8802,17 @@
                 "https://kyzu-proxy.ucupbaba1906.workers.dev/secure_download?appid=238370&auth_code=RYUUMANIFEST72oz"
             ],
             "bypass_files": []
+        },
+        {
+            "name": "A Plague Tale: Innocence",
+            "steamAppId": 752590,
+            "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/752590/header.jpg",
+            "inject_files": [
+                "https://drive.google.com/file/d/1xp_JdM0-2PvJTcoj2PnNRq8pZ87RNHCF/view?usp=sharing"
+            ],
+            "bypass_files": [
+                "https://huggingface.co/datasets/dikiajak/fix/resolve/main/a%20palgue%20tale%20fix.zip?download=true"
+            ]
         }
     ]
 }
