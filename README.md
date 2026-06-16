@@ -8242,6 +8242,15 @@
                 "https://kyzu-proxy.ucupbaba1906.workers.dev/secure_download?appid=4249150&auth_code=RYUUMANIFEST72oz"
             ],
             "bypass_files": []
+        },
+        {
+            "name": "NieR Replicant™ ver.1.22474487139...",
+            "steamAppId": 1113560,
+            "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1113560/header.jpg",
+            "inject_files": [
+                "https://kyzu-proxy.ucupbaba1906.workers.dev/secure_download?appid=1113560&auth_code=RYUUMANIFEST72oz"
+            ],
+            "bypass_files": []
         }
     ]
 }
