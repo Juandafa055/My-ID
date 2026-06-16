@@ -8404,6 +8404,15 @@
                 "https://kyzu-proxy.ucupbaba1906.workers.dev/secure_download?appid=1410710&auth_code=RYUUMANIFEST72oz"
             ],
             "bypass_files": []
+        },
+        {
+            "name": "Trine 5: A Clockwork Conspiracy",
+            "steamAppId": 1436700,
+            "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1436700/header.jpg",
+            "inject_files": [
+                "https://kyzu-proxy.ucupbaba1906.workers.dev/secure_download?appid=1436700&auth_code=RYUUMANIFEST72oz"
+            ],
+            "bypass_files": []
         }
     ]
 }
