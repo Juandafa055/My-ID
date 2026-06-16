@@ -9186,6 +9186,15 @@
                 "https://kyzu-proxy.ucupbaba1906.workers.dev/secure_download?appid=2843190&auth_code=RYUUMANIFEST72oz"
             ],
             "bypass_files": []
+        },
+        {
+            "name": "FATAL FRAME II: Crimson Butterfly REMAKE",
+            "steamAppId": 3920610,
+            "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3920610/header.jpg",
+            "inject_files": [
+                "https://kyzu-proxy.ucupbaba1906.workers.dev/secure_download?appid=3920610&auth_code=RYUUMANIFEST72oz"
+            ],
+            "bypass_files": []
         }
     ]
 }
