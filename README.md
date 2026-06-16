@@ -9505,6 +9505,15 @@
                 "https://kyzu-proxy.ucupbaba1906.workers.dev/secure_download?appid=1462810&auth_code=RYUUMANIFEST72oz"
             ],
             "bypass_files": []
+        },
+        {
+            "name": "Aliens: Fireteam Elite",
+            "steamAppId": 1549970,
+            "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1549970/header.jpg",
+            "inject_files": [
+                "https://kyzu-proxy.ucupbaba1906.workers.dev/secure_download?appid=1549970&auth_code=RYUUMANIFEST72oz"
+            ],
+            "bypass_files": []
         }
     ]
 }
