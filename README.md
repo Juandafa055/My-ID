@@ -8197,6 +8197,15 @@
                 "https://kyzu-proxy.ucupbaba1906.workers.dev/secure_download?appid=2330430&auth_code=RYUUMANIFEST72oz"
             ],
             "bypass_files": []
+        },
+        {
+            "name": "Tales of Seikyu",
+            "steamAppId": 2340520,
+            "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2340520/header.jpg",
+            "inject_files": [
+                "https://kyzu-proxy.ucupbaba1906.workers.dev/secure_download?appid=2340520&auth_code=RYUUMANIFEST72oz"
+            ],
+            "bypass_files": []
         }
     ]
 }
