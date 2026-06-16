@@ -8876,6 +8876,15 @@
                 "https://kyzu-proxy.ucupbaba1906.workers.dev/secure_download?appid=588030&auth_code=RYUUMANIFEST72oz"
             ],
             "bypass_files": []
+        },
+        {
+            "name": "Train Station Renovation",
+            "steamAppId": 914010,
+            "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/914010/header.jpg",
+            "inject_files": [
+                "https://kyzu-proxy.ucupbaba1906.workers.dev/secure_download?appid=914010&auth_code=RYUUMANIFEST72oz"
+            ],
+            "bypass_files": []
         }
     ]
 }
