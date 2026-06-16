@@ -9103,6 +9103,15 @@
                 "https://kyzu-proxy.ucupbaba1906.workers.dev/secure_download?appid=1336980&auth_code=RYUUMANIFEST72oz"
             ],
             "bypass_files": []
+        },
+        {
+            "name": "Sinner Maker",
+            "steamAppId": 4610100,
+            "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4610100/header.jpg",
+            "inject_files": [
+                "https://drive.google.com/file/d/1LiSoGkn8NldKltJ6WugV7iHADn-tFgX4/view?usp=drivesdk"
+            ],
+            "bypass_files": []
         }
     ]
 }
