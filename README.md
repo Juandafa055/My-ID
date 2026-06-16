@@ -9294,6 +9294,15 @@
                 "https://kyzu-proxy.ucupbaba1906.workers.dev/secure_download?appid=544750&auth_code=RYUUMANIFEST72oz"
             ],
             "bypass_files": []
+        },
+        {
+            "name": "Fallout Shelter",
+            "steamAppId": 588430,
+            "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/588430/header.jpg",
+            "inject_files": [
+                "https://kyzu-proxy.ucupbaba1906.workers.dev/secure_download?appid=588430&auth_code=RYUUMANIFEST72oz"
+            ],
+            "bypass_files": []
         }
     ]
 }
