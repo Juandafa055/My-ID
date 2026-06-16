@@ -9049,6 +9049,15 @@
                 "https://kyzu-proxy.ucupbaba1906.workers.dev/secure_download?appid=638970&auth_code=RYUUMANIFEST72oz"
             ],
             "bypass_files": []
+        },
+        {
+            "name": "Sally's Salon: Kiss & Make-Up",
+            "steamAppId": 878520,
+            "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/878520/header.jpg",
+            "inject_files": [
+                "https://kyzu-proxy.ucupbaba1906.workers.dev/secure_download?appid=878520&auth_code=RYUUMANIFEST72oz"
+            ],
+            "bypass_files": []
         }
     ]
 }
