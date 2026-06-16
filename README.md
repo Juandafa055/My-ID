@@ -9357,6 +9357,15 @@
                 "https://kyzu-proxy.ucupbaba1906.workers.dev/secure_download?appid=965200&auth_code=RYUUMANIFEST72oz"
             ],
             "bypass_files": []
+        },
+        {
+            "name": "Lossless Scaling",
+            "steamAppId": 993090,
+            "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/993090/header.jpg",
+            "inject_files": [
+                "https://kyzu-proxy.ucupbaba1906.workers.dev/secure_download?appid=993090&auth_code=RYUUMANIFEST72oz"
+            ],
+            "bypass_files": []
         }
     ]
 }
