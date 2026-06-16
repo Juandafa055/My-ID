@@ -8278,6 +8278,15 @@
                 "https://kyzu-proxy.ucupbaba1906.workers.dev/secure_download?appid=359870&auth_code=RYUUMANIFEST72oz"
             ],
             "bypass_files": []
+        },
+        {
+            "name": "KINGDOM HEARTS -HD 1.5+2.5 ReMIX-",
+            "steamAppId": 2552430,
+            "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2552430/header.jpg",
+            "inject_files": [
+                "https://kyzu-proxy.ucupbaba1906.workers.dev/secure_download?appid=2552430&auth_code=RYUUMANIFEST72oz"
+            ],
+            "bypass_files": []
         }
     ]
 }
