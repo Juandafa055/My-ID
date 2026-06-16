@@ -8521,6 +8521,15 @@
                 "https://kyzu-proxy.ucupbaba1906.workers.dev/secure_download?appid=19680&auth_code=RYUUMANIFEST72oz"
             ],
             "bypass_files": []
+        },
+        {
+            "name": "Alien Shooter 2: Reloaded",
+            "steamAppId": 33120,
+            "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/33120/header.jpg",
+            "inject_files": [
+                "https://kyzu-proxy.ucupbaba1906.workers.dev/secure_download?appid=33120&auth_code=RYUUMANIFEST72oz"
+            ],
+            "bypass_files": []
         }
     ]
 }
