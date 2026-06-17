@@ -10182,6 +10182,15 @@
                 "https://kyzu-proxy.ucupbaba1906.workers.dev/secure_download?appid=238320&auth_code=RYUUMANIFEST72oz"
             ],
             "bypass_files": []
+        },
+        {
+            "name": "Geometry Dash",
+            "steamAppId": 322170,
+            "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/322170/header.jpg",
+            "inject_files": [
+                "https://drive.google.com/file/d/1O-uHaPipR1Ose7ahyqOVgv5ou_wXypni/view?usp=sharing"
+            ],
+            "bypass_files": []
         }
     ]
 }
