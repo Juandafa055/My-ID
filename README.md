@@ -9903,6 +9903,15 @@
                 "https://kyzu-proxy.ucupbaba1906.workers.dev/secure_download?appid=814540&auth_code=RYUUMANIFEST72oz"
             ],
             "bypass_files": []
+        },
+        {
+            "name": "Granblue Fantasy: Relink",
+            "steamAppId": 881020,
+            "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/881020/header.jpg",
+            "inject_files": [
+                "https://kyzu-proxy.ucupbaba1906.workers.dev/secure_download?appid=881020&auth_code=RYUUMANIFEST72oz"
+            ],
+            "bypass_files": []
         }
     ]
 }
