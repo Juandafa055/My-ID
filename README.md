@@ -10753,6 +10753,15 @@
                 "https://kyzu-proxy.ucupbaba1906.workers.dev/secure_download?appid=2657120&auth_code=RYUUMANIFEST72oz"
             ],
             "bypass_files": []
+        },
+        {
+            "name": "FEMBOY FUTA HOUSE",
+            "steamAppId": 3602290,
+            "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3602290/header.jpg",
+            "inject_files": [
+                "https://kyzu-proxy.ucupbaba1906.workers.dev/secure_download?appid=3602290&auth_code=RYUUMANIFEST72oz"
+            ],
+            "bypass_files": []
         }
     ]
 }
