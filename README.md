@@ -10717,6 +10717,15 @@
                 "https://kyzu-proxy.ucupbaba1906.workers.dev/secure_download?appid=1102930&auth_code=RYUUMANIFEST72oz"
             ],
             "bypass_files": []
+        },
+        {
+            "name": "GoreBox",
+            "steamAppId": 2027330,
+            "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2027330/header.jpg",
+            "inject_files": [
+                "https://kyzu-proxy.ucupbaba1906.workers.dev/secure_download?appid=2027330&auth_code=RYUUMANIFEST72oz"
+            ],
+            "bypass_files": []
         }
     ]
 }
