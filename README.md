@@ -10454,6 +10454,15 @@
                 "https://kyzu-proxy.ucupbaba1906.workers.dev/secure_download?appid=3516180&auth_code=RYUUMANIFEST72oz"
             ],
             "bypass_files": []
+        },
+        {
+            "name": "X4: Foundations",
+            "steamAppId": 392160,
+            "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/392160/header.jpg",
+            "inject_files": [
+                "https://huggingface.co/datasets/Strixgame/RedDead2/resolve/main/392160.zip?download=true"
+            ],
+            "bypass_files": []
         }
     ]
 }
