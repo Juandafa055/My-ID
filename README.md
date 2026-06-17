@@ -10074,6 +10074,15 @@
                 "https://drive.google.com/file/d/1ifrUGFJpkimRtR1x3FaTUjh2go45-T0B/view?usp=drivesdk"
             ],
             "bypass_files": []
+        },
+        {
+            "name": "Plants vs. Zombies™: Replanted",
+            "steamAppId": 3654560,
+            "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3654560/header.jpg",
+            "inject_files": [
+                "https://kyzu-proxy.ucupbaba1906.workers.dev/secure_download?appid=3654560&auth_code=RYUUMANIFEST72oz"
+            ],
+            "bypass_files": []
         }
     ]
 }
