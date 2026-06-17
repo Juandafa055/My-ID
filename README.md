@@ -10256,6 +10256,15 @@
                 "https://kyzu-proxy.ucupbaba1906.workers.dev/secure_download?appid=774361&auth_code=RYUUMANIFEST72oz"
             ],
             "bypass_files": []
+        },
+        {
+            "name": "Last Epoch",
+            "steamAppId": 899770,
+            "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/899770/header.jpg",
+            "inject_files": [
+                "https://kyzu-proxy.ucupbaba1906.workers.dev/secure_download?appid=899770&auth_code=RYUUMANIFEST72oz"
+            ],
+            "bypass_files": []
         }
     ]
 }
