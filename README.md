@@ -10481,6 +10481,15 @@
                 "https://kyzu-proxy.ucupbaba1906.workers.dev/secure_download?appid=1491670&auth_code=RYUUMANIFEST72oz"
             ],
             "bypass_files": []
+        },
+        {
+            "name": "Bopl Battle",
+            "steamAppId": 1686940,
+            "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1686940/header.jpg",
+            "inject_files": [
+                "https://kyzu-proxy.ucupbaba1906.workers.dev/secure_download?appid=1686940&auth_code=RYUUMANIFEST72oz"
+            ],
+            "bypass_files": []
         }
     ]
 }
