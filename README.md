@@ -10807,6 +10807,15 @@
                 "https://kyzu-proxy.ucupbaba1906.workers.dev/secure_download?appid=247020&auth_code=RYUUMANIFEST72oz"
             ],
             "bypass_files": []
+        },
+        {
+            "name": "Cook, Serve, Delicious! 3?!",
+            "steamAppId": 1000030,
+            "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1000030/header.jpg",
+            "inject_files": [
+                "https://kyzu-proxy.ucupbaba1906.workers.dev/secure_download?appid=1000030&auth_code=RYUUMANIFEST72oz"
+            ],
+            "bypass_files": []
         }
     ]
 }
