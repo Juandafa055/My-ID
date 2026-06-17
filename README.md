@@ -10274,6 +10274,15 @@
                 "https://kyzu-proxy.ucupbaba1906.workers.dev/secure_download?appid=1050510&auth_code=RYUUMANIFEST72oz"
             ],
             "bypass_files": []
+        },
+        {
+            "name": "Being a DIK - Season 1",
+            "steamAppId": 1126320,
+            "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1126320/header.jpg",
+            "inject_files": [
+                "https://kyzu-proxy.ucupbaba1906.workers.dev/secure_download?appid=1126320&auth_code=RYUUMANIFEST72oz"
+            ],
+            "bypass_files": []
         }
     ]
 }
