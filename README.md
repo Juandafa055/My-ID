@@ -10654,6 +10654,15 @@
                 "https://kyzu-proxy.ucupbaba1906.workers.dev/secure_download?appid=1035120&auth_code=RYUUMANIFEST72oz"
             ],
             "bypass_files": []
+        },
+        {
+            "name": "Timberborn",
+            "steamAppId": 1062090,
+            "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1062090/header.jpg",
+            "inject_files": [
+                "https://kyzu-proxy.ucupbaba1906.workers.dev/secure_download?appid=1062090&auth_code=RYUUMANIFEST72oz"
+            ],
+            "bypass_files": []
         }
     ]
 }
