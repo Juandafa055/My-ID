@@ -9975,6 +9975,15 @@
                 "https://drive.google.com/file/d/1iShvXoYsa6tiyKUXWDKNkg5RnnZpU_ov/view?usp=sharing"
             ],
             "bypass_files": []
+        },
+        {
+            "name": "MorphVOX Pro 5 - Voice Changer",
+            "steamAppId": 1529570,
+            "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1529570/header.jpg",
+            "inject_files": [
+                "https://kyzu-proxy.ucupbaba1906.workers.dev/secure_download?appid=1529570&auth_code=RYUUMANIFEST72oz"
+            ],
+            "bypass_files": []
         }
     ]
 }
