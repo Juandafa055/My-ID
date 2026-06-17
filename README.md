@@ -10933,6 +10933,15 @@
                 "https://kyzu-proxy.ucupbaba1906.workers.dev/secure_download?appid=1569580&auth_code=RYUUMANIFEST72oz"
             ],
             "bypass_files": []
+        },
+        {
+            "name": "Pro Philosopher 2: Governments & Grievances",
+            "steamAppId": 2120070,
+            "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2120070/header.jpg",
+            "inject_files": [
+                "https://kyzu-proxy.ucupbaba1906.workers.dev/secure_download?appid=2120070&auth_code=RYUUMANIFEST72oz"
+            ],
+            "bypass_files": []
         }
     ]
 }
