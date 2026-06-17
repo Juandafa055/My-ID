@@ -9838,6 +9838,15 @@
                 "🔙 KEMBALI KE MENU"
             ],
             "bypass_files": []
+        },
+        {
+            "name": "Scrap Mechanic",
+            "steamAppId": 387990,
+            "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/387990/header.jpg",
+            "inject_files": [
+                "https://kyzu-proxy.ucupbaba1906.workers.dev/secure_download?appid=387990&auth_code=RYUUMANIFEST72oz"
+            ],
+            "bypass_files": []
         }
     ]
 }
