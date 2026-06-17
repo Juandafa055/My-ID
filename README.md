@@ -10092,6 +10092,15 @@
                 "https://kyzu-proxy.ucupbaba1906.workers.dev/secure_download?appid=4329260&auth_code=RYUUMANIFEST72oz"
             ],
             "bypass_files": []
+        },
+        {
+            "name": "Substance 3D Designer 2026",
+            "steamAppId": 4329280,
+            "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4329280/header.jpg",
+            "inject_files": [
+                "https://kyzu-proxy.ucupbaba1906.workers.dev/secure_download?appid=4329280&auth_code=RYUUMANIFEST72oz"
+            ],
+            "bypass_files": []
         }
     ]
 }
