@@ -9930,6 +9930,15 @@
                 "https://kyzu-proxy.ucupbaba1906.workers.dev/secure_download?appid=936790&auth_code=RYUUMANIFEST72oz"
             ],
             "bypass_files": []
+        },
+        {
+            "name": "Transport Fever 2",
+            "steamAppId": 1066780,
+            "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1066780/header.jpg",
+            "inject_files": [
+                "https://drive.google.com/file/d/1IT9xtEcqMFc7kmXa8Pvkpl_6X6XP9q5t/view?usp=drivesdk"
+            ],
+            "bypass_files": []
         }
     ]
 }
