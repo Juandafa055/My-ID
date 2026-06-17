@@ -10292,6 +10292,15 @@
                 "https://kyzu-proxy.ucupbaba1906.workers.dev/secure_download?appid=1215820&auth_code=RYUUMANIFEST72oz"
             ],
             "bypass_files": []
+        },
+        {
+            "name": "My Universe - Fashion Boutique",
+            "steamAppId": 1365410,
+            "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1365410/header.jpg",
+            "inject_files": [
+                "https://kyzu-proxy.ucupbaba1906.workers.dev/secure_download?appid=1365410&auth_code=RYUUMANIFEST72oz"
+            ],
+            "bypass_files": []
         }
     ]
 }
