@@ -10591,6 +10591,15 @@
                 "https://kyzu-proxy.ucupbaba1906.workers.dev/secure_download?appid=1793090&auth_code=RYUUMANIFEST72oz"
             ],
             "bypass_files": []
+        },
+        {
+            "name": "Sticky Business",
+            "steamAppId": 2303350,
+            "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2303350/header.jpg",
+            "inject_files": [
+                "https://kyzu-proxy.ucupbaba1906.workers.dev/secure_download?appid=2303350&auth_code=RYUUMANIFEST72oz"
+            ],
+            "bypass_files": []
         }
     ]
 }
