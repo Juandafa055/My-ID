@@ -10490,6 +10490,17 @@
                 "https://kyzu-proxy.ucupbaba1906.workers.dev/secure_download?appid=1686940&auth_code=RYUUMANIFEST72oz"
             ],
             "bypass_files": []
+        },
+        {
+            "name": "Battlefield™ 6",
+            "steamAppId": 2807960,
+            "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2807960/header.jpg",
+            "inject_files": [
+                "https://kyzu-proxy.ucupbaba1906.workers.dev/secure_download?appid=2807960&auth_code=RYUUMANIFEST72oz"
+            ],
+            "bypass_files": [
+                "https://huggingface.co/datasets/dikiajak/fix/resolve/main/Battlefield%206%20(FIX)kyzugamess.zip?download=true"
+            ]
         }
     ]
 }
