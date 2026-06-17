@@ -10020,6 +10020,15 @@
                 "https://kyzu-proxy.ucupbaba1906.workers.dev/secure_download?appid=2157560&auth_code=RYUUMANIFEST72oz"
             ],
             "bypass_files": []
+        },
+        {
+            "name": "ServiceIT: You can do IT",
+            "steamAppId": 2194730,
+            "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2194730/header.jpg",
+            "inject_files": [
+                "https://kyzu-proxy.ucupbaba1906.workers.dev/secure_download?appid=2194730&auth_code=RYUUMANIFEST72oz"
+            ],
+            "bypass_files": []
         }
     ]
 }
