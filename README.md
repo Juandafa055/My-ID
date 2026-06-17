@@ -10915,6 +10915,15 @@
                 "https://kyzu-proxy.ucupbaba1906.workers.dev/secure_download?appid=1022850&auth_code=RYUUMANIFEST72oz"
             ],
             "bypass_files": []
+        },
+        {
+            "name": "Princesses Never Lose!",
+            "steamAppId": 1058060,
+            "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1058060/header.jpg",
+            "inject_files": [
+                "https://kyzu-proxy.ucupbaba1906.workers.dev/secure_download?appid=1058060&auth_code=RYUUMANIFEST72oz"
+            ],
+            "bypass_files": []
         }
     ]
 }
