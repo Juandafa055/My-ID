@@ -9894,6 +9894,15 @@
                 "https://kyzu-proxy.ucupbaba1906.workers.dev/secure_download?appid=1040200&auth_code=RYUUMANIFEST72oz"
             ],
             "bypass_files": []
+        },
+        {
+            "name": "Changed",
+            "steamAppId": 814540,
+            "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/814540/header.jpg",
+            "inject_files": [
+                "https://kyzu-proxy.ucupbaba1906.workers.dev/secure_download?appid=814540&auth_code=RYUUMANIFEST72oz"
+            ],
+            "bypass_files": []
         }
     ]
 }
