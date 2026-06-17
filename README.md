@@ -10780,6 +10780,15 @@
                 "https://kyzu-proxy.ucupbaba1906.workers.dev/secure_download?appid=3989810&auth_code=RYUUMANIFEST72oz"
             ],
             "bypass_files": []
+        },
+        {
+            "name": "Femboy Next Door 🔞🚪",
+            "steamAppId": 4450550,
+            "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4450550/header.jpg",
+            "inject_files": [
+                "https://drive.google.com/file/d/1Oj45r2b_8lNDD3Sp1YfHUuZPW34HO58B/view?usp=drivesdk"
+            ],
+            "bypass_files": []
         }
     ]
 }
