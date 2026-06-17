@@ -10400,6 +10400,15 @@
                 "https://kyzu-proxy.ucupbaba1906.workers.dev/secure_download?appid=4144680&auth_code=RYUUMANIFEST72oz"
             ],
             "bypass_files": []
+        },
+        {
+            "name": "Cities XL Platinum",
+            "steamAppId": 231140,
+            "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/231140/header.jpg",
+            "inject_files": [
+                "https://kyzu-proxy.ucupbaba1906.workers.dev/secure_download?appid=231140&auth_code=RYUUMANIFEST72oz"
+            ],
+            "bypass_files": []
         }
     ]
 }
