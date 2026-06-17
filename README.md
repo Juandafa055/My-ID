@@ -10463,6 +10463,15 @@
                 "https://huggingface.co/datasets/Strixgame/RedDead2/resolve/main/392160.zip?download=true"
             ],
             "bypass_files": []
+        },
+        {
+            "name": "NBA 2K20",
+            "steamAppId": 1089350,
+            "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1089350/header.jpg",
+            "inject_files": [
+                "https://kyzu-proxy.ucupbaba1906.workers.dev/secure_download?appid=1089350&auth_code=RYUUMANIFEST72oz"
+            ],
+            "bypass_files": []
         }
     ]
 }
