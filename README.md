@@ -10155,6 +10155,15 @@
                 "https://kyzu-proxy.ucupbaba1906.workers.dev/secure_download?appid=1334040&auth_code=RYUUMANIFEST72oz"
             ],
             "bypass_files": []
+        },
+        {
+            "name": "Shape of Dreams",
+            "steamAppId": 2444750,
+            "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2444750/header.jpg",
+            "inject_files": [
+                "https://kyzu-proxy.ucupbaba1906.workers.dev/secure_download?appid=2444750&auth_code=RYUUMANIFEST72oz"
+            ],
+            "bypass_files": []
         }
     ]
 }
