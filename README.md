@@ -10618,6 +10618,15 @@
                 "https://drive.google.com/file/d/1NnNkWIYhKFOxvBjZyc0ll7lzNLqywJWJ/view?usp=sharing"
             ],
             "bypass_files": []
+        },
+        {
+            "name": "Getting Over It with Bennett Foddy",
+            "steamAppId": 240720,
+            "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/240720/header.jpg",
+            "inject_files": [
+                "https://kyzu-proxy.ucupbaba1906.workers.dev/secure_download?appid=240720&auth_code=RYUUMANIFEST72oz"
+            ],
+            "bypass_files": []
         }
     ]
 }
