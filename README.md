@@ -10762,6 +10762,15 @@
                 "https://kyzu-proxy.ucupbaba1906.workers.dev/secure_download?appid=3602290&auth_code=RYUUMANIFEST72oz"
             ],
             "bypass_files": []
+        },
+        {
+            "name": "My sexy Neighbour 2",
+            "steamAppId": 3684710,
+            "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3684710/header.jpg",
+            "inject_files": [
+                "https://kyzu-proxy.ucupbaba1906.workers.dev/secure_download?appid=3684710&auth_code=RYUUMANIFEST72oz"
+            ],
+            "bypass_files": []
         }
     ]
 }
