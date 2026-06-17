@@ -10227,6 +10227,15 @@
                 "https://kyzu-proxy.ucupbaba1906.workers.dev/secure_download?appid=431730&auth_code=RYUUMANIFEST72oz"
             ],
             "bypass_files": []
+        },
+        {
+            "name": "BioShock™ 2 Remastered",
+            "steamAppId": 409720,
+            "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/409720/header.jpg",
+            "inject_files": [
+                "https://kyzu-proxy.ucupbaba1906.workers.dev/secure_download?appid=409720&auth_code=RYUUMANIFEST72oz"
+            ],
+            "bypass_files": []
         }
     ]
 }
