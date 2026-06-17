@@ -10672,6 +10672,15 @@
                 "https://kyzu-proxy.ucupbaba1906.workers.dev/secure_download?appid=1243850&auth_code=RYUUMANIFEST72oz"
             ],
             "bypass_files": []
+        },
+        {
+            "name": "VTube Studio",
+            "steamAppId": 1325860,
+            "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1325860/header.jpg",
+            "inject_files": [
+                "https://kyzu-proxy.ucupbaba1906.workers.dev/secure_download?appid=1325860&auth_code=RYUUMANIFEST72oz"
+            ],
+            "bypass_files": []
         }
     ]
 }
