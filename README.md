@@ -10555,6 +10555,15 @@
                 "https://drive.google.com/file/d/1A07UPwRfguRFy0uI8WVhxrttQOzJTZ5k/view?usp=drivesdk"
             ],
             "bypass_files": []
+        },
+        {
+            "name": "HoneySelect2Libido DX",
+            "steamAppId": 1631080,
+            "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1631080/header.jpg",
+            "inject_files": [
+                "https://kyzu-proxy.ucupbaba1906.workers.dev/secure_download?appid=1631080&auth_code=RYUUMANIFEST72oz"
+            ],
+            "bypass_files": []
         }
     ]
 }
