@@ -10609,6 +10609,15 @@
                 "https://kyzu-proxy.ucupbaba1906.workers.dev/secure_download?appid=2835570&auth_code=RYUUMANIFEST72oz"
             ],
             "bypass_files": []
+        },
+        {
+            "name": "Thrifty Business",
+            "steamAppId": 3693650,
+            "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3693650/header.jpg",
+            "inject_files": [
+                "https://drive.google.com/file/d/1NnNkWIYhKFOxvBjZyc0ll7lzNLqywJWJ/view?usp=sharing"
+            ],
+            "bypass_files": []
         }
     ]
 }
