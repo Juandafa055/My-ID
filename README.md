@@ -10663,6 +10663,15 @@
                 "https://kyzu-proxy.ucupbaba1906.workers.dev/secure_download?appid=1062090&auth_code=RYUUMANIFEST72oz"
             ],
             "bypass_files": []
+        },
+        {
+            "name": "This Bed We Made",
+            "steamAppId": 1243850,
+            "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1243850/header.jpg",
+            "inject_files": [
+                "https://kyzu-proxy.ucupbaba1906.workers.dev/secure_download?appid=1243850&auth_code=RYUUMANIFEST72oz"
+            ],
+            "bypass_files": []
         }
     ]
 }
