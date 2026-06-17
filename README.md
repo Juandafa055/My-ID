@@ -10960,6 +10960,15 @@
                 "https://kyzu-proxy.ucupbaba1906.workers.dev/secure_download?appid=4170200&auth_code=RYUUMANIFEST72oz"
             ],
             "bypass_files": []
+        },
+        {
+            "name": "Skullgirls 2nd Encore",
+            "steamAppId": 245170,
+            "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/245170/header.jpg",
+            "inject_files": [
+                "https://kyzu-proxy.ucupbaba1906.workers.dev/secure_download?appid=245170&auth_code=RYUUMANIFEST72oz"
+            ],
+            "bypass_files": []
         }
     ]
 }
