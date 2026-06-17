@@ -10528,6 +10528,15 @@
                 "https://drive.google.com/file/d/1MaHj0HVCmCj0toIcCMzwFur3QFYgzxh1/view?usp=drivesdk"
             ],
             "bypass_files": []
+        },
+        {
+            "name": "BioShock Infinite",
+            "steamAppId": 8870,
+            "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/8870/header.jpg",
+            "inject_files": [
+                "https://kyzu-proxy.ucupbaba1906.workers.dev/secure_download?appid=8870&auth_code=RYUUMANIFEST72oz"
+            ],
+            "bypass_files": []
         }
     ]
 }
