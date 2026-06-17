@@ -10110,6 +10110,15 @@
                 "https://kyzu-proxy.ucupbaba1906.workers.dev/secure_download?appid=4489310&auth_code=RYUUMANIFEST72oz"
             ],
             "bypass_files": []
+        },
+        {
+            "name": "CAPTAIN TSUBASA 2: WORLD FIGHTERS",
+            "steamAppId": 2172910,
+            "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2172910/header.jpg",
+            "inject_files": [
+                "https://kyzu-proxy.ucupbaba1906.workers.dev/secure_download?appid=2172910&auth_code=RYUUMANIFEST72oz"
+            ],
+            "bypass_files": []
         }
     ]
 }
