@@ -9966,6 +9966,15 @@
                 "https://kyzu-proxy.ucupbaba1906.workers.dev/secure_download?appid=1282100&auth_code=RYUUMANIFEST72oz"
             ],
             "bypass_files": []
+        },
+        {
+            "name": "Manor Lords",
+            "steamAppId": 1363080,
+            "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1363080/header.jpg",
+            "inject_files": [
+                "https://drive.google.com/file/d/1iShvXoYsa6tiyKUXWDKNkg5RnnZpU_ov/view?usp=sharing"
+            ],
+            "bypass_files": []
         }
     ]
 }
