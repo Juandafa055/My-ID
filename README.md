@@ -10735,6 +10735,15 @@
                 "https://kyzu-proxy.ucupbaba1906.workers.dev/secure_download?appid=2133760&auth_code=RYUUMANIFEST72oz"
             ],
             "bypass_files": []
+        },
+        {
+            "name": "Wife of My Boss",
+            "steamAppId": 2143980,
+            "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2143980/header.jpg",
+            "inject_files": [
+                "https://kyzu-proxy.ucupbaba1906.workers.dev/secure_download?appid=2143980&auth_code=RYUUMANIFEST72oz"
+            ],
+            "bypass_files": []
         }
     ]
 }
