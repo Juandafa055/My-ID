@@ -10146,6 +10146,15 @@
                 "https://kyzu-proxy.ucupbaba1906.workers.dev/secure_download?appid=531510&auth_code=RYUUMANIFEST72oz"
             ],
             "bypass_files": []
+        },
+        {
+            "name": "Paper Dolls 2 纸人贰",
+            "steamAppId": 1334040,
+            "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1334040/header.jpg",
+            "inject_files": [
+                "https://kyzu-proxy.ucupbaba1906.workers.dev/secure_download?appid=1334040&auth_code=RYUUMANIFEST72oz"
+            ],
+            "bypass_files": []
         }
     ]
 }
