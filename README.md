@@ -9847,6 +9847,15 @@
                 "https://kyzu-proxy.ucupbaba1906.workers.dev/secure_download?appid=387990&auth_code=RYUUMANIFEST72oz"
             ],
             "bypass_files": []
+        },
+        {
+            "name": "Conan Exiles Enhanced",
+            "steamAppId": 440900,
+            "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/440900/header.jpg",
+            "inject_files": [
+                "https://kyzu-proxy.ucupbaba1906.workers.dev/secure_download?appid=440900&auth_code=RYUUMANIFEST72oz"
+            ],
+            "bypass_files": []
         }
     ]
 }
