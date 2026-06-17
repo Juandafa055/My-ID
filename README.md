@@ -10564,6 +10564,15 @@
                 "https://kyzu-proxy.ucupbaba1906.workers.dev/secure_download?appid=1631080&auth_code=RYUUMANIFEST72oz"
             ],
             "bypass_files": []
+        },
+        {
+            "name": "Birds Watching",
+            "steamAppId": 3979870,
+            "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3979870/header.jpg",
+            "inject_files": [
+                "https://drive.google.com/file/d/1P39TZMPEevl0ty2bYrFZURJx8y6Qtwni/view?usp=drivesdk"
+            ],
+            "bypass_files": []
         }
     ]
 }
