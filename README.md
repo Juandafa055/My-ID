@@ -10002,6 +10002,15 @@
                 "https://kyzu-proxy.ucupbaba1906.workers.dev/secure_download?appid=2014780&auth_code=RYUUMANIFEST72oz"
             ],
             "bypass_files": []
+        },
+        {
+            "name": "Humanica",
+            "steamAppId": 2112740,
+            "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2112740/header.jpg",
+            "inject_files": [
+                "https://drive.google.com/file/d/1eGlARA95zzPxFR7PXNgKGOhJCQ0N8rVB/view?usp=drivesdk"
+            ],
+            "bypass_files": []
         }
     ]
 }
