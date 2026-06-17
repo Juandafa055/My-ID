@@ -10843,6 +10843,15 @@
                 "https://kyzu-proxy.ucupbaba1906.workers.dev/secure_download?appid=2210520&auth_code=RYUUMANIFEST72oz"
             ],
             "bypass_files": []
+        },
+        {
+            "name": "Invincible VS",
+            "steamAppId": 2353060,
+            "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2353060/header.jpg",
+            "inject_files": [
+                "https://kyzu-proxy.ucupbaba1906.workers.dev/secure_download?appid=2353060&auth_code=RYUUMANIFEST72oz"
+            ],
+            "bypass_files": []
         }
     ]
 }
