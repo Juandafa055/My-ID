@@ -10980,6 +10980,15 @@
             "bypass_files": [
                 "https://drive.google.com/file/d/1vFGw8Wp5q65qwzlMPwm4hSipYgPy12xf/view?usp=drive_link"
             ]
+        },
+        {
+            "name": "REMATCH",
+            "steamAppId": 2138720,
+            "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2138720/header.jpg",
+            "inject_files": [
+                "https://huggingface.co/datasets/Strixgame/RedDead2/resolve/main/2138720.zip?download=true"
+            ],
+            "bypass_files": []
         }
     ]
 }
