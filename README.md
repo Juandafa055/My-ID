@@ -10319,6 +10319,15 @@
                 "https://kyzu-proxy.ucupbaba1906.workers.dev/secure_download?appid=1546400&auth_code=RYUUMANIFEST72oz"
             ],
             "bypass_files": []
+        },
+        {
+            "name": "Sengoku Dynasty",
+            "steamAppId": 1702010,
+            "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1702010/header.jpg",
+            "inject_files": [
+                "https://kyzu-proxy.ucupbaba1906.workers.dev/secure_download?appid=1702010&auth_code=RYUUMANIFEST72oz"
+            ],
+            "bypass_files": []
         }
     ]
 }
