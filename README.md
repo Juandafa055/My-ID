@@ -11857,6 +11857,15 @@
                 "https://kyzu-proxy.ucupbaba1906.workers.dev/secure_download?appid=1098940&auth_code=RYUUMANIFEST72oz"
             ],
             "bypass_files": []
+        },
+        {
+            "name": "Homura Hime",
+            "steamAppId": 1820000,
+            "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1820000/header.jpg",
+            "inject_files": [
+                "https://kyzu-proxy.ucupbaba1906.workers.dev/secure_download?appid=1820000&auth_code=RYUUMANIFEST72oz"
+            ],
+            "bypass_files": []
         }
     ]
 }
