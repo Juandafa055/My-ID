@@ -11497,6 +11497,15 @@
                 "https://kyzu-proxy.ucupbaba1906.workers.dev/secure_download?appid=310950&auth_code=RYUUMANIFEST72oz"
             ],
             "bypass_files": []
+        },
+        {
+            "name": "Ravenfield",
+            "steamAppId": 636480,
+            "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/636480/header.jpg",
+            "inject_files": [
+                "https://kyzu-proxy.ucupbaba1906.workers.dev/secure_download?appid=636480&auth_code=RYUUMANIFEST72oz"
+            ],
+            "bypass_files": []
         }
     ]
 }
