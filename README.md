@@ -11515,6 +11515,15 @@
                 "https://drive.google.com/file/d/1kl7-qvmhwSG6G17DntTwW3lPzBS2GTzH/view?usp=drivesdk"
             ],
             "bypass_files": []
+        },
+        {
+            "name": "Fueled Up",
+            "steamAppId": 1488430,
+            "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1488430/header.jpg",
+            "inject_files": [
+                "https://kyzu-proxy.ucupbaba1906.workers.dev/secure_download?appid=1488430&auth_code=RYUUMANIFEST72oz"
+            ],
+            "bypass_files": []
         }
     ]
 }
