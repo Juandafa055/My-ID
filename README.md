@@ -11099,6 +11099,15 @@
                 "https://kyzu-proxy.ucupbaba1906.workers.dev/secure_download?appid=1272080&auth_code=RYUUMANIFEST72oz"
             ],
             "bypass_files": []
+        },
+        {
+            "name": "Dark Deity",
+            "steamAppId": 1374840,
+            "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1374840/header.jpg",
+            "inject_files": [
+                "https://kyzu-proxy.ucupbaba1906.workers.dev/secure_download?appid=1374840&auth_code=RYUUMANIFEST72oz"
+            ],
+            "bypass_files": []
         }
     ]
 }
