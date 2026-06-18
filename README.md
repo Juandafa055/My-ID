@@ -11216,6 +11216,15 @@
                 "https://kyzu-proxy.ucupbaba1906.workers.dev/secure_download?appid=553850&auth_code=RYUUMANIFEST72oz"
             ],
             "bypass_files": []
+        },
+        {
+            "name": "Steel Division 2",
+            "steamAppId": 919640,
+            "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/919640/header.jpg",
+            "inject_files": [
+                "https://kyzu-proxy.ucupbaba1906.workers.dev/secure_download?appid=919640&auth_code=RYUUMANIFEST72oz"
+            ],
+            "bypass_files": []
         }
     ]
 }
