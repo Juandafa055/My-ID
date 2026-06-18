@@ -11416,6 +11416,15 @@
                 "https://kyzu-proxy.ucupbaba1906.workers.dev/secure_download?appid=701160&auth_code=RYUUMANIFEST72oz"
             ],
             "bypass_files": []
+        },
+        {
+            "name": "Dome Keeper",
+            "steamAppId": 1637320,
+            "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1637320/header.jpg",
+            "inject_files": [
+                "https://kyzu-proxy.ucupbaba1906.workers.dev/secure_download?appid=1637320&auth_code=RYUUMANIFEST72oz"
+            ],
+            "bypass_files": []
         }
     ]
 }
