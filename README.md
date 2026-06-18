@@ -11884,6 +11884,15 @@
                 "https://huggingface.co/datasets/Strixgame/RedDead2/resolve/main/996580.zip?download=true"
             ],
             "bypass_files": []
+        },
+        {
+            "name": "Truck & Logistics Simulator",
+            "steamAppId": 873840,
+            "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/873840/header.jpg",
+            "inject_files": [
+                "https://huggingface.co/datasets/Strixgame/RedDead2/resolve/main/873840.zip?download=true"
+            ],
+            "bypass_files": []
         }
     ]
 }
