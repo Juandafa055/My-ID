@@ -11830,6 +11830,15 @@
                 "https://kyzu-proxy.ucupbaba1906.workers.dev/secure_download?appid=367520&auth_code=RYUUMANIFEST72oz"
             ],
             "bypass_files": []
+        },
+        {
+            "name": "Hollow Knight: Silksong",
+            "steamAppId": 1030300,
+            "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1030300/header.jpg",
+            "inject_files": [
+                "https://kyzu-proxy.ucupbaba1906.workers.dev/secure_download?appid=1030300&auth_code=RYUUMANIFEST72oz"
+            ],
+            "bypass_files": []
         }
     ]
 }
