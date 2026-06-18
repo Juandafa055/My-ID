@@ -11524,6 +11524,15 @@
                 "https://kyzu-proxy.ucupbaba1906.workers.dev/secure_download?appid=1488430&auth_code=RYUUMANIFEST72oz"
             ],
             "bypass_files": []
+        },
+        {
+            "name": "Sifu",
+            "steamAppId": 2138710,
+            "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2138710/header.jpg",
+            "inject_files": [
+                "https://kyzu-proxy.ucupbaba1906.workers.dev/secure_download?appid=2138710&auth_code=RYUUMANIFEST72oz"
+            ],
+            "bypass_files": []
         }
     ]
 }
