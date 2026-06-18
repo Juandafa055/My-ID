@@ -5465,7 +5465,7 @@
                 "https://drive.google.com/file/d/1-citBk0LdC6pcJK_x6jwUS-uc8H40tQC/view?usp=drivesdk"
             ],
             "bypass_files": [
-                "https://drive.google.com/file/d/10xdRgLRzykw7SqCTbii2rv5xSJk5yBm5/view?usp=sharing"
+                "https://huggingface.co/datasets/Strixgame/RedDead2/resolve/main/F1FixTerbaru.zip?download=true"
             ]
         },
         {
