@@ -11812,6 +11812,15 @@
                 "https://kyzu-proxy.ucupbaba1906.workers.dev/secure_download?appid=3400350&auth_code=RYUUMANIFEST72oz"
             ],
             "bypass_files": []
+        },
+        {
+            "name": "No, I'm not a Human",
+            "steamAppId": 3180070,
+            "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3180070/header.jpg",
+            "inject_files": [
+                "https://kyzu-proxy.ucupbaba1906.workers.dev/secure_download?appid=3180070&auth_code=RYUUMANIFEST72oz"
+            ],
+            "bypass_files": []
         }
     ]
 }
