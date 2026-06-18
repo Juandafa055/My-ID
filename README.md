@@ -11470,6 +11470,15 @@
                 "https://kyzu-proxy.ucupbaba1906.workers.dev/secure_download?appid=1248060&auth_code=RYUUMANIFEST72oz"
             ],
             "bypass_files": []
+        },
+        {
+            "name": "Fatal Claw",
+            "steamAppId": 2827750,
+            "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2827750/header.jpg",
+            "inject_files": [
+                "https://drive.google.com/file/d/1NDAwJuIN_qLACsJ3qMqtaecf7sMS1GKX/view?usp=drivesdk"
+            ],
+            "bypass_files": []
         }
     ]
 }
