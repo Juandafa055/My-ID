@@ -11425,6 +11425,15 @@
                 "https://kyzu-proxy.ucupbaba1906.workers.dev/secure_download?appid=1637320&auth_code=RYUUMANIFEST72oz"
             ],
             "bypass_files": []
+        },
+        {
+            "name": "Laysara: Summit Kingdom",
+            "steamAppId": 1823950,
+            "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1823950/header.jpg",
+            "inject_files": [
+                "https://kyzu-proxy.ucupbaba1906.workers.dev/secure_download?appid=1823950&auth_code=RYUUMANIFEST72oz"
+            ],
+            "bypass_files": []
         }
     ]
 }
