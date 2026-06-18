@@ -11171,6 +11171,15 @@
                 "https://kyzu-proxy.ucupbaba1906.workers.dev/secure_download?appid=403640&auth_code=RYUUMANIFEST72oz"
             ],
             "bypass_files": []
+        },
+        {
+            "name": "Disgaea PC",
+            "steamAppId": 405900,
+            "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/405900/header.jpg",
+            "inject_files": [
+                "https://kyzu-proxy.ucupbaba1906.workers.dev/secure_download?appid=405900&auth_code=RYUUMANIFEST72oz"
+            ],
+            "bypass_files": []
         }
     ]
 }
