@@ -11288,6 +11288,15 @@
                 "https://kyzu-proxy.ucupbaba1906.workers.dev/secure_download?appid=1689500&auth_code=RYUUMANIFEST72oz"
             ],
             "bypass_files": []
+        },
+        {
+            "name": "Dungeon Clawler",
+            "steamAppId": 2356780,
+            "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2356780/header.jpg",
+            "inject_files": [
+                "https://kyzu-proxy.ucupbaba1906.workers.dev/secure_download?appid=2356780&auth_code=RYUUMANIFEST72oz"
+            ],
+            "bypass_files": []
         }
     ]
 }
