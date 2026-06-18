@@ -11135,6 +11135,15 @@
                 "https://kyzu-proxy.ucupbaba1906.workers.dev/secure_download?appid=2415010&auth_code=RYUUMANIFEST72oz"
             ],
             "bypass_files": []
+        },
+        {
+            "name": "summer haze/glory days",
+            "steamAppId": 2960800,
+            "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2960800/header.jpg",
+            "inject_files": [
+                "https://drive.google.com/file/d/1BXzQu1KW-zYMCUxM02J1vXZw4SrwL0aP/view?usp=drivesdk"
+            ],
+            "bypass_files": []
         }
     ]
 }
