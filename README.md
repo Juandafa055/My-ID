@@ -11722,6 +11722,15 @@
                 "https://kyzu-proxy.ucupbaba1906.workers.dev/secure_download?appid=423580&auth_code=RYUUMANIFEST72oz"
             ],
             "bypass_files": []
+        },
+        {
+            "name": "Chinese Parents",
+            "steamAppId": 736190,
+            "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/736190/header.jpg",
+            "inject_files": [
+                "https://kyzu-proxy.ucupbaba1906.workers.dev/secure_download?appid=736190&auth_code=RYUUMANIFEST72oz"
+            ],
+            "bypass_files": []
         }
     ]
 }
