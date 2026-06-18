@@ -11198,6 +11198,15 @@
                 "https://kyzu-proxy.ucupbaba1906.workers.dev/secure_download?appid=541660&auth_code=RYUUMANIFEST72oz"
             ],
             "bypass_files": []
+        },
+        {
+            "name": "Tales of Vesperia: Definitive Edition",
+            "steamAppId": 738540,
+            "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/738540/header.jpg",
+            "inject_files": [
+                "https://kyzu-proxy.ucupbaba1906.workers.dev/secure_download?appid=738540&auth_code=RYUUMANIFEST72oz"
+            ],
+            "bypass_files": []
         }
     ]
 }
