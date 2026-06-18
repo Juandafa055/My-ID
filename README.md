@@ -11043,6 +11043,15 @@
                 "https://kyzu-proxy.ucupbaba1906.workers.dev/secure_download?appid=803600&auth_code=RYUUMANIFEST72oz"
             ],
             "bypass_files": []
+        },
+        {
+            "name": "Nioh 2 – The Complete Edition",
+            "steamAppId": 1325200,
+            "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1325200/header.jpg",
+            "inject_files": [
+                "https://kyzu-proxy.ucupbaba1906.workers.dev/secure_download?appid=1325200&auth_code=RYUUMANIFEST72oz"
+            ],
+            "bypass_files": []
         }
     ]
 }
