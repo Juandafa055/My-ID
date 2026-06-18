@@ -11052,6 +11052,17 @@
                 "https://kyzu-proxy.ucupbaba1906.workers.dev/secure_download?appid=1325200&auth_code=RYUUMANIFEST72oz"
             ],
             "bypass_files": []
+        },
+        {
+            "name": "Core Keeper",
+            "steamAppId": 1621690,
+            "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1621690/header.jpg",
+            "inject_files": [
+                "https://kyzu-proxy.ucupbaba1906.workers.dev/secure_download?appid=1621690&auth_code=RYUUMANIFEST72oz"
+            ],
+            "bypass_files": [
+                "https://huggingface.co/datasets/dikiajak/fix/resolve/main/CoreKeeper_Fix_Repair_Steam_Generic%20(1).zip?download=true"
+            ]
         }
     ]
 }
