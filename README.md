@@ -11126,6 +11126,15 @@
                 "https://kyzu-proxy.ucupbaba1906.workers.dev/secure_download?appid=2201320&auth_code=RYUUMANIFEST72oz"
             ],
             "bypass_files": []
+        },
+        {
+            "name": "A Date with Death",
+            "steamAppId": 2415010,
+            "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2415010/header.jpg",
+            "inject_files": [
+                "https://kyzu-proxy.ucupbaba1906.workers.dev/secure_download?appid=2415010&auth_code=RYUUMANIFEST72oz"
+            ],
+            "bypass_files": []
         }
     ]
 }
