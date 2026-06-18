@@ -11189,6 +11189,15 @@
                 "https://kyzu-proxy.ucupbaba1906.workers.dev/secure_download?appid=541640&auth_code=RYUUMANIFEST72oz"
             ],
             "bypass_files": []
+        },
+        {
+            "name": "Disney Infinity 2.0: Gold Edition",
+            "steamAppId": 541660,
+            "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/541660/header.jpg",
+            "inject_files": [
+                "https://kyzu-proxy.ucupbaba1906.workers.dev/secure_download?appid=541660&auth_code=RYUUMANIFEST72oz"
+            ],
+            "bypass_files": []
         }
     ]
 }
