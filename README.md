@@ -11162,6 +11162,15 @@
                 "https://drive.google.com/file/d/1R2NSbtkggokVvinUc0JimiX3h75s-35J/view?usp=drivesdk"
             ],
             "bypass_files": []
+        },
+        {
+            "name": "Dishonored 2",
+            "steamAppId": 403640,
+            "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/403640/header.jpg",
+            "inject_files": [
+                "https://kyzu-proxy.ucupbaba1906.workers.dev/secure_download?appid=403640&auth_code=RYUUMANIFEST72oz"
+            ],
+            "bypass_files": []
         }
     ]
 }
