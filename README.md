@@ -11016,6 +11016,15 @@
                 "https://kyzu-proxy.ucupbaba1906.workers.dev/secure_download?appid=485510&auth_code=RYUUMANIFEST72oz"
             ],
             "bypass_files": []
+        },
+        {
+            "name": "Tropico 6",
+            "steamAppId": 492720,
+            "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/492720/header.jpg",
+            "inject_files": [
+                "https://kyzu-proxy.ucupbaba1906.workers.dev/secure_download?appid=492720&auth_code=RYUUMANIFEST72oz"
+            ],
+            "bypass_files": []
         }
     ]
 }
