@@ -11153,6 +11153,15 @@
                 "https://kyzu-proxy.ucupbaba1906.workers.dev/secure_download?appid=3013550&auth_code=RYUUMANIFEST72oz"
             ],
             "bypass_files": []
+        },
+        {
+            "name": "Dating 4 Girls",
+            "steamAppId": 4005300,
+            "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4005300/header.jpg",
+            "inject_files": [
+                "https://drive.google.com/file/d/1R2NSbtkggokVvinUc0JimiX3h75s-35J/view?usp=drivesdk"
+            ],
+            "bypass_files": []
         }
     ]
 }
