@@ -11360,6 +11360,17 @@
                 "https://kyzu-proxy.ucupbaba1906.workers.dev/secure_download?appid=2527500&auth_code=RYUUMANIFEST72oz"
             ],
             "bypass_files": []
+        },
+        {
+            "name": "Grounded 2",
+            "steamAppId": 2661300,
+            "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2661300/header.jpg",
+            "inject_files": [
+                "https://kyzu-proxy.ucupbaba1906.workers.dev/secure_download?appid=2661300&auth_code=RYUUMANIFEST72oz"
+            ],
+            "bypass_files": [
+                "https://www.mediafire.com/file/ltpir6tsgrejiza/fix+kyzu+grounded2.zip/file"
+            ]
         }
     ]
 }
