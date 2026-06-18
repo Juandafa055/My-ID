@@ -11315,6 +11315,15 @@
                 "https://kyzu-proxy.ucupbaba1906.workers.dev/secure_download?appid=457140&auth_code=RYUUMANIFEST72oz"
             ],
             "bypass_files": []
+        },
+        {
+            "name": "Destiny 2",
+            "steamAppId": 1085660,
+            "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1085660/header.jpg",
+            "inject_files": [
+                "https://kyzu-proxy.ucupbaba1906.workers.dev/secure_download?appid=1085660&auth_code=RYUUMANIFEST72oz"
+            ],
+            "bypass_files": []
         }
     ]
 }
