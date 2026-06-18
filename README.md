@@ -11704,6 +11704,15 @@
                 "https://kyzu-proxy.ucupbaba1906.workers.dev/secure_download?appid=233450&auth_code=RYUUMANIFEST72oz"
             ],
             "bypass_files": []
+        },
+        {
+            "name": "Kenshi",
+            "steamAppId": 233860,
+            "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/233860/header.jpg",
+            "inject_files": [
+                "https://kyzu-proxy.ucupbaba1906.workers.dev/secure_download?appid=233860&auth_code=RYUUMANIFEST72oz"
+            ],
+            "bypass_files": []
         }
     ]
 }
