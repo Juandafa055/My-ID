@@ -11875,6 +11875,15 @@
                 "https://kyzu-proxy.ucupbaba1906.workers.dev/secure_download?appid=1937500&auth_code=RYUUMANIFEST72oz"
             ],
             "bypass_files": []
+        },
+        {
+            "name": "Spyro™ Reignited Trilogy",
+            "steamAppId": 99658,
+            "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/99658/header.jpg",
+            "inject_files": [
+                "https://huggingface.co/datasets/Strixgame/RedDead2/resolve/main/996580.zip?download=true"
+            ],
+            "bypass_files": []
         }
     ]
 }
