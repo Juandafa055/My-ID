@@ -11749,6 +11749,15 @@
                 "https://kyzu-proxy.ucupbaba1906.workers.dev/secure_download?appid=1216320&auth_code=RYUUMANIFEST72oz"
             ],
             "bypass_files": []
+        },
+        {
+            "name": "[Chilla's Art] Missing Children",
+            "steamAppId": 1306620,
+            "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1306620/header.jpg",
+            "inject_files": [
+                "https://kyzu-proxy.ucupbaba1906.workers.dev/secure_download?appid=1306620&auth_code=RYUUMANIFEST72oz"
+            ],
+            "bypass_files": []
         }
     ]
 }
