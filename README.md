@@ -11324,6 +11324,15 @@
                 "https://kyzu-proxy.ucupbaba1906.workers.dev/secure_download?appid=1085660&auth_code=RYUUMANIFEST72oz"
             ],
             "bypass_files": []
+        },
+        {
+            "name": "Eldest Souls",
+            "steamAppId": 1108590,
+            "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1108590/header.jpg",
+            "inject_files": [
+                "https://kyzu-proxy.ucupbaba1906.workers.dev/secure_download?appid=1108590&auth_code=RYUUMANIFEST72oz"
+            ],
+            "bypass_files": []
         }
     ]
 }
