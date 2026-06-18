@@ -11821,6 +11821,15 @@
                 "https://kyzu-proxy.ucupbaba1906.workers.dev/secure_download?appid=3180070&auth_code=RYUUMANIFEST72oz"
             ],
             "bypass_files": []
+        },
+        {
+            "name": "Hollow Knight",
+            "steamAppId": 367520,
+            "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/367520/header.jpg",
+            "inject_files": [
+                "https://kyzu-proxy.ucupbaba1906.workers.dev/secure_download?appid=367520&auth_code=RYUUMANIFEST72oz"
+            ],
+            "bypass_files": []
         }
     ]
 }
