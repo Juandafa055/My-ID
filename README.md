@@ -11587,6 +11587,15 @@
                 "https://kyzu-proxy.ucupbaba1906.workers.dev/secure_download?appid=983870&auth_code=RYUUMANIFEST72oz"
             ],
             "bypass_files": []
+        },
+        {
+            "name": "Garry's Mod",
+            "steamAppId": 4000,
+            "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4000/header.jpg",
+            "inject_files": [
+                "https://kyzu-proxy.ucupbaba1906.workers.dev/secure_download?appid=4000&auth_code=RYUUMANIFEST72oz"
+            ],
+            "bypass_files": []
         }
     ]
 }
