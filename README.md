@@ -11623,6 +11623,15 @@
                 "https://kyzu-proxy.ucupbaba1906.workers.dev/secure_download?appid=613830&auth_code=RYUUMANIFEST72oz"
             ],
             "bypass_files": []
+        },
+        {
+            "name": "DREDGE",
+            "steamAppId": 1562430,
+            "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1562430/header.jpg",
+            "inject_files": [
+                "https://kyzu-proxy.ucupbaba1906.workers.dev/secure_download?appid=1562430&auth_code=RYUUMANIFEST72oz"
+            ],
+            "bypass_files": []
         }
     ]
 }
