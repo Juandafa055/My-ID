@@ -11063,6 +11063,15 @@
             "bypass_files": [
                 "https://huggingface.co/datasets/dikiajak/fix/resolve/main/CoreKeeper_Fix_Repair_Steam_Generic%20(1).zip?download=true"
             ]
+        },
+        {
+            "name": "MILF Conditioning",
+            "steamAppId": 1924680,
+            "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1924680/header.jpg",
+            "inject_files": [
+                "https://kyzu-proxy.ucupbaba1906.workers.dev/secure_download?appid=1924680&auth_code=RYUUMANIFEST72oz"
+            ],
+            "bypass_files": []
         }
     ]
 }
