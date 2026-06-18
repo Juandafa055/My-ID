@@ -11407,6 +11407,15 @@
                 "https://kyzu-proxy.ucupbaba1906.workers.dev/secure_download?appid=379720&auth_code=RYUUMANIFEST72oz"
             ],
             "bypass_files": []
+        },
+        {
+            "name": "Kingdom Two Crowns",
+            "steamAppId": 701160,
+            "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/701160/header.jpg",
+            "inject_files": [
+                "https://kyzu-proxy.ucupbaba1906.workers.dev/secure_download?appid=701160&auth_code=RYUUMANIFEST72oz"
+            ],
+            "bypass_files": []
         }
     ]
 }
