@@ -11677,6 +11677,15 @@
                 "https://kyzu-proxy.ucupbaba1906.workers.dev/secure_download?appid=2366980&auth_code=RYUUMANIFEST72oz"
             ],
             "bypass_files": []
+        },
+        {
+            "name": "Shattered Minds",
+            "steamAppId": 2713690,
+            "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2713690/header.jpg",
+            "inject_files": [
+                "https://kyzu-proxy.ucupbaba1906.workers.dev/secure_download?appid=2713690&auth_code=RYUUMANIFEST72oz"
+            ],
+            "bypass_files": []
         }
     ]
 }
