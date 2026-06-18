@@ -11144,6 +11144,15 @@
                 "https://drive.google.com/file/d/1BXzQu1KW-zYMCUxM02J1vXZw4SrwL0aP/view?usp=drivesdk"
             ],
             "bypass_files": []
+        },
+        {
+            "name": "Yu-Gi-Oh! EARLY DAYS COLLECTION",
+            "steamAppId": 3013550,
+            "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3013550/header.jpg",
+            "inject_files": [
+                "https://kyzu-proxy.ucupbaba1906.workers.dev/secure_download?appid=3013550&auth_code=RYUUMANIFEST72oz"
+            ],
+            "bypass_files": []
         }
     ]
 }
