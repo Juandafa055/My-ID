@@ -4207,7 +4207,9 @@
             "inject_files": [
                 "https://huggingface.co/datasets/Strixgame/RedDead2/resolve/main/4704690.zip?download=true"
             ],
-            "bypass_files": []
+            "bypass_files": [
+                "https://huggingface.co/datasets/Strixgame/RedDead2/resolve/main/MecchaChameleon_Fix_Repair_Steam_Generic.zip?download=true"
+            ]
         },
         {
             "name": "Bits & Bops",
