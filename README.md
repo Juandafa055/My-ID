@@ -3582,7 +3582,9 @@
             "inject_files": [
                 "https://drive.google.com/file/d/11z9BhEs_ZGA6JyJSsjjYBS3qEFkfP6Y9/view?usp=sharing"
             ],
-            "bypass_files": []
+            "bypass_files": [
+                "https://huggingface.co/datasets/Strixgame/RedDead2/resolve/main/thesims4.zip?download=true"
+            ]
         },
         {
             "name": "[Chilla's Art] The Convenience Store",
