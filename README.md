@@ -11931,6 +11931,15 @@
                 "https://huggingface.co/datasets/Strixgame/RedDead2/resolve/main/3354200.zip?download=true"
             ],
             "bypass_files": []
+        },
+        {
+            "name": "Rune Factory 5",
+            "steamAppId": 1702330,
+            "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1702330/header.jpg",
+            "inject_files": [
+                "https://huggingface.co/datasets/Strixgame/RedDead2/resolve/main/1702330.zip?download=true"
+            ],
+            "bypass_files": []
         }
     ]
 }
