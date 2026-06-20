@@ -2733,7 +2733,7 @@
             "steamAppId": 252490,
             "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/252490/header.jpg",
             "inject_files": [
-                "https://kyzu-proxy.ucupbaba1906.workers.dev/secure_download?appid=252490&auth_code=RYUUMANIFEST72oz"
+                "https://huggingface.co/datasets/Strixgame/RedDead2/resolve/main/252490.zip?download=true"
             ],
             "bypass_files": []
         },
