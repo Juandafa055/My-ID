@@ -11976,6 +11976,15 @@
                 "https://kyzu-proxy.ucupbaba1906.workers.dev/secure_download?appid=1622910&auth_code=RYUUMANIFEST72oz"
             ],
             "bypass_files": []
+        },
+        {
+            "name": "SOMA",
+            "steamAppId": 282140,
+            "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/282140/header.jpg",
+            "inject_files": [
+                "https://huggingface.co/datasets/Strixgame/RedDead2/resolve/main/282140.zip?download=true"
+            ],
+            "bypass_files": []
         }
     ]
 }
