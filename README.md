@@ -11922,6 +11922,15 @@
                 "https://huggingface.co/datasets/Strixgame/RedDead2/resolve/main/1147560.zip?download=true"
             ],
             "bypass_files": []
+        },
+        {
+            "name": "Bakso Simulator 2",
+            "steamAppId": 3354200,
+            "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3354200/header.jpg",
+            "inject_files": [
+                "https://huggingface.co/datasets/Strixgame/RedDead2/resolve/main/3354200.zip?download=true"
+            ],
+            "bypass_files": []
         }
     ]
 }
