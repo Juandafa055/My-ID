@@ -11958,6 +11958,15 @@
                 "https://kyzu-proxy.ucupbaba1906.workers.dev/secure_download?appid=1455840&auth_code=RYUUMANIFEST72oz"
             ],
             "bypass_files": []
+        },
+        {
+            "name": "Dead Space™ 2",
+            "steamAppId": 47780,
+            "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/47780/header.jpg",
+            "inject_files": [
+                "https://huggingface.co/datasets/Strixgame/RedDead2/resolve/main/47780.zip?download=true"
+            ],
+            "bypass_files": []
         }
     ]
 }
