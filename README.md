@@ -2325,9 +2325,9 @@
         {
             "name": "Police Simulator: Patrol Officers",
             "steamAppId": 997010,
-            "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/997010/header.jpg",
+            "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/997010/91aefad15cb27e4c8f03e519a5b3d3a9daa4d31d/header.jpg?t=1780324259",
             "inject_files": [
-                "https://kyzu-proxy.ucupbaba1906.workers.dev/secure_download?appid=997010&auth_code=RYUUMANIFEST72oz"
+                "https://huggingface.co/datasets/Strixgame/RedDead2/resolve/main/997010.zip?download=true"
             ],
             "bypass_files": []
         },
