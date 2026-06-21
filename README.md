@@ -1070,9 +1070,9 @@
         {
             "name": "Sleeping Dogs: Definitive Edition",
             "steamAppId": 307690,
-            "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/307690/header.jpg",
+            "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/307690/header.jpg?t=1766070052",
             "inject_files": [
-                "https://kyzu-proxy.ucupbaba1906.workers.dev/secure_download?appid=307690&auth_code=RYUUMANIFEST72oz"
+                "https://huggingface.co/datasets/Strixgame/RedDead2/resolve/main/307690.zip?download=true"
             ],
             "bypass_files": []
         },
