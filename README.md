@@ -6259,9 +6259,9 @@
         {
             "name": "Starsand Island",
             "steamAppId": 2966320,
-            "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2966320/header.jpg",
+            "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2966320/a95ff86575587868480e1e6d955192401356b7a4/header.jpg?t=1777294060",
             "inject_files": [
-                "https://drive.google.com/file/d/17g7NA92RZiBZ_v4UfZCBMU0IsQl7fVUk/view?usp=drivesdk"
+                "https://huggingface.co/datasets/Strixgame/RedDead2/resolve/main/2966320.zip?download=true"
             ],
             "bypass_files": []
         },
