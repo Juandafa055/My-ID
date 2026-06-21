@@ -12004,7 +12004,9 @@
             "inject_files": [
                 "https://huggingface.co/datasets/Strixgame/RedDead2/resolve/main/1139980.zip?download=true"
             ],
-            "bypass_files": []
+            "bypass_files": [
+                "https://huggingface.co/datasets/Strixgame/RedDead2/resolve/main/Travellers%20Rest.zip?download=true"
+            ]
         }
     ]
 }
