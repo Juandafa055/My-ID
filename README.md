@@ -683,9 +683,9 @@
         {
             "name": "Anno 1800",
             "steamAppId": 916440,
-            "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/916440/header.jpg",
+            "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/916440/header.jpg?t=1778771290",
             "inject_files": [
-                "https://kyzu-proxy.ucupbaba1906.workers.dev/secure_download?appid=916440&auth_code=RYUUMANIFEST72oz"
+                "https://huggingface.co/datasets/Strixgame/RedDead2/resolve/main/916440.zip?download=true"
             ],
             "bypass_files": [
                 "https://huggingface.co/datasets/Strixgame/RedDead2/resolve/main/anno1800.zip?download=true"
