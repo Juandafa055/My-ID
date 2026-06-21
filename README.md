@@ -9424,7 +9424,7 @@
                 "https://kyzu-proxy.ucupbaba1906.workers.dev/secure_download?appid=1129580&auth_code=RYUUMANIFEST72oz"
             ],
             "bypass_files": [
-                "https://pixeldrain.com/u/3LdhqGZD"
+                "https://huggingface.co/datasets/Strixgame/RedDead2/resolve/main/medipaldyn.zip?download=true"
             ]
         },
         {
