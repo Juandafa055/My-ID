@@ -9419,9 +9419,9 @@
         {
             "name": "Medieval Dynasty",
             "steamAppId": 1129580,
-            "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1129580/header.jpg",
+            "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1129580/6a3e938027937e0056e9253895873cb608a6bd94/header_alt_assets_37.jpg?t=1781251858",
             "inject_files": [
-                "https://kyzu-proxy.ucupbaba1906.workers.dev/secure_download?appid=1129580&auth_code=RYUUMANIFEST72oz"
+                "https://huggingface.co/datasets/Strixgame/RedDead2/resolve/main/1129580.zip?download=true"
             ],
             "bypass_files": [
                 "https://huggingface.co/datasets/Strixgame/RedDead2/resolve/main/medipaldyn.zip?download=true"
