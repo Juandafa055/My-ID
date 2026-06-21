@@ -1090,9 +1090,9 @@
         {
             "name": "The Last of Us™ Part II Remastered",
             "steamAppId": 2531310,
-            "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2531310/header.jpg",
+            "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2531310/header.jpg?t=1750959180",
             "inject_files": [
-                "https://huggingface.co/datasets/Strixgame/RedDead2/resolve/main/thelastofuspart.zip?download=true"
+                "https://huggingface.co/datasets/Strixgame/RedDead2/resolve/main/2531310.zip?download=true"
             ],
             "bypass_files": []
         },
