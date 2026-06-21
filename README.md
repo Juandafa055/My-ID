@@ -2078,9 +2078,9 @@
         {
             "name": "NARUTO SHIPPUDEN: Ultimate Ninja STORM 4",
             "steamAppId": 349040,
-            "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/349040/header.jpg",
+            "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/349040/header.jpg?t=1703080866",
             "inject_files": [
-                "https://kyzu-proxy.ucupbaba1906.workers.dev/secure_download?appid=349040&auth_code=RYUUMANIFEST72oz"
+                "https://huggingface.co/datasets/Strixgame/RedDead2/resolve/main/349040.zip?download=true"
             ],
             "bypass_files": []
         },
