@@ -4612,9 +4612,9 @@
         {
             "name": "Thief Simulator",
             "steamAppId": 704850,
-            "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/704850/header.jpg",
+            "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/704850/header.jpg?t=1781249517",
             "inject_files": [
-                "https://kyzu-proxy.ucupbaba1906.workers.dev/secure_download?appid=704850&auth_code=RYUUMANIFEST72oz"
+                "https://huggingface.co/datasets/Strixgame/RedDead2/resolve/main/704850.zip?download=true"
             ],
             "bypass_files": []
         },
