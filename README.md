@@ -11996,15 +11996,6 @@
                 "https://huggingface.co/datasets/Strixgame/RedDead2/resolve/main/1335830.zip?download=true"
             ],
             "bypass_files": []
-        },
-        {
-            "name": "ARC Raiders",
-            "steamAppId": 1808500,
-            "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1808500/header.jpg",
-            "inject_files": [
-                "https://huggingface.co/datasets/Strixgame/RedDead2/resolve/main/1808500.zip?download=true"
-            ],
-            "bypass_files": []
         }
     ]
 }
