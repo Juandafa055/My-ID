@@ -390,9 +390,9 @@
         {
             "name": "Marvel’s Spider-Man Remastered",
             "steamAppId": 1817070,
-            "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1817070/header.jpg",
+            "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1817070/header.jpg?t=1763569047",
             "inject_files": [
-                "https://drive.google.com/file/d/15U-dZsmsY3JrgNvOFiw3IVgY1qQK4HH2/view?usp=sharing"
+                "https://huggingface.co/datasets/Strixgame/RedDead2/resolve/main/1817070.zip?download=true"
             ],
             "bypass_files": []
         },
