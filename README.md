@@ -3252,7 +3252,7 @@
             "steamAppId": 3949040,
             "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3949040/header.jpg",
             "inject_files": [
-                "https://kyzu-proxy.ucupbaba1906.workers.dev/secure_download?appid=3949040&auth_code=RYUUMANIFEST72oz"
+                "https://cdn.discordapp.com/ephemeral-attachments/1366804211270156298/1518226493052944517/3949040.zip?ex=6a39261b&is=6a37d49b&hm=75721f2b319821669d66c90c0dc29482a6d2e4146bee2f2285c1b4a4660d7709&"
             ],
             "bypass_files": [
                 "https://huggingface.co/datasets/Strixgame/RedDead2/resolve/main/RvThereYet.zip?download=true"
