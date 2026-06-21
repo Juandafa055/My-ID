@@ -1368,9 +1368,9 @@
         {
             "name": "BeamNG.drive",
             "steamAppId": 284160,
-            "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/284160/header.jpg",
+            "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/284160/17f8af1312bc48e6cd90e5fb639d4981682af260/header.jpg?t=1772048121",
             "inject_files": [
-                "https://kyzu-proxy.ucupbaba1906.workers.dev/secure_download?appid=284160&auth_code=RYUUMANIFEST72oz"
+                "https://huggingface.co/datasets/Strixgame/RedDead2/resolve/main/284160.zip?download=true"
             ],
             "bypass_files": []
         },
