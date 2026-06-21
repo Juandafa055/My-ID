@@ -2516,9 +2516,9 @@
         {
             "name": "Planet of Lana",
             "steamAppId": 1608230,
-            "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1608230/header.jpg",
+            "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1608230/afc987687f2f80c5c4a93293f2f0f53a62032212/header.jpg?t=1772728759",
             "inject_files": [
-                "https://kyzu-proxy.ucupbaba1906.workers.dev/secure_download?appid=1608230&auth_code=RYUUMANIFEST72oz"
+                "https://huggingface.co/datasets/Strixgame/RedDead2/resolve/main/1608230.zip?download=true"
             ],
             "bypass_files": []
         },
