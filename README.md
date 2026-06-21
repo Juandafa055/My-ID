@@ -484,9 +484,9 @@
         {
             "name": "Cities: Skylines",
             "steamAppId": 255710,
-            "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/255710/header.jpg",
+            "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/255710/header.jpg?t=1777568415",
             "inject_files": [
-                "https://drive.google.com/file/d/1DODxnjlUNoxRJIfdy8zF2cWQ2ufz-dxk/view?usp=sharing"
+                "https://huggingface.co/datasets/Strixgame/RedDead2/resolve/main/255710.zip?download=true"
             ],
             "bypass_files": []
         },
