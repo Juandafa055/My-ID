@@ -1330,9 +1330,9 @@
         {
             "name": "Le Mans Ultimate",
             "steamAppId": 2399420,
-            "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2399420/header.jpg",
+            "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2399420/f510badbf573eecdf529ae735a49331f4b9919be/header.jpg?t=1780055402",
             "inject_files": [
-                "https://kyzu-proxy.ucupbaba1906.workers.dev/secure_download?appid=2399420&auth_code=RYUUMANIFEST72oz"
+                "https://huggingface.co/datasets/Strixgame/RedDead2/resolve/main/2399420.zip?download=true"
             ],
             "bypass_files": []
         },
