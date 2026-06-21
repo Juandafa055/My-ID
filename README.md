@@ -11987,6 +11987,15 @@
                 "https://huggingface.co/datasets/Strixgame/RedDead2/resolve/main/282140.zip?download=true"
             ],
             "bypass_files": []
+        },
+        {
+            "name": "Len's Island",
+            "steamAppId": 1335830,
+            "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1335830/header.jpg",
+            "inject_files": [
+                "https://huggingface.co/datasets/Strixgame/RedDead2/resolve/main/1335830.zip?download=true"
+            ],
+            "bypass_files": []
         }
     ]
 }
