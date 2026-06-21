@@ -1480,9 +1480,9 @@
         {
             "name": "God of War",
             "steamAppId": 1593500,
-            "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1593500/header.jpg",
+            "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1593500/header.jpg?t=1763059412",
             "inject_files": [
-                "https://kyzu-proxy.ucupbaba1906.workers.dev/secure_download?appid=1593500&auth_code=RYUUMANIFEST72oz"
+                "https://huggingface.co/datasets/Strixgame/RedDead2/resolve/main/1593500.zip?download=true"
             ],
             "bypass_files": []
         },
