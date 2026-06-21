@@ -11996,6 +11996,15 @@
                 "https://huggingface.co/datasets/Strixgame/RedDead2/resolve/main/1335830.zip?download=true"
             ],
             "bypass_files": []
+        },
+        {
+            "name": "Travellers Rest",
+            "steamAppId": 1139980,
+            "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1139980/4f7daf4884589291ef49f35248d41f76e9b4d967/header.jpg?t=1781254553",
+            "inject_files": [
+                "https://huggingface.co/datasets/Strixgame/RedDead2/resolve/main/1139980.zip?download=true"
+            ],
+            "bypass_files": []
         }
     ]
 }
