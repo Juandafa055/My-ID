@@ -1516,9 +1516,9 @@
         {
             "name": "SILENT HILL 2",
             "steamAppId": 2124490,
-            "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2124490/header.jpg",
+            "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2124490/header.jpg?t=1744248682",
             "inject_files": [
-                "https://kyzu-proxy.ucupbaba1906.workers.dev/secure_download?appid=2124490&auth_code=RYUUMANIFEST72oz"
+                "https://huggingface.co/datasets/Strixgame/RedDead2/resolve/main/2124490.zip?download=true"
             ],
             "bypass_files": []
         },
