@@ -6342,9 +6342,9 @@
         {
             "name": "Slay the Spire 2",
             "steamAppId": 2868840,
-            "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2868840/header.jpg",
+            "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2868840/b0958d387dc366211e0f353443710cfcf9fdb020/header.jpg?t=1776735385",
             "inject_files": [
-                "https://kyzu-proxy.ucupbaba1906.workers.dev/secure_download?appid=2868840&auth_code=RYUUMANIFEST72oz"
+                "https://huggingface.co/datasets/Strixgame/RedDead2/resolve/main/2868840.zip?download=true"
             ],
             "bypass_files": []
         },
