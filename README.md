@@ -7052,9 +7052,9 @@
         {
             "name": "MudRunner",
             "steamAppId": 675010,
-            "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/675010/header.jpg",
+            "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/675010/header.jpg?t=1729687266",
             "inject_files": [
-                "https://kyzu-proxy.ucupbaba1906.workers.dev/secure_download?appid=675010&auth_code=RYUUMANIFEST72oz"
+                "https://huggingface.co/datasets/Strixgame/RedDead2/resolve/main/675010.zip?download=true"
             ],
             "bypass_files": []
         },
