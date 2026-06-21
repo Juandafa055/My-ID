@@ -10327,9 +10327,9 @@
         {
             "name": "Sengoku Dynasty",
             "steamAppId": 1702010,
-            "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1702010/header.jpg",
+            "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1702010/16a107028f000149c4a391b2eb4db71bac77c9b5/header.jpg?t=1777883948",
             "inject_files": [
-                "https://kyzu-proxy.ucupbaba1906.workers.dev/secure_download?appid=1702010&auth_code=RYUUMANIFEST72oz"
+                "https://huggingface.co/datasets/Strixgame/RedDead2/resolve/main/1702010.zip?download=true"
             ],
             "bypass_files": []
         },
