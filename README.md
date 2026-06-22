@@ -5648,9 +5648,9 @@
         {
             "name": "Hogwarts Legacy",
             "steamAppId": 990080,
-            "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/990080/header.jpg",
+            "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/990080/a3cdc6f40d97df8ac993679c2dd1edeb5222421e/header.jpg?t=1778797474",
             "inject_files": [
-                "https://kyzu-proxy.ucupbaba1906.workers.dev/secure_download?appid=990080&auth_code=RYUUMANIFEST72oz"
+                "https://huggingface.co/datasets/Strixgame/RedDead2/resolve/main/990080.zip?download=true"
             ],
             "bypass_files": [
                 "https://huggingface.co/datasets/dikiajak/fix/resolve/main/Hogwarts.Legacy.Crackrar.zip?download=true"
