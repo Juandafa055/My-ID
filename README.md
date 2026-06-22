@@ -12027,6 +12027,15 @@
             "bypass_files": [
                 "https://huggingface.co/datasets/Strixgame/RedDead2/resolve/main/V%20Rising.zip?download=true"
             ]
+        },
+        {
+            "name": "Atelier Ryza: Ever Darkness & the Secret Hideout DX",
+            "steamAppId": 3365030,
+            "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3365030/c4c218966e29841ba6d54babac01503740e4b63c/header.jpg?t=1781064259",
+            "inject_files": [
+                "https://huggingface.co/datasets/Strixgame/RedDead2/resolve/main/3365030.zip?download=true"
+            ],
+            "bypass_files": []
         }
     ]
 }
