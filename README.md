@@ -32,9 +32,9 @@
         {
             "name": "Five Hearts Under One Roof season2",
             "steamAppId": 3731020,
-            "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3731020/header.jpg",
+            "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3731020/5ccf1a9cbd09cff29e03856469b346a74278f376/header.jpg?t=1778827226",
             "inject_files": [
-                "https://kyzu-proxy.ucupbaba1906.workers.dev/secure_download?appid=3731020&auth_code=RYUUMANIFEST72oz"
+                "https://huggingface.co/datasets/Strixgame/RedDead2/resolve/main/3731020.zip?download=true"
             ],
             "bypass_files": []
         },
