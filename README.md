@@ -4176,9 +4176,9 @@
         {
             "name": "Persona 5 Royal",
             "steamAppId": 1687950,
-            "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1687950/header.jpg",
+            "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1687950/header.jpg?t=1779145087",
             "inject_files": [
-                "https://kyzu-proxy.ucupbaba1906.workers.dev/secure_download?appid=1687950&auth_code=RYUUMANIFEST72oz"
+                "https://huggingface.co/datasets/Strixgame/RedDead2/resolve/main/1687950.zip?download=true"
             ],
             "bypass_files": [
                 "https://drive.usercontent.google.com/download?id=15ZdH9u3c6Xb5dcOtlivYWkX5sVvRHpjl&export=download&authuser=0&confirm=t&uuid=9be0ed6c-be7c-4269-a9ae-10c9405c382b&at=ALBwUgnlMud_UElAg0lAQkDgLuus%3A1777530778771"
