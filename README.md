@@ -5019,9 +5019,9 @@
         {
             "name": "Supermarket Simulator",
             "steamAppId": 2670630,
-            "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2670630/header.jpg",
+            "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2670630/267eef055b0e5d45cb1c874f816a31dded4bb88e/header.jpg?t=1778755926",
             "inject_files": [
-                "https://kyzu-proxy.ucupbaba1906.workers.dev/secure_download?appid=2670630&auth_code=RYUUMANIFEST72oz"
+                "https://huggingface.co/datasets/Strixgame/RedDead2/resolve/main/2670630.zip?download=true"
             ],
             "bypass_files": []
         },
