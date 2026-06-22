@@ -3760,9 +3760,9 @@
         {
             "name": "Pure Badminton",
             "steamAppId": 2591310,
-            "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2591310/header.jpg",
+            "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2591310/4e85d52fc3cb6acaac03c264c88f757fef01a226/header.jpg?t=1778241954",
             "inject_files": [
-                "https://kyzu-proxy.ucupbaba1906.workers.dev/secure_download?appid=2591310&auth_code=RYUUMANIFEST72oz"
+                "https://huggingface.co/datasets/Strixgame/RedDead2/resolve/main/2591310.zip?download=true"
             ],
             "bypass_files": []
         },
