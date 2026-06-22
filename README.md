@@ -12045,6 +12045,15 @@
                 "https://huggingface.co/datasets/Strixgame/RedDead2/resolve/main/1031120.zip?download=true"
             ],
             "bypass_files": []
+        },
+        {
+            "name": "Stray",
+            "steamAppId": 1332010,
+            "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1332010/71daca1910d664d31240b9623a495e0c0828807f/header.jpg?t=1779927784",
+            "inject_files": [
+                "https://huggingface.co/datasets/Strixgame/RedDead2/resolve/main/1332010.zip?download=true"
+            ],
+            "bypass_files": []
         }
     ]
 }
