@@ -12016,6 +12016,17 @@
                 "https://huggingface.co/datasets/Strixgame/RedDead2/resolve/main/2649080.zip?download=true"
             ],
             "bypass_files": []
+        },
+        {
+            "name": "V Rising",
+            "steamAppId": 1604030,
+            "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1604030/header.jpg",
+            "inject_files": [
+                "https://huggingface.co/datasets/Strixgame/RedDead2/resolve/main/1604030.zip?download=true"
+            ],
+            "bypass_files": [
+                "https://huggingface.co/datasets/Strixgame/RedDead2/resolve/main/V%20Rising.zip?download=true"
+            ]
         }
     ]
 }
