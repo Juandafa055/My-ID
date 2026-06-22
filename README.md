@@ -781,9 +781,9 @@
         {
             "name": "Cities: Skylines II",
             "steamAppId": 949230,
-            "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/949230/header.jpg",
+            "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/949230/header.jpg?t=1781017670",
             "inject_files": [
-                "https://kyzu-proxy.ucupbaba1906.workers.dev/secure_download?appid=949230&auth_code=RYUUMANIFEST72oz"
+                "https://huggingface.co/datasets/Strixgame/RedDead2/resolve/main/949230.zip?download=true"
             ],
             "bypass_files": []
         },
