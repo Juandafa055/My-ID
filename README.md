@@ -12054,6 +12054,15 @@
                 "https://huggingface.co/datasets/Strixgame/RedDead2/resolve/main/1332010.zip?download=true"
             ],
             "bypass_files": []
+        },
+        {
+            "name": "Total War: ATTILA",
+            "steamAppId": 325610,
+            "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/325610/header.jpg?t=1768911096",
+            "inject_files": [
+                "https://huggingface.co/datasets/Strixgame/RedDead2/resolve/main/325610.zip?download=true"
+            ],
+            "bypass_files": []
         }
     ]
 }
