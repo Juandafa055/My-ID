@@ -11460,9 +11460,9 @@
         {
             "name": "GUILTY GEAR -STRIVE-",
             "steamAppId": 1384160,
-            "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1384160/header.jpg",
+            "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1384160/23a7b8f8c96b47ab7ef5f22f33b572a63aaf9fab/header.jpg?t=1778742247",
             "inject_files": [
-                "https://kyzu-proxy.ucupbaba1906.workers.dev/secure_download?appid=1384160&auth_code=RYUUMANIFEST72oz"
+                "https://huggingface.co/datasets/Strixgame/RedDead2/resolve/main/1384160.zip?download=true"
             ],
             "bypass_files": []
         },
