@@ -11532,9 +11532,9 @@
         {
             "name": "Sifu",
             "steamAppId": 2138710,
-            "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2138710/header.jpg",
+            "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2138710/header.jpg?t=1754555101",
             "inject_files": [
-                "https://kyzu-proxy.ucupbaba1906.workers.dev/secure_download?appid=2138710&auth_code=RYUUMANIFEST72oz"
+                "https://huggingface.co/datasets/Strixgame/RedDead2/resolve/main/2138710.zip?download=true"
             ],
             "bypass_files": []
         },
