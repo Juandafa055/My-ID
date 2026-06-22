@@ -14,9 +14,9 @@
         {
             "name": "Five Hearts Under One Roof",
             "steamAppId": 3021100,
-            "header": "null",
+            "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3021100/header.jpg?t=1778486226",
             "inject_files": [
-                "https://drive.google.com/file/d/1wY-aBFvYXypsjx-E3Dh_Y_p5AsQDcGdm/view?usp=drivesdk"
+                "https://huggingface.co/datasets/Strixgame/RedDead2/resolve/main/3021100.zip?download=true"
             ],
             "bypass_files": []
         },
