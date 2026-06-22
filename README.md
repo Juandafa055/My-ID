@@ -1635,9 +1635,9 @@
         {
             "name": "Darkest Dungeon® II",
             "steamAppId": 1940340,
-            "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1940340/header.jpg",
+            "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1940340/header.jpg?t=1759351183",
             "inject_files": [
-                "https://kyzu-proxy.ucupbaba1906.workers.dev/secure_download?appid=1940340&auth_code=RYUUMANIFEST72oz"
+                "https://huggingface.co/datasets/Strixgame/RedDead2/resolve/main/1940340.zip?download=true"
             ],
             "bypass_files": []
         },
