@@ -864,9 +864,9 @@
         {
             "name": "DAVE THE DIVER",
             "steamAppId": 1868140,
-            "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1868140/header.jpg",
+            "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1868140/3f5b136a2a0284a02bdc03533a4041d358c4d7b2/header_alt_assets_2.jpg?t=1781777209",
             "inject_files": [
-                "https://kyzu-proxy.ucupbaba1906.workers.dev/secure_download?appid=1868140&auth_code=RYUUMANIFEST72oz"
+                "https://huggingface.co/datasets/Strixgame/RedDead2/resolve/main/1868140.zip?download=true"
             ],
             "bypass_files": []
         },
