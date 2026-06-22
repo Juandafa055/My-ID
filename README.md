@@ -11802,9 +11802,9 @@
         {
             "name": "SILENT HILL f",
             "steamAppId": 2947440,
-            "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2947440/header.jpg",
+            "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2947440/7e5d923ac622bd1775ebc9b5d4b5b0a24bf5ed40/header.jpg?t=1770169624",
             "inject_files": [
-                "https://kyzu-proxy.ucupbaba1906.workers.dev/secure_download?appid=2947440&auth_code=RYUUMANIFEST72oz"
+                "https://huggingface.co/datasets/Strixgame/RedDead2/resolve/main/2947440.zip?download=true"
             ],
             "bypass_files": []
         },
