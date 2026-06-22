@@ -12072,6 +12072,15 @@
                 "https://huggingface.co/datasets/Strixgame/RedDead2/resolve/main/1097840.zip?download=true"
             ],
             "bypass_files": []
+        },
+        {
+            "name": "Middle-earth™: Shadow of Mordor™",
+            "steamAppId": 241930,
+            "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/241930/header.jpg?t=1780594906",
+            "inject_files": [
+                "https://huggingface.co/datasets/Strixgame/RedDead2/resolve/main/241930.zip?download=true"
+            ],
+            "bypass_files": []
         }
     ]
 }
