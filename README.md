@@ -5713,9 +5713,9 @@
         {
             "name": "This War of Mine",
             "steamAppId": 282070,
-            "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/282070/header.jpg",
+            "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/282070/26fb8c9bb7b9e3a17469d8026ee3fa510ee7f8f5/header.jpg?t=1765218571",
             "inject_files": [
-                "https://kyzu-proxy.ucupbaba1906.workers.dev/secure_download?appid=282070&auth_code=RYUUMANIFEST72oz"
+                "https://huggingface.co/datasets/Strixgame/RedDead2/resolve/main/282070.zip?download=true"
             ],
             "bypass_files": []
         },
