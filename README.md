@@ -8151,9 +8151,9 @@
         {
             "name": "Kena: Bridge of Spirits",
             "steamAppId": 1954200,
-            "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1954200/header.jpg",
+            "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1954200/header.jpg?t=1772142684",
             "inject_files": [
-                "https://kyzu-proxy.ucupbaba1906.workers.dev/secure_download?appid=1954200&auth_code=RYUUMANIFEST72oz"
+                "https://huggingface.co/datasets/Strixgame/RedDead2/resolve/main/1954200.zip?download=true"
             ],
             "bypass_files": []
         },
