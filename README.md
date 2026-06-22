@@ -1545,9 +1545,9 @@
         {
             "name": "SnowRunner",
             "steamAppId": 1465360,
-            "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1465360/header.jpg",
+            "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1465360/header.jpg?t=1773915366",
             "inject_files": [
-                "https://kyzu-proxy.ucupbaba1906.workers.dev/secure_download?appid=1465360&auth_code=RYUUMANIFEST72oz"
+                "https://huggingface.co/datasets/Strixgame/RedDead2/resolve/main/1465360.zip?download=true"
             ],
             "bypass_files": []
         },
