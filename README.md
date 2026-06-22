@@ -7151,9 +7151,9 @@
         {
             "name": "NASCAR 25",
             "steamAppId": 3873970,
-            "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3873970/header.jpg",
+            "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3873970/5993fe7123701b2a7baa25b60d728dd7787de3bf/header.jpg?t=1766082114",
             "inject_files": [
-                "https://kyzu-proxy.ucupbaba1906.workers.dev/secure_download?appid=3873970&auth_code=RYUUMANIFEST72oz"
+                "https://huggingface.co/datasets/Strixgame/RedDead2/resolve/main/3873970.zip?download=true"
             ],
             "bypass_files": []
         },
