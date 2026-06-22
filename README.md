@@ -11829,9 +11829,9 @@
         {
             "name": "Hollow Knight",
             "steamAppId": 367520,
-            "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/367520/header.jpg",
+            "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/367520/3c3489495136b26b34f8a9543c7f5645b99d388c/header.jpg?t=1776125684",
             "inject_files": [
-                "https://kyzu-proxy.ucupbaba1906.workers.dev/secure_download?appid=367520&auth_code=RYUUMANIFEST72oz"
+                "https://huggingface.co/datasets/Strixgame/RedDead2/resolve/main/367520.zip?download=true"
             ],
             "bypass_files": []
         },
