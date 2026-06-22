@@ -5677,9 +5677,9 @@
         {
             "name": "DELTARUNE",
             "steamAppId": 1671210,
-            "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1671210/header.jpg",
+            "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1671210/7ccda5b1631d2e60cc756a3271e845dbb9168821/header.jpg?t=1749252480",
             "inject_files": [
-                "https://kyzu-proxy.ucupbaba1906.workers.dev/secure_download?appid=1671210&auth_code=RYUUMANIFEST72oz"
+                "https://huggingface.co/datasets/Strixgame/RedDead2/resolve/main/1671210.zip?download=true"
             ],
             "bypass_files": []
         },
