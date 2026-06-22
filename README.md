@@ -12036,6 +12036,15 @@
                 "https://huggingface.co/datasets/Strixgame/RedDead2/resolve/main/3365030.zip?download=true"
             ],
             "bypass_files": []
+        },
+        {
+            "name": "Bakery Simulator",
+            "steamAppId": 1031120,
+            "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1031120/header.jpg?t=1781784054",
+            "inject_files": [
+                "https://huggingface.co/datasets/Strixgame/RedDead2/resolve/main/1031120.zip?download=true"
+            ],
+            "bypass_files": []
         }
     ]
 }
