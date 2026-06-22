@@ -1770,9 +1770,9 @@
         {
             "name": "Foundation",
             "steamAppId": 690830,
-            "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/690830/header.jpg",
+            "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/690830/a4dcfb5b8a252b9763dd2e5d06dd0e59e0a995c6/header.jpg?t=1765384527",
             "inject_files": [
-                "https://kyzu-proxy.ucupbaba1906.workers.dev/secure_download?appid=690830&auth_code=RYUUMANIFEST72oz"
+                "https://huggingface.co/datasets/Strixgame/RedDead2/resolve/main/690830.zip?download=true"
             ],
             "bypass_files": []
         },
