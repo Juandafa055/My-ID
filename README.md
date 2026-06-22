@@ -10244,9 +10244,9 @@
         {
             "name": "Phasmophobia",
             "steamAppId": 739630,
-            "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/739630/header.jpg",
+            "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/739630/c227a2855aba60f3657bc0c3a46515b8c41fb2b6/header.jpg?t=1780397989",
             "inject_files": [
-                "https://kyzu-proxy.ucupbaba1906.workers.dev/secure_download?appid=739630&auth_code=RYUUMANIFEST72oz"
+                "https://huggingface.co/datasets/Strixgame/RedDead2/resolve/main/739630.zip?download=true"
             ],
             "bypass_files": [
                 "https://pixeldrain.com/u/htL756VR"
