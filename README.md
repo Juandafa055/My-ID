@@ -2426,9 +2426,9 @@
         {
             "name": "Resident Evil 3",
             "steamAppId": 952060,
-            "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/952060/header.jpg",
+            "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/952060/header.jpg?t=1780362329",
             "inject_files": [
-                "https://kyzu-proxy.ucupbaba1906.workers.dev/secure_download?appid=952060&auth_code=RYUUMANIFEST72oz"
+                "https://huggingface.co/datasets/Strixgame/RedDead2/resolve/main/952060.zip?download=true"
             ],
             "bypass_files": []
         },
