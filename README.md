@@ -909,9 +909,9 @@
         {
             "name": "DRAGON BALL: Sparking! ZERO",
             "steamAppId": 1790600,
-            "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1790600/header.jpg",
+            "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1790600/header.jpg?t=1758754863",
             "inject_files": [
-                "https://kyzu-proxy.ucupbaba1906.workers.dev/secure_download?appid=1790600&auth_code=RYUUMANIFEST72oz"
+                "https://huggingface.co/datasets/Strixgame/RedDead2/resolve/main/1790600.zip?download=true"
             ],
             "bypass_files": []
         },
