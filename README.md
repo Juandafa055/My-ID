@@ -6423,9 +6423,9 @@
         {
             "name": "Little Misfortune",
             "steamAppId": 714120,
-            "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/714120/header.jpg",
+            "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/714120/header.jpg?t=1667210698",
             "inject_files": [
-                "https://kyzu-proxy.ucupbaba1906.workers.dev/secure_download?appid=714120&auth_code=RYUUMANIFEST72oz"
+                "https://huggingface.co/datasets/Strixgame/RedDead2/resolve/main/714120.zip?download=true"
             ],
             "bypass_files": []
         },
