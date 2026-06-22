@@ -2105,9 +2105,9 @@
         {
             "name": "Resident Evil Village",
             "steamAppId": 1196590,
-            "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1196590/header.jpg",
+            "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1196590/header.jpg?t=1776927117",
             "inject_files": [
-                "https://kyzu-proxy.ucupbaba1906.workers.dev/secure_download?appid=1196590&auth_code=RYUUMANIFEST72oz"
+                "https://huggingface.co/datasets/Strixgame/RedDead2/resolve/main/1196590.zip?download=true"
             ],
             "bypass_files": []
         },
