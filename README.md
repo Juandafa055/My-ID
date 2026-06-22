@@ -2015,9 +2015,9 @@
         {
             "name": "Balatro",
             "steamAppId": 2379780,
-            "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2379780/header.jpg",
+            "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2379780/7a85430784e4d613cdb0547414d8cf16ffa45747/header.jpg?t=1781540048",
             "inject_files": [
-                "https://kyzu-proxy.ucupbaba1906.workers.dev/secure_download?appid=2379780&auth_code=RYUUMANIFEST72oz"
+                "https://huggingface.co/datasets/Strixgame/RedDead2/resolve/main/2379780.zip?download=true"
             ],
             "bypass_files": []
         },
