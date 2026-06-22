@@ -6464,7 +6464,7 @@
                 "https://huggingface.co/datasets/Strixgame/RedDead2/resolve/main/1222680.zip?download=true"
             ],
             "bypass_files": [
-                "https://huggingface.co/datasets/dikiajak/fix/resolve/main/Need%20for%20Speed%E2%84%A2%20Heat(FIX)kyzugamess.zip?download=true"
+                "https://huggingface.co/datasets/Strixgame/RedDead2/resolve/main/NFSHEAT.zip?download=true"
             ]
         },
         {
