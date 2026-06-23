@@ -12130,6 +12130,15 @@
                 "https://huggingface.co/datasets/Strixgame/RedDead2/resolve/main/281990.zip?download=true"
             ],
             "bypass_files": []
+        },
+        {
+            "name": "FPV Kamikaze Drone",
+            "steamAppId": 2707940,
+            "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2707940/header.jpg?t=1768570690",
+            "inject_files": [
+                "https://huggingface.co/datasets/Strixgame/RedDead2/resolve/main/2707940.zip?download=true"
+            ],
+            "bypass_files": []
         }
     ]
 }
