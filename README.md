@@ -12180,7 +12180,9 @@
             "inject_files": [
                 "https://huggingface.co/datasets/Strixgame/RedDead2/resolve/main/460930.zip?download=true"
             ],
-            "bypass_files": []
+            "bypass_files": [
+                "https://huggingface.co/datasets/Strixgame/RedDead2/resolve/main/Tom%20Clancy%27s%20Ghost%20Recon%20Wildlands.zip?download=true"
+            ]
         }
     ]
 }
