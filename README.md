@@ -4549,9 +4549,9 @@
         {
             "name": "American Truck Simulator",
             "steamAppId": 270880,
-            "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/270880/header.jpg",
+            "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/270880/a80e5a18363259677ca96c2a39503ea595d2a45f/header.jpg?t=1781788415",
             "inject_files": [
-                "https://kyzu-proxy.ucupbaba1906.workers.dev/secure_download?appid=270880&auth_code=RYUUMANIFEST72oz"
+                "https://huggingface.co/datasets/Strixgame/RedDead2/resolve/main/270880.zip?download=true"
             ],
             "bypass_files": []
         },
