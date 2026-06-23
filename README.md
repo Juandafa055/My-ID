@@ -5057,9 +5057,9 @@
         {
             "name": "Exotica 2: Pet Shop Simulator",
             "steamAppId": 2824380,
-            "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2824380/header.jpg",
+            "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2824380/dc498efbdf8855bde7519bb290da478d7a0995a4/header.jpg?t=1779265398",
             "inject_files": [
-                "https://kyzu-proxy.ucupbaba1906.workers.dev/secure_download?appid=2824380&auth_code=RYUUMANIFEST72oz"
+                "https://huggingface.co/datasets/Strixgame/RedDead2/resolve/main/2824380.zip?download=true"
             ],
             "bypass_files": []
         },
