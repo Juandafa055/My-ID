@@ -12089,7 +12089,9 @@
             "inject_files": [
                 "https://huggingface.co/datasets/Strixgame/RedDead2/resolve/main/2625420.zip?download=true"
             ],
-            "bypass_files": []
+            "bypass_files": [
+                "https://huggingface.co/datasets/Strixgame/RedDead2/resolve/main/DriveBeyon.zip?download=true"
+            ]
         }
     ]
 }
