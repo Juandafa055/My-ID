@@ -5695,9 +5695,9 @@
         {
             "name": "Call of Duty®: Modern Warfare® 2 (2009)",
             "steamAppId": 10180,
-            "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/10180/header.jpg",
+            "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/10180/header.jpg?t=1780962606",
             "inject_files": [
-                "https://kyzu-proxy.ucupbaba1906.workers.dev/secure_download?appid=10180&auth_code=RYUUMANIFEST72oz"
+                "https://huggingface.co/datasets/Strixgame/RedDead2/resolve/main/10180.zip?download=true"
             ],
             "bypass_files": []
         },
