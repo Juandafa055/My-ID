@@ -9504,9 +9504,9 @@
         {
             "name": "WRC 10 FIA World Rally Championship",
             "steamAppId": 1462810,
-            "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1462810/header.jpg",
+            "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1462810/header.jpg?t=1725353913",
             "inject_files": [
-                "https://kyzu-proxy.ucupbaba1906.workers.dev/secure_download?appid=1462810&auth_code=RYUUMANIFEST72oz"
+                "https://huggingface.co/datasets/Strixgame/RedDead2/resolve/main/1462810.zip?download=true"
             ],
             "bypass_files": []
         },
