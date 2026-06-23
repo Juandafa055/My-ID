@@ -2316,7 +2316,7 @@
             "steamAppId": 1113000,
             "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1113000/header.jpg",
             "inject_files": [
-                "https://drive.google.com/file/d/1ZWzTuF-qTH-a_12z6Z5Tt807rcik3iuz/view?usp=drivesdk"
+                "https://cdn.discordapp.com/ephemeral-attachments/1366804211270156298/1518898305273167892/1113000.zip?ex=6a3b97c7&is=6a3a4647&hm=5468f4f0b2c937192f7d585162aeb422d16ec920519a5d4d132cff33c44e8f3d&"
             ],
             "bypass_files": [
                 "https://huggingface.co/datasets/Strixgame/RedDead2/resolve/main/Persona%204%20Golden%20-%20Goldberg.zip?download=true"
