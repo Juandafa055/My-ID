@@ -12092,6 +12092,15 @@
             "bypass_files": [
                 "https://huggingface.co/datasets/Strixgame/RedDead2/resolve/main/DriveBeyon.zip?download=true"
             ]
+        },
+        {
+            "name": "Wreckfest",
+            "steamAppId": 228380,
+            "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/228380/header.jpg?t=1742490584",
+            "inject_files": [
+                "https://huggingface.co/datasets/Strixgame/RedDead2/resolve/main/228380.zip?download=true"
+            ],
+            "bypass_files": []
         }
     ]
 }
