@@ -12110,6 +12110,15 @@
                 "https://huggingface.co/datasets/Strixgame/RedDead2/resolve/main/1910090.zip?download=true"
             ],
             "bypass_files": []
+        },
+        {
+            "name": "Pharaoh™: A New Era",
+            "steamAppId": 1351080,
+            "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1351080/header.jpg?t=1771257919",
+            "inject_files": [
+                "https://huggingface.co/datasets/Strixgame/RedDead2/resolve/main/1351080.zip?download=true"
+            ],
+            "bypass_files": []
         }
     ]
 }
