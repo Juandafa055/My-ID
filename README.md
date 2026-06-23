@@ -2051,9 +2051,9 @@
         {
             "name": "Sekiro™: Shadows Die Twice - GOTY Edition",
             "steamAppId": 814380,
-            "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/814380/header.jpg",
+            "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/814380/header.jpg?t=1762888662",
             "inject_files": [
-                "https://kyzu-proxy.ucupbaba1906.workers.dev/secure_download?appid=814380&auth_code=RYUUMANIFEST72oz"
+                "https://huggingface.co/datasets/Strixgame/RedDead2/resolve/main/814380.zip?download=true"
             ],
             "bypass_files": []
         },
