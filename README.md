@@ -3127,7 +3127,7 @@
                 "https://huggingface.co/datasets/Strixgame/RedDead2/resolve/main/287700.zip?download=true"
             ],
             "bypass_files": [
-                "https://huggingface.co/datasets/dikiajak/fix/resolve/main/phantom%20%20pain%20fix%20v.zip?download=true"
+                "https://huggingface.co/datasets/Strixgame/RedDead2/resolve/main/phantom%20%20pain%20fix%20v_PASS.zip?download=true"
             ]
         },
         {
