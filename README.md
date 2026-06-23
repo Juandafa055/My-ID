@@ -12172,6 +12172,15 @@
                 "https://huggingface.co/datasets/Strixgame/RedDead2/resolve/main/15300.zip?download=true"
             ],
             "bypass_files": []
+        },
+        {
+            "name": "Tom Clancy's Ghost Recon Wildlands",
+            "steamAppId": 460930,
+            "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/460930/header.jpg",
+            "inject_files": [
+                "https://huggingface.co/datasets/Strixgame/RedDead2/resolve/main/460930.zip?download=true"
+            ],
+            "bypass_files": []
         }
     ]
 }
