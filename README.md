@@ -12101,6 +12101,15 @@
                 "https://huggingface.co/datasets/Strixgame/RedDead2/resolve/main/228380.zip?download=true"
             ],
             "bypass_files": []
+        },
+        {
+            "name": "Towa and the Guardians of the Sacred Tree",
+            "steamAppId": 1910090,
+            "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1910090/db4a2acab2f2ffc25a58f6da938f6c199d120209/header.jpg?t=1761269951",
+            "inject_files": [
+                "https://huggingface.co/datasets/Strixgame/RedDead2/resolve/main/1910090.zip?download=true"
+            ],
+            "bypass_files": []
         }
     ]
 }
