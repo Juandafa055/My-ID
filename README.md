@@ -271,7 +271,7 @@
             "steamAppId": 271590,
             "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/271590/header.jpg",
             "inject_files": [
-                "https://huggingface.co/datasets/Strixgame/RedDead2/resolve/main/strixGtaVAppId.zip?download=true"
+                "https://huggingface.co/datasets/Strixgame/RedDead2/resolve/main/271590.zip?download=true"
             ],
             "bypass_files": [
                 "https://huggingface.co/datasets/Strixgame/RedDead2/resolve/main/gtaVFixStrix.zip?download=true"
