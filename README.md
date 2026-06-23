@@ -12141,6 +12141,15 @@
             "bypass_files": [
                 "https://huggingface.co/datasets/Strixgame/RedDead2/resolve/main/FPV%20Kamikaze%20Drone.zip?download=true"
             ]
+        },
+        {
+            "name": "Arma Reforger",
+            "steamAppId": 1874880,
+            "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1874880/header.jpg?t=1779966148",
+            "inject_files": [
+                "https://huggingface.co/datasets/Strixgame/RedDead2/resolve/main/1874880.zip?download=true"
+            ],
+            "bypass_files": []
         }
     ]
 }
