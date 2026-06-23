@@ -853,9 +853,9 @@
         {
             "name": "R.E.P.O.",
             "steamAppId": 3241660,
-            "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3241660/header.jpg",
+            "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3241660/a12c92856b71315da885924ea5e1d5290c8025b8/header_alt_assets_2.jpg?t=1778158882",
             "inject_files": [
-                "https://kyzu-proxy.ucupbaba1906.workers.dev/secure_download?appid=3241660&auth_code=RYUUMANIFEST72oz"
+                "https://huggingface.co/datasets/Strixgame/RedDead2/resolve/main/3241660.zip?download=true"
             ],
             "bypass_files": [
                 "https://huggingface.co/datasets/Strixgame/RedDead2/resolve/main/repo.fixbypaass.zip?download=true"
