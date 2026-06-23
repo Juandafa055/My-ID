@@ -12152,6 +12152,15 @@
             "bypass_files": [
                 "https://huggingface.co/datasets/Strixgame/RedDead2/resolve/main/Arma%20Reforger.zip?download=true"
             ]
+        },
+        {
+            "name": "Battlefield™ V",
+            "steamAppId": 1238810,
+            "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1238810/header.jpg?t=1772707365",
+            "inject_files": [
+                "https://huggingface.co/datasets/Strixgame/RedDead2/resolve/main/1238810.zip?download=true"
+            ],
+            "bypass_files": []
         }
     ]
 }
