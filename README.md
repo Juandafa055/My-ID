@@ -1294,9 +1294,9 @@
         {
             "name": "TEKKEN 8",
             "steamAppId": 1778820,
-            "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1778820/header.jpg",
+            "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1778820/8518523e6bea615ba8127c6fc215fd1eac966501/header.jpg?t=1779923026",
             "inject_files": [
-                "https://kyzu-proxy.ucupbaba1906.workers.dev/secure_download?appid=1778820&auth_code=RYUUMANIFEST72oz"
+                "https://huggingface.co/datasets/Strixgame/RedDead2/resolve/main/1778820.zip?download=true"
             ],
             "bypass_files": []
         },
