@@ -4553,7 +4553,9 @@
             "inject_files": [
                 "https://huggingface.co/datasets/Strixgame/RedDead2/resolve/main/270880.zip?download=true"
             ],
-            "bypass_files": []
+            "bypass_files": [
+                "https://huggingface.co/datasets/Strixgame/RedDead2/resolve/main/American%20Truck%20Simulator.zip?download=true"
+            ]
         },
         {
             "name": "NoLimits 2 Roller Coaster Simulation",
