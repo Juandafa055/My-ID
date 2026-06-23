@@ -12138,7 +12138,9 @@
             "inject_files": [
                 "https://huggingface.co/datasets/Strixgame/RedDead2/resolve/main/2707940.zip?download=true"
             ],
-            "bypass_files": []
+            "bypass_files": [
+                "https://huggingface.co/datasets/Strixgame/RedDead2/resolve/main/FPV%20Kamikaze%20Drone.zip?download=true"
+            ]
         }
     ]
 }
