@@ -1377,9 +1377,9 @@
         {
             "name": "Tales of ARISE",
             "steamAppId": 740130,
-            "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/740130/header.jpg",
+            "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/740130/9031a1f4e34e8031118594726762d7979e43f320/header.jpg?t=1770964399",
             "inject_files": [
-                "https://kyzu-proxy.ucupbaba1906.workers.dev/secure_download?appid=740130&auth_code=RYUUMANIFEST72oz"
+                "https://huggingface.co/datasets/Strixgame/RedDead2/resolve/main/740130.zip?download=true"
             ],
             "bypass_files": []
         },
