@@ -3122,9 +3122,9 @@
         {
             "name": "METAL GEAR SOLID V: THE PHANTOM PAIN",
             "steamAppId": 287700,
-            "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/287700/header.jpg",
+            "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/287700/header.jpg?t=1778872866",
             "inject_files": [
-                "https://kyzu-proxy.ucupbaba1906.workers.dev/secure_download?appid=287700&auth_code=RYUUMANIFEST72oz"
+                "https://huggingface.co/datasets/Strixgame/RedDead2/resolve/main/287700.zip?download=true"
             ],
             "bypass_files": [
                 "https://huggingface.co/datasets/dikiajak/fix/resolve/main/phantom%20%20pain%20fix%20v.zip?download=true"
