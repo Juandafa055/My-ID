@@ -866,7 +866,7 @@
             "steamAppId": 1868140,
             "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1868140/3f5b136a2a0284a02bdc03533a4041d358c4d7b2/header_alt_assets_2.jpg?t=1781777209",
             "inject_files": [
-                "https://huggingface.co/datasets/Strixgame/RedDead2/resolve/main/1868140.zip?download=true"
+                "https://cdn.discordapp.com/ephemeral-attachments/1366804211270156298/1518954376062959747/1868140.zip?ex=6a3bcc00&is=6a3a7a80&hm=1bbd0262ca2cb050a6695401259a67f3156e2006804a810598bbb89456fb7afc&"
             ],
             "bypass_files": []
         },
