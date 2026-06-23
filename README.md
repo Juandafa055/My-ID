@@ -3023,9 +3023,9 @@
         {
             "name": "The Sims™ 3",
             "steamAppId": 47890,
-            "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/47890/header.jpg",
+            "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/47890/header.jpg?t=1738703889",
             "inject_files": [
-                "https://kyzu-proxy.ucupbaba1906.workers.dev/secure_download?appid=47890&auth_code=RYUUMANIFEST72oz"
+                "https://huggingface.co/datasets/Strixgame/RedDead2/resolve/main/47890.zip?download=true"
             ],
             "bypass_files": []
         },
