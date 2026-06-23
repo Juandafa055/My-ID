@@ -4868,9 +4868,9 @@
         {
             "name": "Uncrashed : FPV Drone Simulator",
             "steamAppId": 1682970,
-            "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1682970/header.jpg",
+            "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1682970/header.jpg?t=1779749695",
             "inject_files": [
-                "https://kyzu-proxy.ucupbaba1906.workers.dev/secure_download?appid=1682970&auth_code=RYUUMANIFEST72oz"
+                "https://huggingface.co/datasets/Strixgame/RedDead2/resolve/main/1682970.zip?download=true"
             ],
             "bypass_files": []
         },
