@@ -2195,9 +2195,9 @@
         {
             "name": "HumanitZ",
             "steamAppId": 1766060,
-            "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1766060/header.jpg",
+            "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1766060/f6d26a2b241d9cb955c735738d45e5a6d4d78c25/header.jpg?t=1770400758",
             "inject_files": [
-                "https://kyzu-proxy.ucupbaba1906.workers.dev/secure_download?appid=1766060&auth_code=RYUUMANIFEST72oz"
+                "https://huggingface.co/datasets/Strixgame/RedDead2/resolve/main/1766060.zip?download=true"
             ],
             "bypass_files": []
         },
