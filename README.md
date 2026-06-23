@@ -12163,6 +12163,15 @@
             "bypass_files": [
                 "https://huggingface.co/datasets/Strixgame/RedDead2/resolve/main/Battlefield%20V.zip?download=true"
             ]
+        },
+        {
+            "name": "Tom Clancy's Ghost Recon®",
+            "steamAppId": 15300,
+            "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/15300/header.jpg?t=1764776400",
+            "inject_files": [
+                "https://huggingface.co/datasets/Strixgame/RedDead2/resolve/main/15300.zip?download=true"
+            ],
+            "bypass_files": []
         }
     ]
 }
