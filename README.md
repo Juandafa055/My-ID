@@ -3576,11 +3576,11 @@
             "bypass_files": []
         },
         {
-            "name": "The Sims™ 4",
+            "name": "The Sims 4",
             "steamAppId": 1222670,
             "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1222670/header.jpg",
             "inject_files": [
-                "https://drive.google.com/file/d/11z9BhEs_ZGA6JyJSsjjYBS3qEFkfP6Y9/view?usp=sharing"
+                "https://huggingface.co/datasets/Strixgame/RedDead2/resolve/main/1222670.zip?download=true"
             ],
             "bypass_files": [
                 "https://huggingface.co/datasets/Strixgame/RedDead2/resolve/main/thesims4.zip?download=true"
