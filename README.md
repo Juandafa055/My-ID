@@ -12201,6 +12201,15 @@
                 "https://huggingface.co/datasets/Strixgame/RedDead2/resolve/main/541210.zip?download=true"
             ],
             "bypass_files": []
+        },
+        {
+            "name": "Schrödinger's Call",
+            "steamAppId": 2090390,
+            "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2090390/header.jpg",
+            "inject_files": [
+                "https://huggingface.co/datasets/Strixgame/RedDead2/resolve/main/2090390.zip?download=true"
+            ],
+            "bypass_files": []
         }
     ]
 }
