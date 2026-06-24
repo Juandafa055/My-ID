@@ -5679,7 +5679,7 @@
         {
             "name": "DELTARUNE",
             "steamAppId": 1671210,
-            "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1671210/7ccda5b1631d2e60cc756a3271e845dbb9168821/header.jpg?t=1749252480",
+            "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1671210/header.jpg",
             "inject_files": [
                 "https://huggingface.co/datasets/Strixgame/RedDead2/resolve/main/1671210.zip?download=true"
             ],
