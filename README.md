@@ -12192,6 +12192,15 @@
                 "https://huggingface.co/datasets/Strixgame/RedDead2/resolve/main/1543280.zip?download=true"
             ],
             "bypass_files": []
+        },
+        {
+            "name": "Cold Waters",
+            "steamAppId": 541210,
+            "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/541210/header.jpg",
+            "inject_files": [
+                "https://huggingface.co/datasets/Strixgame/RedDead2/resolve/main/541210.zip?download=true"
+            ],
+            "bypass_files": []
         }
     ]
 }
