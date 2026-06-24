@@ -12125,7 +12125,7 @@
         {
             "name": "Stellaris",
             "steamAppId": 281990,
-            "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/281990/521716e888b3d7815dd340e00856f0b549b6a9c7/header_alt_assets_12.jpg?t=1782139685",
+            "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/281990/header.jpg",
             "inject_files": [
                 "https://huggingface.co/datasets/Strixgame/RedDead2/resolve/main/281990.zip?download=true"
             ],
