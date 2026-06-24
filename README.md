@@ -2359,11 +2359,11 @@
             "bypass_files": []
         },
         {
-            "name": "Mortal Kombat 11",
+            "name": "Mortal Kombat 11",
             "steamAppId": 976310,
             "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/976310/header.jpg",
             "inject_files": [
-                "https://kyzu-proxy.ucupbaba1906.workers.dev/secure_download?appid=976310&auth_code=RYUUMANIFEST72oz"
+                "https://huggingface.co/datasets/Strixgame/RedDead2/resolve/main/976310.zip?download=true"
             ],
             "bypass_files": []
         },
