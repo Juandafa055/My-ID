@@ -12183,6 +12183,15 @@
             "bypass_files": [
                 "https://huggingface.co/datasets/Strixgame/RedDead2/resolve/main/Tom%20Clancy%27s%20Ghost%20Recon%20Wildlands.zip?download=true"
             ]
+        },
+        {
+            "name": "Espresso Tycoon",
+            "steamAppId": 1543280,
+            "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1543280/header.jpg",
+            "inject_files": [
+                "https://huggingface.co/datasets/Strixgame/RedDead2/resolve/main/1543280.zip?download=true"
+            ],
+            "bypass_files": []
         }
     ]
 }
