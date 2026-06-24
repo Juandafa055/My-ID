@@ -12210,6 +12210,15 @@
                 "https://huggingface.co/datasets/Strixgame/RedDead2/resolve/main/2090390.zip?download=true"
             ],
             "bypass_files": []
+        },
+        {
+            "name": "Green Hell",
+            "steamAppId": 815370,
+            "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/815370/header.jpg",
+            "inject_files": [
+                "https://huggingface.co/datasets/Strixgame/RedDead2/resolve/main/815370.zip?download=true"
+            ],
+            "bypass_files": []
         }
     ]
 }
