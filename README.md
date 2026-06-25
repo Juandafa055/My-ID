@@ -3021,9 +3021,9 @@
             "bypass_files": []
         },
         {
-            "name": "The Sims™ 3",
+            "name": "The Sims 3",
             "steamAppId": 47890,
-            "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/47890/header.jpg?t=1738703889",
+            "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/47890/header.jpg",
             "inject_files": [
                 "https://huggingface.co/datasets/Strixgame/RedDead2/resolve/main/47890.zip?download=true"
             ],
