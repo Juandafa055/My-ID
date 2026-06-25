@@ -5850,11 +5850,11 @@
             "bypass_files": []
         },
         {
-            "name": "STAR WARS Jedi: Fallen Order™",
+            "name": "STAR WARS Jedi: Fallen Order",
             "steamAppId": 1172380,
             "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1172380/header.jpg",
             "inject_files": [
-                "https://kyzu-proxy.ucupbaba1906.workers.dev/secure_download?appid=1172380&auth_code=RYUUMANIFEST72oz"
+                "https://huggingface.co/datasets/Strixgame/RedDead2/resolve/main/1172380.zip?download=true"
             ],
             "bypass_files": [
                 "https://huggingface.co/datasets/dikiajak/fix/resolve/main/FIX_fallen_order.zip?download=true"
