@@ -2195,7 +2195,7 @@
         {
             "name": "HumanitZ",
             "steamAppId": 1766060,
-            "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1766060/f6d26a2b241d9cb955c735738d45e5a6d4d78c25/header.jpg?t=1770400758",
+            "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1766060/header.jpg",
             "inject_files": [
                 "https://huggingface.co/datasets/Strixgame/RedDead2/resolve/main/1766060.zip?download=true"
             ],
