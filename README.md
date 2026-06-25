@@ -12264,6 +12264,15 @@
                 "https://huggingface.co/datasets/Strixgame/RedDead2/resolve/main/2378900.zip?download=true"
             ],
             "bypass_files": []
+        },
+        {
+            "name": "Broken Arrow",
+            "steamAppId": 1604270,
+            "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1604270/header.jpg",
+            "inject_files": [
+                "https://huggingface.co/datasets/Strixgame/RedDead2/resolve/main/1604270.zip?download=true"
+            ],
+            "bypass_files": []
         }
     ]
 }
