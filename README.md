@@ -1139,7 +1139,7 @@
             "steamAppId": 1602000,
             "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1602000/header.jpg",
             "inject_files": [
-                "https://huggingface.co/datasets/Strixgame/RedDead2/resolve/main/1602000%28V1%29.zip?download=true"
+                "https://huggingface.co/datasets/Strixgame/RedDead2/resolve/main/1602000.zip?download=true"
             ],
             "bypass_files": []
         },
