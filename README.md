@@ -1545,7 +1545,7 @@
         {
             "name": "SnowRunner",
             "steamAppId": 1465360,
-            "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1465360/header.jpg?t=1773915366",
+            "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1465360/header.jpg",
             "inject_files": [
                 "https://huggingface.co/datasets/Strixgame/RedDead2/resolve/main/1465360.zip?download=true"
             ],
