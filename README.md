@@ -1570,11 +1570,11 @@
             "bypass_files": []
         },
         {
-            "name": "KuloNiku: Bowl Up!",
+            "name": "KuloNiku",
             "steamAppId": 3357960,
             "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3357960/header.jpg",
             "inject_files": [
-                "https://kyzu-proxy.ucupbaba1906.workers.dev/secure_download?appid=3357960&auth_code=RYUUMANIFEST72oz"
+                "https://huggingface.co/datasets/Strixgame/RedDead2/resolve/main/3357960.zip?download=true"
             ],
             "bypass_files": []
         },
