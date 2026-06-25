@@ -23,9 +23,9 @@
         {
             "name": "Attack on Titan 2 - A.O.T.2",
             "steamAppId": 601050,
-            "header": "null",
+            "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/601050/header.jpg",
             "inject_files": [
-                "https://drive.google.com/file/d/1qbuWvXA5aDUghFsoXq8-d18XkJuLAouq/view?usp=drivesdk"
+                "https://huggingface.co/datasets/Strixgame/RedDead2/resolve/main/601050.zip?download=true"
             ],
             "bypass_files": []
         },
