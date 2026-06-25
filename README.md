@@ -12219,6 +12219,15 @@
                 "https://huggingface.co/datasets/Strixgame/RedDead2/resolve/main/815370.zip?download=true"
             ],
             "bypass_files": []
+        },
+        {
+            "name": "İblis3:Phenomena",
+            "steamAppId": 3772080,
+            "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3772080/header.jpg",
+            "inject_files": [
+                "https://huggingface.co/datasets/Strixgame/RedDead2/resolve/main/3772080.zip?download=true"
+            ],
+            "bypass_files": []
         }
     ]
 }
