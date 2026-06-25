@@ -12255,6 +12255,15 @@
                 "https://huggingface.co/datasets/Strixgame/RedDead2/resolve/main/1196630.zip?download=true"
             ],
             "bypass_files": []
+        },
+        {
+            "name": "The Coffin of Andy and Leyley",
+            "steamAppId": 2378900,
+            "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2378900/header.jpg",
+            "inject_files": [
+                "https://huggingface.co/datasets/Strixgame/RedDead2/resolve/main/2378900.zip?download=true"
+            ],
+            "bypass_files": []
         }
     ]
 }
