@@ -12237,6 +12237,15 @@
                 "https://huggingface.co/datasets/Strixgame/RedDead2/resolve/main/2742280.zip?download=true"
             ],
             "bypass_files": []
+        },
+        {
+            "name": "Game_1948980",
+            "steamAppId": 1948980,
+            "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1948980/header.jpg",
+            "inject_files": [
+                "https://huggingface.co/datasets/Strixgame/RedDead2/resolve/main/1948980.zip?download=true"
+            ],
+            "bypass_files": []
         }
     ]
 }
