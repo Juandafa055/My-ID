@@ -12228,6 +12228,15 @@
                 "https://huggingface.co/datasets/Strixgame/RedDead2/resolve/main/3772080.zip?download=true"
             ],
             "bypass_files": []
+        },
+        {
+            "name": "Fantasista Asuka",
+            "steamAppId": 2742280,
+            "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2742280/header.jpg",
+            "inject_files": [
+                "https://huggingface.co/datasets/Strixgame/RedDead2/resolve/main/2742280.zip?download=true"
+            ],
+            "bypass_files": []
         }
     ]
 }
