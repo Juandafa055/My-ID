@@ -12246,6 +12246,15 @@
                 "https://huggingface.co/datasets/Strixgame/RedDead2/resolve/main/1948980.zip?download=true"
             ],
             "bypass_files": []
+        },
+        {
+            "name": "Nexomon: Extinction",
+            "steamAppId": 1196630,
+            "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1196630/header.jpg",
+            "inject_files": [
+                "https://huggingface.co/datasets/Strixgame/RedDead2/resolve/main/1196630.zip?download=true"
+            ],
+            "bypass_files": []
         }
     ]
 }
