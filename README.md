@@ -12282,6 +12282,15 @@
                 "https://huggingface.co/datasets/Strixgame/RedDead2/resolve/main/1001270.zip?download=true"
             ],
             "bypass_files": []
+        },
+        {
+            "name": "Resident Evil 4 (2005)",
+            "steamAppId": 254700,
+            "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/254700/header.jpg",
+            "inject_files": [
+                "https://huggingface.co/datasets/Strixgame/RedDead2/resolve/main/254700.zip?download=true"
+            ],
+            "bypass_files": []
         }
     ]
 }
