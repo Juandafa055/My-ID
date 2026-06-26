@@ -12293,7 +12293,7 @@
             "bypass_files": []
         },
         {
-            "name": "Koibito No Nazo",
+            "name": "Lovers_Enigma",
             "steamAppId": 3123540,
             "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3123540/header.jpg",
             "inject_files": [
