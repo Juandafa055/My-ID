@@ -3994,7 +3994,7 @@
         {
             "name": "Into the Dead: Our Darkest Days",
             "steamAppId": 2239710,
-            "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2239710/7b0a688bc97be91cb9df160f7ab3d58d2e5e7e74/header.jpg?t=1780361745",
+            "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2239710/header.jpg",
             "inject_files": [
                 "https://huggingface.co/datasets/Strixgame/RedDead2/resolve/main/2239710.zip?download=true"
             ],
