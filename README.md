@@ -12300,6 +12300,15 @@
                 "https://huggingface.co/datasets/Strixgame/RedDead2/resolve/main/3123540.zip?download=true"
             ],
             "bypass_files": []
+        },
+        {
+            "name": "Emergency Call 112 - The Attack Squad",
+            "steamAppId": 2482200,
+            "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2482200/header.jpg",
+            "inject_files": [
+                "https://huggingface.co/datasets/Strixgame/RedDead2/resolve/main/2482200.zip?download=true"
+            ],
+            "bypass_files": []
         }
     ]
 }
