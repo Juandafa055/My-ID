@@ -3760,7 +3760,7 @@
         {
             "name": "Pure Badminton",
             "steamAppId": 2591310,
-            "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2591310/4e85d52fc3cb6acaac03c264c88f757fef01a226/header.jpg?t=1778241954",
+            "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2591310/header.jpg",
             "inject_files": [
                 "https://huggingface.co/datasets/Strixgame/RedDead2/resolve/main/2591310.zip?download=true"
             ],
