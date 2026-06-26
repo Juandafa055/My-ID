@@ -12309,6 +12309,15 @@
                 "https://huggingface.co/datasets/Strixgame/RedDead2/resolve/main/2482200.zip?download=true"
             ],
             "bypass_files": []
+        },
+        {
+            "name": "DJMAX RESPECT V",
+            "steamAppId": 960170,
+            "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/960170/header.jpg",
+            "inject_files": [
+                "https://huggingface.co/datasets/Strixgame/RedDead2/resolve/main/960170.zip?download=true"
+            ],
+            "bypass_files": []
         }
     ]
 }
