@@ -12291,6 +12291,15 @@
                 "https://huggingface.co/datasets/Strixgame/RedDead2/resolve/main/254700.zip?download=true"
             ],
             "bypass_files": []
+        },
+        {
+            "name": "Koibito No Nazo",
+            "steamAppId": 3123540,
+            "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3123540/header.jpg",
+            "inject_files": [
+                "https://huggingface.co/datasets/Strixgame/RedDead2/resolve/main/3123540.zip?download=true"
+            ],
+            "bypass_files": []
         }
     ]
 }
