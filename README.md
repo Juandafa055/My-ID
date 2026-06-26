@@ -12318,6 +12318,15 @@
                 "https://huggingface.co/datasets/Strixgame/RedDead2/resolve/main/960170.zip?download=true"
             ],
             "bypass_files": []
+        },
+        {
+            "name": "LEGO STAR WARS: The Force Awakens",
+            "steamAppId": 438640,
+            "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/438640/header.jpg",
+            "inject_files": [
+                "https://huggingface.co/datasets/Strixgame/RedDead2/resolve/main/438640.zip?download=true"
+            ],
+            "bypass_files": []
         }
     ]
 }
