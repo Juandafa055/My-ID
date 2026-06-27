@@ -12392,6 +12392,15 @@
                 "https://huggingface.co/datasets/Strixgame/RedDead2/resolve/main/2458860.zip?download=true"
             ],
             "bypass_files": []
+        },
+        {
+            "name": "SPITE: Taking the Boss's Wife, Sister and Mother",
+            "steamAppId": 4242290,
+            "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4242290/header.jpg",
+            "inject_files": [
+                "https://huggingface.co/datasets/Strixgame/RedDead2/resolve/main/4242290.zip?download=true"
+            ],
+            "bypass_files": []
         }
     ]
 }
