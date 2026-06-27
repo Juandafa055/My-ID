@@ -1511,7 +1511,9 @@
             "inject_files": [
                 "https://huggingface.co/datasets/Strixgame/RedDead2/resolve/main/1426210.zip?download=true"
             ],
-            "bypass_files": []
+            "bypass_files": [
+                "https://huggingface.co/datasets/Strixgame/RedDead2/resolve/main/It%20Takes%20Two.zip?download=true"
+            ]
         },
         {
             "name": "SILENT HILL 2",
