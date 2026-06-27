@@ -12354,6 +12354,15 @@
                 "https://huggingface.co/datasets/Strixgame/RedDead2/resolve/main/332800.zip?download=true"
             ],
             "bypass_files": []
+        },
+        {
+            "name": "Tamer: King of Dinosaurs",
+            "steamAppId": 3026730,
+            "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3026730/header.jpg",
+            "inject_files": [
+                "https://huggingface.co/datasets/Strixgame/RedDead2/resolve/main/3026730.zip?download=true"
+            ],
+            "bypass_files": []
         }
     ]
 }
