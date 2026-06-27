@@ -5603,11 +5603,11 @@
             "bypass_files": []
         },
         {
-            "name": "LEGO® Marvel Super Heroes 2",
+            "name": "LEGO MARVEL Super Heroes 2",
             "steamAppId": 647830,
             "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/647830/header.jpg",
             "inject_files": [
-                "https://kyzu-proxy.ucupbaba1906.workers.dev/secure_download?appid=647830&auth_code=RYUUMANIFEST72oz"
+                "https://huggingface.co/datasets/Strixgame/RedDead2/resolve/main/647830.zip?download=true"
             ],
             "bypass_files": []
         },
