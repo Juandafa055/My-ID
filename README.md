@@ -4176,7 +4176,7 @@
         {
             "name": "Persona 5 Royal",
             "steamAppId": 1687950,
-            "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1687950/header.jpg?t=1779145087",
+            "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1687950/header.jpg",
             "inject_files": [
                 "https://huggingface.co/datasets/Strixgame/RedDead2/resolve/main/1687950.zip?download=true"
             ],
