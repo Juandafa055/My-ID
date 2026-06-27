@@ -229,11 +229,11 @@
             "bypass_files": []
         },
         {
-            "name": "Call of Duty®: WWII",
+            "name": "Call of Duty: WWII",
             "steamAppId": 476600,
             "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/476600/header.jpg",
             "inject_files": [
-                "https://kyzu-proxy.ucupbaba1906.workers.dev/secure_download?appid=476600&auth_code=RYUUMANIFEST72oz"
+                "https://huggingface.co/datasets/Strixgame/RedDead2/resolve/main/476600.zip?download=true"
             ],
             "bypass_files": []
         },
