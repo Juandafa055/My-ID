@@ -12336,6 +12336,15 @@
                 "https://huggingface.co/datasets/Strixgame/RedDead2/resolve/main/3041230.zip?download=true"
             ],
             "bypass_files": []
+        },
+        {
+            "name": "Just Cause 2",
+            "steamAppId": 8190,
+            "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/8190/header.jpg",
+            "inject_files": [
+                "https://huggingface.co/datasets/Strixgame/RedDead2/resolve/main/8190.zip?download=true"
+            ],
+            "bypass_files": []
         }
     ]
 }
