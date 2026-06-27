@@ -3589,11 +3589,11 @@
             ]
         },
         {
-            "name": "[Chilla's Art] The Convenience Store",
+            "name": "The Convenience Store |",
             "steamAppId": 1228520,
             "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1228520/header.jpg",
             "inject_files": [
-                "https://kyzu-proxy.ucupbaba1906.workers.dev/secure_download?appid=1228520&auth_code=RYUUMANIFEST72oz"
+                "https://huggingface.co/datasets/Strixgame/RedDead2/resolve/main/1228520.zip?download=true"
             ],
             "bypass_files": []
         },
