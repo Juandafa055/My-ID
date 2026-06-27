@@ -3713,11 +3713,11 @@
             "bypass_files": []
         },
         {
-            "name": "Call of the Wild: The Angler™",
+            "name": "Call of the Wild: The Angler",
             "steamAppId": 1408610,
             "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1408610/header.jpg",
             "inject_files": [
-                "https://kyzu-proxy.ucupbaba1906.workers.dev/secure_download?appid=1408610&auth_code=RYUUMANIFEST72oz"
+                "https://huggingface.co/datasets/Strixgame/RedDead2/resolve/main/1408610.zip?download=true"
             ],
             "bypass_files": []
         },
