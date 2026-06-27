@@ -12401,6 +12401,15 @@
                 "https://huggingface.co/datasets/Strixgame/RedDead2/resolve/main/4242290.zip?download=true"
             ],
             "bypass_files": []
+        },
+        {
+            "name": "Nioh 3",
+            "steamAppId": 3681010,
+            "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3681010/header.jpg",
+            "inject_files": [
+                "https://huggingface.co/datasets/Strixgame/RedDead2/resolve/main/3681010.zip?download=true"
+            ],
+            "bypass_files": []
         }
     ]
 }
