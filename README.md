@@ -9275,7 +9275,7 @@
             "bypass_files": []
         },
         {
-            "name": "Solarpunk™",
+            "name": "Solarpunk",
             "steamAppId": 1805110,
             "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1805110/header.jpg",
             "inject_files": [
