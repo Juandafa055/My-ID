@@ -8088,15 +8088,6 @@
             ]
         },
         {
-            "name": "Sonic Racing: CrossWorlds",
-            "steamAppId": 2486820,
-            "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2486820/header.jpg",
-            "inject_files": [
-                "https://huggingface.co/datasets/Strixgame/RedDead2/resolve/main/2486820.zip?download=true"
-            ],
-            "bypass_files": []
-        },
-        {
             "name": "Class of '09",
             "steamAppId": 1443200,
             "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1443200/header.jpg",
