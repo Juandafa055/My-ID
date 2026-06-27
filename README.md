@@ -12327,6 +12327,15 @@
                 "https://huggingface.co/datasets/Strixgame/RedDead2/resolve/main/438640.zip?download=true"
             ],
             "bypass_files": []
+        },
+        {
+            "name": "Windrose",
+            "steamAppId": 3041230,
+            "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3041230/header.jpg",
+            "inject_files": [
+                "https://huggingface.co/datasets/Strixgame/RedDead2/resolve/main/3041230.zip?download=true"
+            ],
+            "bypass_files": []
         }
     ]
 }
