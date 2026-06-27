@@ -12383,6 +12383,15 @@
                 "https://huggingface.co/datasets/Strixgame/RedDead2/resolve/main/3576350.zip?download=true"
             ],
             "bypass_files": []
+        },
+        {
+            "name": "Summer Clover",
+            "steamAppId": 2458860,
+            "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2458860/header.jpg",
+            "inject_files": [
+                "https://huggingface.co/datasets/Strixgame/RedDead2/resolve/main/2458860.zip?download=true"
+            ],
+            "bypass_files": []
         }
     ]
 }
