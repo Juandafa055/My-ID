@@ -12345,6 +12345,15 @@
                 "https://huggingface.co/datasets/Strixgame/RedDead2/resolve/main/8190.zip?download=true"
             ],
             "bypass_files": []
+        },
+        {
+            "name": "Five Nights at Freddy's 2",
+            "steamAppId": 332800,
+            "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/332800/header.jpg",
+            "inject_files": [
+                "https://huggingface.co/datasets/Strixgame/RedDead2/resolve/main/332800.zip?download=true"
+            ],
+            "bypass_files": []
         }
     ]
 }
