@@ -12363,6 +12363,15 @@
                 "https://huggingface.co/datasets/Strixgame/RedDead2/resolve/main/3026730.zip?download=true"
             ],
             "bypass_files": []
+        },
+        {
+            "name": "Slay the Princess  The Pristine Cut",
+            "steamAppId": 1989270,
+            "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1989270/header.jpg",
+            "inject_files": [
+                "https://huggingface.co/datasets/Strixgame/RedDead2/resolve/main/1989270.zip?download=true"
+            ],
+            "bypass_files": []
         }
     ]
 }
