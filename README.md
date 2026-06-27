@@ -12374,6 +12374,15 @@
                 "https://huggingface.co/datasets/Strixgame/RedDead2/resolve/main/415200.zip?download=true"
             ],
             "bypass_files": []
+        },
+        {
+            "name": "Sex, Secrets & Used Tech",
+            "steamAppId": 3576350,
+            "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3576350/header.jpg",
+            "inject_files": [
+                "https://huggingface.co/datasets/Strixgame/RedDead2/resolve/main/3576350.zip?download=true"
+            ],
+            "bypass_files": []
         }
     ]
 }
