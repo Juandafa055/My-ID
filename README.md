@@ -7304,11 +7304,11 @@
             "bypass_files": []
         },
         {
-            "name": "Prototype™",
+            "name": "Prototype",
             "steamAppId": 10150,
             "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/10150/header.jpg",
             "inject_files": [
-                "https://kyzu-proxy.ucupbaba1906.workers.dev/secure_download?appid=10150&auth_code=RYUUMANIFEST72oz"
+                "https://huggingface.co/datasets/Strixgame/RedDead2/resolve/main/10150.zip?download=true"
             ],
             "bypass_files": []
         },
