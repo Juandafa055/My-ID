@@ -12428,6 +12428,15 @@
                 "https://huggingface.co/datasets/Strixgame/RedDead2/resolve/main/1154030.zip?download=true"
             ],
             "bypass_files": []
+        },
+        {
+            "name": "Solo Leveling: ARISE OVERDRIVE",
+            "steamAppId": 2373990,
+            "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2373990/header.jpg",
+            "inject_files": [
+                "https://huggingface.co/datasets/Strixgame/RedDead2/resolve/main/2373990.zip?download=true"
+            ],
+            "bypass_files": []
         }
     ]
 }
