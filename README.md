@@ -12410,6 +12410,15 @@
                 "https://huggingface.co/datasets/Strixgame/RedDead2/resolve/main/3681010.zip?download=true"
             ],
             "bypass_files": []
+        },
+        {
+            "name": "1998: The Toll Keeper Story",
+            "steamAppId": 3273530,
+            "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3273530/header.jpg",
+            "inject_files": [
+                "https://huggingface.co/datasets/Strixgame/RedDead2/resolve/main/3273530.zip?download=true"
+            ],
+            "bypass_files": []
         }
     ]
 }
