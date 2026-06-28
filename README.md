@@ -12439,6 +12439,15 @@
             "bypass_files": [
                 "https://huggingface.co/datasets/Strixgame/RedDead2/resolve/main/Solo_Leveling_ARISE_OVERDRIVE.zip?download=true"
             ]
+        },
+        {
+            "name": "The Adventures of HILLS",
+            "steamAppId": 2859100,
+            "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2859100/header.jpg",
+            "inject_files": [
+                "https://huggingface.co/datasets/Strixgame/RedDead2/resolve/main/2859100.zip?download=true"
+            ],
+            "bypass_files": []
         }
     ]
 }
