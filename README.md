@@ -12419,6 +12419,15 @@
                 "https://huggingface.co/datasets/Strixgame/RedDead2/resolve/main/3273530.zip?download=true"
             ],
             "bypass_files": []
+        },
+        {
+            "name": "Titan Quest II",
+            "steamAppId": 1154030,
+            "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1154030/header.jpg",
+            "inject_files": [
+                "https://huggingface.co/datasets/Strixgame/RedDead2/resolve/main/1154030.zip?download=true"
+            ],
+            "bypass_files": []
         }
     ]
 }
