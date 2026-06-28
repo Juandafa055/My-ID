@@ -6741,7 +6741,7 @@
             "steamAppId": 4216650,
             "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4216650/header.jpg",
             "inject_files": [
-                "https://drive.google.com/file/d/19E4e58gK9qe2xyL_cq2cdZbHnaxWvqjv/view?usp=sharing"
+                "https://huggingface.co/datasets/Strixgame/RedDead2/resolve/main/4216650.zip?download=true"
             ],
             "bypass_files": []
         },
