@@ -12436,7 +12436,9 @@
             "inject_files": [
                 "https://huggingface.co/datasets/Strixgame/RedDead2/resolve/main/2373990.zip?download=true"
             ],
-            "bypass_files": []
+            "bypass_files": [
+                "https://huggingface.co/datasets/Strixgame/RedDead2/resolve/main/Solo_Leveling_ARISE_OVERDRIVE.zip?download=true"
+            ]
         }
     ]
 }
