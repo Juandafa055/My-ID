@@ -12457,6 +12457,15 @@
                 "https://huggingface.co/datasets/Strixgame/RedDead2/resolve/main/319630.zip?download=true"
             ],
             "bypass_files": []
+        },
+        {
+            "name": "Just Cause 4",
+            "steamAppId": 517630,
+            "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/517630/header.jpg",
+            "inject_files": [
+                "https://huggingface.co/datasets/Strixgame/RedDead2/resolve/main/517630.zip?download=true"
+            ],
+            "bypass_files": []
         }
     ]
 }
