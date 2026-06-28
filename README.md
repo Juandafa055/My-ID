@@ -1456,7 +1456,7 @@
                 "https://huggingface.co/datasets/Strixgame/RedDead2/resolve/main/2358720.zip?download=true"
             ],
             "bypass_files": [
-                "https://huggingface.co/datasets/Strixgame/RedDead2/resolve/main/voices38.zip?download=true"
+                "https://huggingface.co/datasets/Strixgame/RedDead2/resolve/main/Black.Myth.Wukong.Crack.Only-voices38.zip?download=true"
             ]
         },
         {
