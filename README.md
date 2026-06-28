@@ -12448,6 +12448,15 @@
                 "https://huggingface.co/datasets/Strixgame/RedDead2/resolve/main/2859100.zip?download=true"
             ],
             "bypass_files": []
+        },
+        {
+            "name": "Life is Strange",
+            "steamAppId": 319630,
+            "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/319630/header.jpg",
+            "inject_files": [
+                "https://huggingface.co/datasets/Strixgame/RedDead2/resolve/main/319630.zip?download=true"
+            ],
+            "bypass_files": []
         }
     ]
 }
